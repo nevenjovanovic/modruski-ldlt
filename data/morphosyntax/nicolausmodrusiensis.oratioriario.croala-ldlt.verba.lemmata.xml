@@ -347,57 +347,57 @@
           <w n="w43" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s5">
-          <w n="w1" lemma="absum" ana="v3spsa---">Absit</w>
+          <w n="w1" lemma="absum" lemmaRef="87040" ana="v3spsa---">Absit</w>
           <w n="w2" lemma="vero" ana="d-------p">uero</w>
           <w n="w3" lemma="invidia" ana="n-s---fn-">inuidia</w>
           <w n="w4" lemma="et" ana="c--------">et</w>
           <w n="w5" lemma="livor" ana="n-s---mn-">liuor</w>
           <w n="w6" lemma="edax" ana="a-s---mn-">edax</w>
-          <w n="w7" lemma="saltem" ana="d--------">saltem</w>
-          <w n="w8" lemma="parco" ana="v3spsa---">parcat</w>
-          <w n="w9" lemma="cinis" ana="n-p---md-">cineribus</w>
+          <w n="w7" lemma="saltem" lemmaRef="123252" ana="d--------">saltem</w>
+          <w n="w8" lemma="parco" lemmaRef="116001" ana="v3spsa---">parcat</w>
+          <w n="w9" lemma="cinis" lemmaRef="94017" ana="n-p---md-">cineribus</w>
           <w n="w10" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s6">
-          <w n="w1" lemma="exstinguo" ana="v-srppmnp">Extinctus</w>
-          <w n="w2" lemma="jaceo" ana="v3spia---">iacet</w>
+          <w n="w1" lemma="exstinguo" lemmaRef="102356" ana="v-srppmnp">Extinctus</w>
+          <w n="w2" lemma="jaceo" lemmaRef="106000" ana="v3spia---">iacet</w>
           <w n="w3" lemma="bonus" ana="a-p---fgs">optimarum</w>
-          <w n="w4" lemma="ars" ana="n-p---fg-">artium</w>
+          <w n="w4" lemma="ars" lemmaRef="90089" ana="n-p---fg-">artium</w>
           <w n="w5" lemma="deditus" ana="a-s---mns">deditissimus</w>
           <w n="w6" lemma="amator" ana="n-s---mn-">amator</w>
           <w n="w7" lemma="punc1" ana="u--------">;</w>
-          <w n="w8" lemma="intereo" ana="v3sria---">interiit</w>
+          <w n="w8" lemma="intereo" lemmaRef="108458" ana="v3sria---">interiit</w>
           <w n="w9" lemma="omnis" lemmaRef="114954" ana="a-p---mg-">omnium</w>
-          <w n="w10" lemma="studiosi" ana="n-p---mg-">studiosorum</w>
-          <w n="w11" lemma="praecipuus" ana="a-s---mn-">praecipuus</w>
-          <w n="w12" lemma="fautor" ana="n-s---mn-">fautor</w>
+          <w n="w10" lemma="studiosus" lemmaRef="125888" ana="n-p---mg-">studiosorum</w>
+          <w n="w11" lemma="praecipuus" lemmaRef="118741" ana="a-s---mn-">praecipuus</w>
+          <w n="w12" lemma="fautor" lemmaRef="103027" ana="n-s---mn-">fautor</w>
           <w n="w13" lemma="punc1" ana="u--------">,</w>
-          <w n="w14" lemma="cultor" ana="n-s---mn-">cultor</w>
+          <w n="w14" lemma="cultor" lemmaRef="97195" ana="n-s---mn-">cultor</w>
           <w n="w15" lemma="bonus" ana="a-p---mg-">bonorum</w>
           <w n="w16" lemma="punc1" ana="u--------">,</w>
           <w n="w17" lemma="curia" ana="n-s---fg-">curiae</w>
           <w n="w18" lemma="splendor" lemmaRef="125427" ana="n-s---mn-">splendor</w>
           <w n="w19" lemma="punc1" ana="u--------">,</w>
-          <w n="w20" lemma="ornamentum" ana="n-s---nn-">ornamentum</w>
+          <w n="w20" lemma="ornamentum" lemmaRef="115271" ana="n-s---nn-">ornamentum</w>
           <w n="w21" lemma="civitas" ana="n-s---fg-">ciuitatis</w>
           <w n="w22" lemma="punc1" ana="u--------">,</w>
           <w n="w23" lemma="et" ana="c--------">et</w>
           <w n="w24" lemma="hic" lemmaRef="105455" ana="p-s---fg-">huius</w>
           <w n="w25" lemma="urbs" ana="n-s---fg-">urbis</w>
-          <w n="w26" lemma="diligens" ana="a-s---mns">diligentissimus</w>
-          <w n="w27" lemma="restaurator" ana="n-s---mn-">restaurator</w>
+          <w n="w26" lemma="diligens" lemmaRef="12447" ana="a-s---mns">diligentissimus</w>
+          <w n="w27" lemma="restaurator" lemmaRef="121913" ana="n-s---mn-">restaurator</w>
           <w n="w28" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s7">
-          <w n="w1" lemma="corruo" ana="v3spia---">Corruit</w>
-          <w n="w2" lemma="praeclarus" ana="a-s---nn-">praeclarum</w>
-          <w n="w3" lemma="magnanimitas" ana="n-s---fg-">magnanimitatis</w>
-          <w n="w4" lemma="exemplar" ana="n-s---nn-">exemplar</w>
+          <w n="w1" lemma="corruo" lemmaRef="96707" ana="v3spia---">Corruit</w>
+          <w n="w2" lemma="praeclarus" lemmaRef="118752" ana="a-s---nn-">praeclarum</w>
+          <w n="w3" lemma="magnanimitas" lemmaRef="111295" ana="n-s---fg-">magnanimitatis</w>
+          <w n="w4" lemma="exemplar" lemmaRef="101972" ana="n-s---nn-">exemplar</w>
           <w n="w5" lemma="punc1" ana="u--------">,</w>
-          <w n="w6" lemma="cado" ana="v3sria---">cecidit</w>
-          <w n="w7" lemma="munificentia" ana="n-s---fg-">munificentiae</w>
+          <w n="w6" lemma="cado" lemmaRef="92179" ana="v3sria---">cecidit</w>
+          <w n="w7" lemma="munificentia" lemmaRef="113047" ana="n-s---fg-">munificentiae</w>
           <w n="w8" lemma="punc1" ana="u--------">,</w>
-          <w n="w9" lemma="gratitudo" ana="n-s---fg-">gratitudinis</w>
+          <w n="w9" lemma="gratitudo" lemmaRef="136171" ana="n-s---fg-">gratitudinis</w>
           <w n="w10" lemma="punc1" ana="u--------">,</w>
           <w n="w11" lemma="et" ana="c--------">et</w>
           <w n="w12" lemma="totus1" ana="a-s---fg-">totius</w>
@@ -409,53 +409,53 @@
           <w n="w1" lemma="qui2" ana="p-s---mg-">Cuius</w>
           <w n="w2" lemma="iactura" lemmaRef="109476" ana="n-s---fn-">iactura</w>
           <w n="w3" lemma="cum" ana="c--------">cum</w>
-          <w n="w4" lemma="universi" ana="n-p---md-">uniuersis</w>
-          <w n="w5" lemma="lugeo" ana="v-s-g-fn-">lugenda</w>
+          <w n="w4" lemma="universus" lemmaRef="130700" ana="n-p---md-">uniuersis</w>
+          <w n="w5" lemma="lugeo" lemmaRef="110943" ana="v-s-g-fn-">lugenda</w>
           <w n="w6" lemma="sum1" lemmaRef="126689" ana="v3spsa---">sit</w>
           <w n="w7" lemma="punc1" ana="u--------">,</w>
-          <w n="w8" lemma="tum" ana="d--------">tum</w>
+          <w n="w8" lemma="tum" lemmaRef="129198" ana="d--------">tum</w>
           <w n="w9" lemma="ego" ana="p-s---md-">mihi</w>
           <w n="w10" lemma="praecipue" ana="d-------p">praecipue</w>
           <w n="w11" lemma="atque" lemmaRef="90490" ana="c--------">atque</w>
           <w n="w12" lemma="hic" lemmaRef="105455" ana="p-p---md-">his</w>
-          <w n="w13" lemma="infelix" ana="a-p---mds">infelicissimis</w>
-          <w n="w14" lemma="conservus" ana="n-p---md-">conseruis</w>
+          <w n="w13" lemma="infelix" lemmaRef="107633" ana="a-p---mds">infelicissimis</w>
+          <w n="w14" lemma="conservus" lemmaRef="97283" ana="n-p---md-">conseruis</w>
           <w n="w15" lemma="meus" ana="a-p---md-">meis</w>
           <w n="w16" lemma="punc1" ana="u--------">,</w>
           <w n="w17" lemma="qui2" ana="p-p---md-">quibus</w>
           <w n="w18" lemma="hic" lemmaRef="105455" ana="p-s---fn-">haec</w>
-          <w n="w19" lemma="crudelis" ana="a-s---fn-">crudelis</w>
+          <w n="w19" lemma="crudelis" lemmaRef="97047" ana="a-s---fn-">crudelis</w>
           <w n="w20" lemma="et" ana="c--------">et</w>
-          <w n="w21" lemma="dirus" ana="a-s---fn-">dira</w>
+          <w n="w21" lemma="dirus" lemmaRef="99555" ana="a-s---fn-">dira</w>
           <w n="w22" lemma="mors" ana="n-s---fn-">mors</w>
           <w n="w23" lemma="tam" ana="d--------">tam</w>
-          <w n="w24" lemma="benignus" ana="a-s---mas">benignissimum</w>
-          <w n="w25" lemma="aufero" ana="v3sria---">abstulit</w>
+          <w n="w24" lemma="benignus" lemmaRef="91494" ana="a-s---mas">benignissimum</w>
+          <w n="w25" lemma="aufero" lemmaRef="90671" ana="v3sria---">abstulit</w>
           <w n="w26" lemma="dominus" ana="n-s---ma-">dominum</w>
           <w n="w27" lemma="punc1" ana="u--------">,</w>
-          <w n="w28" lemma="interverto" ana="v3sria---">interuertit</w>
-          <w n="w29" lemma="benefactor" ana="n-s---ma-">benefactorem</w>
+          <w n="w28" lemma="interverto" lemmaRef="108688" ana="v3sria---">interuertit</w>
+          <w n="w29" lemma="benefactor" lemmaRef="91478" ana="n-s---ma-">benefactorem</w>
           <w n="w30" lemma="punc1" ana="u--------">,</w>
-          <w n="w31" lemma="adimo" ana="v3sria---">ademit</w>
+          <w n="w31" lemma="adimo" lemmaRef="87456" ana="v3sria---">ademit</w>
           <w n="w32" lemma="praesidium" ana="n-s---na-">praesidium</w>
           <w n="w33" lemma="punc1" ana="u--------">,</w>
           <w n="w34" lemma="et" ana="c--------">et</w>
           <w n="w35" lemma="unicus" ana="a-s---mb-">unico</w>
           <w n="w36" lemma="atque" lemmaRef="90490" ana="c--------">atque</w>
-          <w n="w37" lemma="idem" ana="p-s---mb-">eodem</w>
+          <w n="w37" lemma="idem" lemmaRef="109082" ana="p-s---mb-">eodem</w>
           <w n="w38" lemma="pius" ana="a-s---mbs">piissimo</w>
           <w n="w39" lemma="pater" ana="n-s---mb-">patre</w>
-          <w n="w40" lemma="nos" ana="p-p---ma-">nos</w>
+          <w n="w40" lemma="nos" lemmaRef="110487" ana="p-p---ma-">nos</w>
           <w n="w41" lemma="acerbus" ana="a-s---fn-">acerba</w>
-          <w n="w42" lemma="orbo" ana="v3sria---">orbauit</w>
+          <w n="w42" lemma="orbo" lemmaRef="115202" ana="v3sria---">orbauit</w>
           <w n="w43" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s9">
-          <w n="w1" lemma="nolo" ana="v2ppma---">Nolite</w>
-          <w n="w2" lemma="igitur" ana="c--------">igitur</w>
+          <w n="w1" lemma="nolo" lemmaRef="113794" ana="v2ppma---">Nolite</w>
+          <w n="w2" lemma="igitur" lemmaRef="106127" ana="c--------">igitur</w>
           <w n="w3" lemma="punc1" ana="u--------">,</w>
-          <w n="w4" lemma="nolo" ana="v2ppma---">nolite</w>
-          <w n="w5" lemma="exspecto" ana="v--pna---">expectare</w>
+          <w n="w4" lemma="nolo" lemmaRef="113794" ana="v2ppma---">nolite</w>
+          <w n="w5" lemma="exspecto" lemmaRef="102335" ana="v--pna---">expectare</w>
           <w n="w6" lemma="punc1" ana="u--------">,</w>
           <w n="w7" lemma="praesto2" ana="v-p---mvs">praestantissimi</w>
           <w n="w8" lemma="pater" ana="n-p---mv-">patres</w>
@@ -469,56 +469,56 @@
           <w n="w16" lemma="quis2" ana="p-s---mb-">quo</w>
           <w n="w17" lemma="et" ana="c--------">et</w>
           <w n="w18" lemma="tu" lemmaRef="29131" ana="p-p---ma-">uos</w>
-          <w n="w19" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w19" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w20" lemma="sum1" lemmaRef="126689" ana="v--pna---">esse</w>
-          <w n="w21" lemma="intueor" ana="v1spip---">intueor</w>
+          <w n="w21" lemma="intueor" lemmaRef="108773" ana="v1spip---">intueor</w>
           <w n="w22" lemma="et" ana="c--------">et</w>
           <w n="w23" lemma="ego" ana="p-s---ma-">me</w>
           <w n="w24" lemma="atque" lemmaRef="90490" ana="c--------">ac</w>
           <w n="w25" lemma="totus1" ana="a-s---fa-">totam</w>
           <w n="w26" lemma="hic" lemmaRef="105455" ana="p-s---fa-">hanc</w>
-          <w n="w27" lemma="misero" ana="v-s-g-fa-">miserandam</w>
+          <w n="w27" lemma="misero" lemmaRef="112466" ana="v-s-g-fa-">miserandam</w>
           <w n="w28" lemma="familia" ana="n-s---fa-">familiam</w>
           <w n="w29" lemma="punc1" ana="u--------">,</w>
           <w n="w30" lemma="quoad" ana="d--------">quoad</w>
-          <w n="w31" lemma="vivo" ana="v1ptia---">uixerimus</w>
+          <w n="w31" lemma="vivo" lemmaRef="130476" ana="v1ptia---">uixerimus</w>
           <w n="w32" lemma="punc1" ana="u--------">,</w>
           <w n="w33" lemma="sum1" lemmaRef="126689" ana="v--fna---">fore</w>
-          <w n="w34" lemma="necesse" ana="a-s---nn-">necesse</w>
+          <w n="w34" lemma="necesse" lemmaRef="113513" ana="a-s---nn-">necesse</w>
           <w n="w35" lemma="sum1" lemmaRef="126689" ana="v3spia---">est</w>
           <w n="w36" lemma="punc1" ana="u--------">,</w>
           <w n="w37" lemma="tu" lemmaRef="29131" ana="p-p---md-">uobis</w>
-          <w n="w38" lemma="adimo" ana="v1sfia---">adimam</w>
+          <w n="w38" lemma="adimo" lemmaRef="87456" ana="v1sfia---">adimam</w>
           <w n="w39" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s10">
           <w n="w1" lemma="quin" ana="c--------">Quin</w>
-          <w n="w2" lemma="pote" ana="d-------c">potius</w>
+          <w n="w2" lemma="pote" lemmaRef="118664" ana="d-------c">potius</w>
           <w n="w3" lemma="pro1" ana="r--------">pro</w>
           <w n="w4" lemma="vester" lemmaRef="130009" ana="a-s---fb-">uestra</w>
           <w n="w5" lemma="clementia" ana="n-s---fb-">clementia</w>
-          <w n="w6" lemma="do" ana="v2pfia---">dabitis</w>
+          <w n="w6" lemma="do" lemmaRef="99970" ana="v2pfia---">dabitis</w>
           <w n="w7" lemma="dolor" ana="n-s---md-">dolori</w>
           <w n="w8" lemma="meus" ana="a-s---md-">meo</w>
-          <w n="w9" lemma="venia" ana="n-s---fa-">ueniam</w>
+          <w n="w9" lemma="venia" lemmaRef="129786" ana="n-s---fa-">ueniam</w>
           <w n="w10" lemma="si" ana="c--------">si</w>
           <w n="w11" lemma="is" lemmaRef="109083" ana="p-s---mg-">eius</w>
-          <w n="w12" lemma="acerbitas" ana="n-s---fb-">acerbitate</w>
-          <w n="w13" lemma="abduco" ana="v-srppmn-">abductus</w>
+          <w n="w12" lemma="acerbitas" lemmaRef="87188" ana="n-s---fb-">acerbitate</w>
+          <w n="w13" lemma="abduco" lemmaRef="86867" ana="v-srppmn-">abductus</w>
           <w n="w14" lemma="neque" ana="c--------">nec</w>
           <w n="w15" lemma="res" lemmaRef="121868" ana="n-p---fg-">rerum</w>
-          <w n="w16" lemma="ordo" ana="n-s---ma-">ordinem</w>
-          <w n="w17" lemma="servo" ana="v--pna---">seruare</w>
-          <w n="w18" lemma="valeo" ana="v1spsa---">ualeam</w>
+          <w n="w16" lemma="ordo" lemmaRef="115236" ana="n-s---ma-">ordinem</w>
+          <w n="w17" lemma="servo" lemmaRef="124551" ana="v--pna---">seruare</w>
+          <w n="w18" lemma="valeo" lemmaRef="129509" ana="v1spsa---">ualeam</w>
           <w n="w19" lemma="neque" ana="c--------">nec</w>
-          <w n="w20" lemma="verbum" ana="n-p---ng-">uerborum</w>
-          <w n="w21" lemma="teneo" ana="v--pna---">tenere</w>
-          <w n="w22" lemma="modus" ana="n-s---ma-">modum</w>
+          <w n="w20" lemma="verbum" lemmaRef="131057" ana="n-p---ng-">uerborum</w>
+          <w n="w21" lemma="teneo" lemmaRef="127822" ana="v--pna---">tenere</w>
+          <w n="w22" lemma="modus" lemmaRef="112553" ana="n-s---ma-">modum</w>
           <w n="w23" lemma="punc1" ana="u--------">,</w>
-          <w n="w24" lemma="praesertim" ana="d--------">praesertim</w>
+          <w n="w24" lemma="praesertim" lemmaRef="119199" ana="d--------">praesertim</w>
           <w n="w25" lemma="cum" ana="c--------">cum</w>
           <w n="w26" lemma="is" lemmaRef="109083" ana="p-s---fb-">ea</w>
-          <w n="w27" lemma="culpa" ana="n-s---fb-">culpa</w>
+          <w n="w27" lemma="culpa" lemmaRef="97183" ana="n-s---fb-">culpa</w>
           <w n="w28" lemma="libenter" ana="d-------c">libentius</w>
           <w n="w29" lemma="ego" ana="p-s---mn-">ego</w>
           <w n="w30" lemma="careo" ana="v--pna---">carere</w>
@@ -554,7 +554,7 @@
       <p n="p2">
         <s n="s1">
           <w n="w1" lemma="dico2" ana="v-sfpamn-">Dicturus</w>
-          <w n="w2" lemma="igitur" ana="c--------">igitur</w>
+          <w n="w2" lemma="igitur" lemmaRef="106127" ana="c--------">igitur</w>
           <w n="w3" lemma="de" ana="r--------">de</w>
           <w n="w4" lemma="laus" ana="n-p---fb-">laudibus</w>
           <w n="w5" lemma="reverendus" ana="a-s---mgs">reuerendissimi</w>
@@ -566,7 +566,7 @@
           <w n="w11" lemma="Sixtus" ana="n-s---mg-">Sixti</w>
           <w n="w12" lemma="punc1" ana="u--------">,</w>
           <w n="w13" lemma="qui1" ana="n-s---mg-">cuius</w>
-          <w n="w14" lemma="misero" ana="v-s-g-na-">miserandum</w>
+          <w n="w14" lemma="misero" lemmaRef="112466" ana="v-s-g-na-">miserandum</w>
           <w n="w15" lemma="funus" lemmaRef="104031" ana="n-s---na-">funus</w>
           <w n="w16" lemma="hodiernus" ana="a-s---fb-">hodierna</w>
           <w n="w17" lemma="dies" ana="n-s---fb-">die</w>
@@ -625,7 +625,7 @@
           <w n="w70" lemma="tantus" ana="a-s---nd-">tanto</w>
           <w n="w71" lemma="decus1" ana="n-s---nd-">decori</w>
           <w n="w72" lemma="atque" lemmaRef="90490" ana="c--------">ac</w>
-          <w n="w73" lemma="ornamentum" ana="n-s---nd-">ornamento</w>
+          <w n="w73" lemma="ornamentum" lemmaRef="115271" ana="n-s---nd-">ornamento</w>
           <w n="w74" lemma="sum1" lemmaRef="126689" ana="v3srsa---">fuerit</w>
           <w n="w75" lemma="ut" ana="d--------">ut</w>
           <w n="w76" lemma="totus2" ana="a-s---nb-">toto</w>
@@ -640,7 +640,7 @@
           <w n="w85" lemma="gloria" ana="n-s---fb-">gloria</w>
           <w n="w86" lemma="et" ana="c--------">et</w>
           <w n="w87" lemma="celebro" ana="v3ppip---">celebrantur</w>
-          <w n="w88" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w88" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w89" lemma="et" ana="c--------">et</w>
           <w n="w90" lemma="omnis" lemmaRef="114954" ana="a-p---nb-">omnibus</w>
           <w n="w91" lemma="futurus" ana="a-p---nb-">futuris</w>
@@ -665,9 +665,9 @@
           <w n="w12" lemma="tam" ana="d--------">tam</w>
           <w n="w13" lemma="insignis" ana="a-p---na-">insignia</w>
           <w n="w14" lemma="virtus" ana="n-s---fg-">uirtutis</w>
-          <w n="w15" lemma="ornamentum" ana="n-p---na-">ornamenta</w>
-          <w n="w16" lemma="do" ana="v3srsa---">dederit</w>
-          <w n="w17" lemma="pote" ana="d-------c">potius</w>
+          <w n="w15" lemma="ornamentum" lemmaRef="115271" ana="n-p---na-">ornamenta</w>
+          <w n="w16" lemma="do" lemmaRef="99970" ana="v3srsa---">dederit</w>
+          <w n="w17" lemma="pote" lemmaRef="118664" ana="d-------c">potius</w>
           <w n="w18" lemma="quam" ana="d--------">quam</w>
           <w n="w19" lemma="ab" lemmaRef="86824" ana="r--------">ab</w>
           <w n="w20" lemma="ille" lemmaRef="106221" ana="p-p---mb-">illis</w>
@@ -701,7 +701,7 @@
           <w n="w48" lemma="magnitudo" ana="n-s---fa-">magnitudinem</w>
           <w n="w49" lemma="animus" ana="n-s---mg-">animi</w>
           <w n="w50" lemma="punc1" ana="u--------">,</w>
-          <w n="w51" lemma="munificentia" ana="n-s---fa-">munificentiam</w>
+          <w n="w51" lemma="munificentia" lemmaRef="113047" ana="n-s---fa-">munificentiam</w>
           <w n="w52" lemma="punc1" ana="u--------">,</w>
           <w n="w53" lemma="prudentia" ana="n-s---fa-">prudentiam</w>
           <w n="w54" lemma="punc1" ana="u--------">,</w>
@@ -725,7 +725,7 @@
       <p n="p3">
         <s n="s1">
           <w n="w1" lemma="qui2" ana="p-s---fb-">Qua</w>
-          <w n="w2" lemma="igitur" ana="c--------">igitur</w>
+          <w n="w2" lemma="igitur" lemmaRef="106127" ana="c--------">igitur</w>
           <w n="w3" lemma="pietas1" ana="n-s---fb-">pietate</w>
           <w n="w4" lemma="primum" ana="d-------p">primum</w>
           <w n="w5" lemma="erga" ana="r--------">erga</w>
@@ -733,7 +733,7 @@
           <w n="w7" lemma="sum1" lemmaRef="126689" ana="v3srsa---">fuerit</w>
           <w n="w8" lemma="quisque" ana="p-s---fa-">quamque</w>
           <w n="w9" lemma="magnificus" ana="a-s---mn-">magnificus</w>
-          <w n="w10" lemma="cultor" ana="n-s---mn-">cultor</w>
+          <w n="w10" lemma="cultor" lemmaRef="97195" ana="n-s---mn-">cultor</w>
           <w n="w11" lemma="ipse" lemmaRef="108945" ana="p-s---mg-">ipsius</w>
           <w n="w12" lemma="punc1" ana="u--------">,</w>
           <w n="w13" lemma="si" ana="c--------">si</w>
@@ -757,7 +757,7 @@
           <w n="w3" lemma="duodecim" ana="m--------">duodecim</w>
           <w n="w4" lemma="punc1" ana="u--------">,</w>
           <w n="w5" lemma="cum" ana="c--------">cum</w>
-          <w n="w6" lemma="orbo" ana="v-srppfa-">orbatam</w>
+          <w n="w6" lemma="orbo" lemmaRef="115202" ana="v-srppfa-">orbatam</w>
           <w n="w7" lemma="pater" ana="n-s---mb-">patre</w>
           <w n="w8" lemma="familia" ana="n-s---fa-">familiam</w>
           <w n="w9" lemma="tantus" ana="a-s---fb-">tanta</w>
@@ -803,7 +803,7 @@
           <w n="w14" lemma="avunculus" ana="n-s---mg-">auunculi</w>
           <w n="w15" lemma="suus" ana="a-s---mg-">sui</w>
           <w n="w16" lemma="punc1" ana="u--------">,</w>
-          <w n="w17" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w17" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w18" lemma="summus" ana="a-s---mg-">summi</w>
           <w n="w19" lemma="pontifex" lemmaRef="118418" ana="n-s---mg-">pontificis</w>
           <w n="w20" lemma="papa2" ana="n-s---mg-">papae</w>
@@ -965,7 +965,7 @@
           <w n="w33" lemma="sacrum" ana="n-p---nd-">sacris</w>
           <w n="w34" lemma="initio" ana="v3sria---">initiauit</w>
           <w n="w35" lemma="punc1" ana="u--------">,</w>
-          <w n="w36" lemma="servo" ana="v-prppfb-">seruatisque</w>
+          <w ana="compositum" n="w36"><w n="w36a" lemma="servo"  lemmaRef="124551" ana="v-prppfb-">seruatis</w><w ana="TKTK" n="w36b">que</w></w>
           <w n="w37" lemma="pro1" ana="r--------">pro</w>
           <w n="w38" lemma="mos" ana="n-s---mb-">more</w>
           <w n="w39" lemma="religio" ana="n-s---fg-">religionis</w>
@@ -1047,7 +1047,7 @@
           <w n="w8" lemma="ingenium" lemmaRef="107798" ana="n-s---nn-">ingenium</w>
           <w n="w9" lemma="per" lemmaRef="116569" ana="r--------">per</w>
           <w n="w10" lemma="bonus" ana="a-p---fa-">bonas</w>
-          <w n="w11" lemma="ars" ana="n-p---fa-">artes</w>
+          <w n="w11" lemma="ars" lemmaRef="90089" ana="n-p---fa-">artes</w>
           <w n="w12" lemma="excolo1" ana="v3sisp---">excoleretur</w>
           <w n="w13" lemma="punc1" ana="u--------">.</w>
         </s>
@@ -1094,7 +1094,7 @@
           <w n="w40" lemma="gymnasium1" ana="n-p---nb-">gymnasiis</w>
           <w n="w41" lemma="aut" lemmaRef="90827" ana="c--------">aut</w>
           <w n="w42" lemma="liberalis1" ana="a-p---fg-">liberalium</w>
-          <w n="w43" lemma="ars" ana="n-p---fg-">artium</w>
+          <w n="w43" lemma="ars" lemmaRef="90089" ana="n-p---fg-">artium</w>
           <w n="w44" lemma="aut" lemmaRef="90827" ana="c--------">aut</w>
           <w n="w45" lemma="sacer" ana="a-p---fg-">sacrarum</w>
           <w n="w46" lemma="littera" ana="n-p---fg-">litterarum</w>
@@ -1198,7 +1198,7 @@
           <w n="w47" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s13">
-          <w n="w1" lemma="teneo" ana="v3siia---">Tenebat</w>
+          <w n="w1" lemma="teneo" lemmaRef="127822" ana="v3siia---">Tenebat</w>
           <w n="w2" lemma="figo" ana="v-prppna-">fixa</w>
           <w n="w3" lemma="memoria" ana="n-s---fg-">memoriae</w>
           <w n="w4" lemma="quicumque" ana="p-p---na-">quaecunque</w>
@@ -1272,12 +1272,12 @@
         </s>
         <s n="s15">
           <w n="w1" lemma="perficio" ana="v-prppnb-">Perfectis</w>
-          <w n="w2" lemma="igitur" ana="c--------">igitur</w>
+          <w n="w2" lemma="igitur" lemmaRef="106127" ana="c--------">igitur</w>
           <w n="w3" lemma="quam" ana="d--------">quam</w>
           <w n="w4" lemma="celere" ana="d-------s">celerrime</w>
           <w n="w5" lemma="omnis" lemmaRef="114954" ana="a-p---fg-">omnium</w>
           <w n="w6" lemma="bonus" ana="a-p---fg-">bonarum</w>
-          <w n="w7" lemma="ars" ana="n-p---fg-">artium</w>
+          <w n="w7" lemma="ars" lemmaRef="90089" ana="n-p---fg-">artium</w>
           <w n="w8" lemma="studium" ana="n-p---nb-">studiis</w>
           <w n="w9" lemma="punc1" ana="u--------">,</w>
           <w n="w10" lemma="redeo" ana="v3sria---">rediit</w>
@@ -1372,7 +1372,7 @@
           <w n="w41" lemma="decus1" ana="n-s---na-">decus</w>
           <w n="w42" lemma="et" ana="c--------">et</w>
           <w n="w43" lemma="alius2" ana="n-p---ma-">alios</w>
-          <w n="w44" lemma="universus" ana="a-p---ma-">uniuersos</w>
+          <w n="w44" lemma="universus" lemmaRef="130700" ana="a-p---ma-">uniuersos</w>
           <w n="w45" lemma="honor" ana="n-p---ma-">honores</w>
           <w n="w46" lemma="punc1" ana="u--------">,</w>
           <w n="w47" lemma="qui2" ana="p-p---mb-">quibus</w>
@@ -1393,7 +1393,7 @@
           <w n="w5" lemma="et" ana="c--------">et</w>
           <w n="w6" lemma="ex" lemmaRef="101716" ana="r--------">ex</w>
           <w n="w7" lemma="alius2" ana="n-p---mb-">aliis</w>
-          <w n="w8" lemma="ordo" ana="n-p---mb-">ordinibus</w>
+          <w n="w8" lemma="ordo" lemmaRef="115236" ana="n-p---mb-">ordinibus</w>
           <w n="w9" lemma="vir" ana="n-p---ma-">uiros</w>
           <w n="w10" lemma="praesto2" ana="v-ppp-ma-">praestantes</w>
           <w n="w11" lemma="ab" lemmaRef="86824" ana="r--------">a</w>
@@ -1477,7 +1477,7 @@
           <w n="w57" lemma="diligo" ana="v-spp-fb-">diligenti</w>
           <w n="w58" lemma="navo" ana="v-srppfb-">nauata</w>
           <w n="w59" lemma="opera" ana="n-s---fb-">opera</w>
-          <w n="w60" lemma="idem" ana="p-s---fn-">eadem</w>
+          <w n="w60" lemma="idem" lemmaRef="109082" ana="p-s---fn-">eadem</w>
           <w n="w61" lemma="ipse" lemmaRef="108945" ana="p-s---fn-">ipsa</w>
           <w n="w62" lemma="divinus" ana="a-s---fv-">diuina</w>
           <w n="w63" lemma="providentia" ana="n-s---fn-">prouidentia</w>
@@ -1520,7 +1520,7 @@
           <w n="w100" lemma="punc1" ana="u--------">,</w>
           <w n="w101" lemma="ut" ana="c--------">ut</w>
           <w n="w102" lemma="disco" ana="v3pisa---">discerent</w>
-          <w n="w103" lemma="universus" ana="a-p---mn-">uniuersi</w>
+          <w n="w103" lemma="universus" lemmaRef="130700" ana="a-p---mn-">uniuersi</w>
           <w n="w104" lemma="verus" ana="a-s---fa-">ueram</w>
           <w n="w105" lemma="certus" ana="a-s---fa-">certamque</w>
           <w n="w106" lemma="sum1" lemmaRef="126689" ana="v--pna---">esse</w>
@@ -1573,10 +1573,10 @@
       <p n="p4">
         <s n="s1">
           <w n="w1" lemma="Petrus" ana="n-s---mn-">Petrus</w>
-          <w n="w2" lemma="igitur" ana="c--------">igitur</w>
+          <w n="w2" lemma="igitur" lemmaRef="106127" ana="c--------">igitur</w>
           <w n="w3" lemma="per" lemmaRef="116569" ana="r--------">per</w>
           <w n="w4" lemma="hic" lemmaRef="105455" ana="p-s---ma-">hunc</w>
-          <w n="w5" lemma="modus" ana="n-s---ma-">modum</w>
+          <w n="w5" lemma="modus" lemmaRef="112553" ana="n-s---ma-">modum</w>
           <w n="w6" lemma="in" lemmaRef="106748" ana="r--------">in</w>
           <w n="w7" lemma="principatus" ana="n-s---mb-">principatu</w>
           <w n="w8" lemma="constituo" ana="v-srppmn-">constitutus</w>
@@ -1616,11 +1616,11 @@
           <w n="w15" lemma="simul" ana="d--------">simulque</w>
           <w n="w16" lemma="cum" ana="r--------">cum</w>
           <w n="w17" lemma="is" lemmaRef="109083" ana="p-p---mb-">eis</w>
-          <w n="w18" lemma="magnanimitas" ana="n-s---fa-">magnanimitatem</w>
+          <w n="w18" lemma="magnanimitas" lemmaRef="111295" ana="n-s---fa-">magnanimitatem</w>
           <w n="w19" lemma="punc1" ana="u--------">,</w>
           <w n="w20" lemma="clementia" ana="n-s---fa-">clementiam</w>
           <w n="w21" lemma="punc1" ana="u--------">,</w>
-          <w n="w22" lemma="munificentia" ana="n-s---fa-">munificentiam</w>
+          <w n="w22" lemma="munificentia" lemmaRef="113047" ana="n-s---fa-">munificentiam</w>
           <w n="w23" lemma="punc1" ana="u--------">,</w>
           <w n="w24" lemma="et" ana="c--------">et</w>
           <w n="w25" lemma="ceterus" ana="a-p---fa-">caeteras</w>
@@ -1842,7 +1842,7 @@
           <w n="w7" lemma="neglegentia" ana="n-s---fb-">negligentia</w>
           <w n="w8" lemma="contingo1" ana="v3slsa---">contigisset</w>
           <w n="w9" lemma="punc1" ana="u--------">,</w>
-          <w n="w10" lemma="culpa" ana="n-s---fa-">culpam</w>
+          <w n="w10" lemma="culpa" lemmaRef="97183" ana="n-s---fa-">culpam</w>
           <w n="w11" lemma="magis" ana="d--------">magis</w>
           <w n="w12" lemma="doleo" ana="v-spp-mn-">dolens</w>
           <w n="w13" lemma="quam" ana="d--------">quam</w>
@@ -1894,7 +1894,7 @@
           <w n="w1" lemma="insignis" ana="a-p---nn-">Insignia</w>
           <w n="w2" lemma="hic" lemmaRef="105455" ana="p-p---nn-">haec</w>
           <w n="w3" lemma="sum1" lemmaRef="126689" ana="v3ppia---">sunt</w>
-          <w n="w4" lemma="magnanimitas" ana="n-s---fg-">magnanimitatis</w>
+          <w n="w4" lemma="magnanimitas" lemmaRef="111295" ana="n-s---fg-">magnanimitatis</w>
           <w n="w5" lemma="is" lemmaRef="109083" ana="p-s---mg-">eius</w>
           <w n="w6" lemma="testimonium" ana="n-p---nn-">testimonia</w>
           <w n="w7" lemma="punc1" ana="u--------">.</w>
@@ -1938,7 +1938,7 @@
           <w n="w9" lemma="quam" ana="d--------">quam</w>
           <w n="w10" lemma="in" lemmaRef="106748" ana="r--------">in</w>
           <w n="w11" lemma="supplex" ana="a-p---mg-">supplicium</w>
-          <w n="w12" lemma="venia" ana="n-s---fa-">ueniam</w>
+          <w n="w12" lemma="venia" lemmaRef="129786" ana="n-s---fa-">ueniam</w>
           <w n="w13" lemma="video" ana="v3siip---">uidebatur</w>
           <w n="w14" lemma="punc1" ana="u--------">,</w>
           <w n="w15" lemma="tantus" ana="a-p---ng-">tantumque</w>
@@ -1946,7 +1946,7 @@
           <w n="w17" lemma="omne" ana="n-s---nb-">omni</w>
           <w n="w18" lemma="ulciscor" ana="v3spdd-g-">ulciscendi</w>
           <w n="w19" lemma="ardor" ana="n-s---mb-">ardore</w>
-          <w n="w20" lemma="absum" ana="v3siia---">aberat</w>
+          <w n="w20" lemma="absum" lemmaRef="87040" ana="v3siia---">aberat</w>
           <w n="w21" lemma="ut" ana="c--------">ut</w>
           <w n="w22" lemma="inimica" ana="n-p---fb-">inimicis</w>
           <w n="w23" lemma="suus" ana="a-p---md-">suis</w>
@@ -2009,7 +2009,7 @@
       <p n="p5">
         <s n="s1">
           <w n="w1" lemma="sane" ana="d-------p">Sane</w>
-          <w n="w2" lemma="munificentia" ana="n-s---fg-">munificentiae</w>
+          <w n="w2" lemma="munificentia" lemmaRef="113047" ana="n-s---fg-">munificentiae</w>
           <w n="w3" lemma="liberalitas" ana="n-s---fg-">liberalitatisque</w>
           <w n="w4" lemma="is" lemmaRef="109083" ana="p-s---mg-">eius</w>
           <w n="w5" lemma="largitas" ana="n-s---fa-">largitatem</w>
@@ -2022,7 +2022,7 @@
           <w n="w12" lemma="ille" lemmaRef="106221" ana="p-s---fb-">illa</w>
           <w n="w13" lemma="utor" ana="v--pnd---">uti</w>
           <w n="w14" lemma="vel" lemmaRef="129695" ana="c--------">uel</w>
-          <w n="w15" lemma="nolo" ana="v3srsa---">noluerit</w>
+          <w n="w15" lemma="nolo" lemmaRef="113794" ana="v3srsa---">noluerit</w>
           <w n="w16" lemma="vel" lemmaRef="129695" ana="c--------">uel</w>
           <w n="w17" lemma="nescio" ana="v3srsa---">nescierit</w>
           <w n="w18" lemma="punc1" ana="u--------">?</w>
@@ -2081,7 +2081,7 @@
           <w n="w8" lemma="punc1" ana="u--------">,</w>
           <w n="w9" lemma="in" lemmaRef="106748" ana="r--------">in</w>
           <w n="w10" lemma="qui2" ana="p-s---mg-">cuius</w>
-          <w n="w11" lemma="diligens" ana="a-s---fbs">diligentissima</w>
+          <w n="w11" lemma="diligens" lemmaRef="12447" ana="a-s---fbs">diligentissima</w>
           <w n="w12" lemma="fidus1" ana="a-s---fbs">fidissimaque</w>
           <w n="w13" lemma="cura" ana="n-s---fb-">cura</w>
           <w n="w14" lemma="merito" ana="d-------p">merito</w>
@@ -2125,7 +2125,7 @@
           <w n="w52" lemma="is" lemmaRef="109083" ana="p-s---na-">id</w>
           <w n="w53" lemma="facio" ana="v___da-b-">faciendo</w>
           <w n="w54" lemma="uterque" ana="p-s---mn-">uterque</w>
-          <w n="w55" lemma="nos" ana="p-p---mg-">nostrum</w>
+          <w n="w55" lemma="nos" lemmaRef="110487" ana="p-p---mg-">nostrum</w>
           <w n="w56" lemma="suus" ana="a-s---nb-">suo</w>
           <w n="w57" lemma="munus" lemmaRef="113061" ana="n-s---nb-">munere</w>
           <w n="w58" lemma="bene" lemmaRef="91473" ana="d-------s">optime</w>
@@ -2135,7 +2135,7 @@
         </s>
         <s n="s5">
           <w n="w1" lemma="o" ana="e--------">O</w>
-          <w n="w2" lemma="praeclarus" ana="a-s---fa-">praeclaram</w>
+          <w n="w2" lemma="praeclarus" lemmaRef="118752" ana="a-s---fa-">praeclaram</w>
           <w n="w3" lemma="vox" ana="n-s---fa-">uocem</w>
           <w n="w4" lemma="punc1" ana="u--------">,</w>
           <w n="w5" lemma="o" ana="e--------">o</w>
@@ -2169,12 +2169,12 @@
           <w n="w5" lemma="licet" ana="v3sria---">licuit</w>
           <w n="w6" lemma="punc1" ana="u--------">,</w>
           <w n="w7" lemma="et" ana="c--------">et</w>
-          <w n="w8" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w8" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w9" lemma="omnis" lemmaRef="114954" ana="a-p---mg-">omnium</w>
           <w n="w10" lemma="infortunatus" ana="a-p---mas">infortunatissimos</w>
           <w n="w11" lemma="qui2" ana="p-p---md-">quibus</w>
           <w n="w12" lemma="tam" ana="d--------">tam</w>
-          <w n="w13" lemma="crudelis" ana="a-s---nb-">crudeli</w>
+          <w n="w13" lemma="crudelis" lemmaRef="97047" ana="a-s---nb-">crudeli</w>
           <w n="w14" lemma="fatum" ana="n-s---nb-">fato</w>
           <w n="w15" lemma="eripio" ana="v-srppfn-">erepta</w>
           <w n="w16" lemma="sum1" lemmaRef="126689" ana="v3spia---">est</w>
@@ -2213,7 +2213,7 @@
           <w n="w28" lemma="aliquis" ana="p-s---md-">alicui</w>
           <w n="w29" lemma="alius2" ana="n-s---fd-">alii</w>
           <w n="w30" lemma="honestus" ana="a-s---fd-">honestae</w>
-          <w n="w31" lemma="ars" ana="n-s---fd-">arti</w>
+          <w n="w31" lemma="ars" lemmaRef="90089" ana="n-s---fd-">arti</w>
           <w n="w32" lemma="dedo" ana="v-prppma-">deditos</w>
           <w n="w33" lemma="punc1" ana="u--------">;</w>
           <w n="w34" lemma="nullus" ana="a-p---mb-">nullis</w>
@@ -2387,7 +2387,7 @@
           <w n="w29" lemma="opus1" ana="n-s---nn-">opus</w>
           <w n="w30" lemma="sum1" lemmaRef="126689" ana="v3sisa---">esset</w>
           <w n="w31" lemma="punc1" ana="u--------">,</w>
-          <w n="w32" lemma="dirus" ana="a-p---nas">dirissima</w>
+          <w n="w32" lemma="dirus" lemmaRef="99555" ana="a-p---nas">dirissima</w>
           <w n="w33" lemma="quisque" ana="p-p---na-">quaeque</w>
           <w n="w34" lemma="in" lemmaRef="106748" ana="r--------">in</w>
           <w n="w35" lemma="sui" ana="p-s---ma-">se</w>
@@ -2466,7 +2466,7 @@
       <p n="p9">
         <s n="s1">
           <w n="w1" lemma="ubi" ana="d-------p">Vbi</w>
-          <w n="w2" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w2" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w3" lemma="sum1" lemmaRef="126689" ana="v3ppia---">sunt</w>
           <w n="w4" lemma="robiginosus" ana="a-p---nn-">rubiginosa</w>
           <w n="w5" lemma="ille" lemmaRef="106221" ana="p-p---nn-">illa</w>
@@ -2475,7 +2475,7 @@
           <w n="w8" lemma="punc1" ana="u--------">,</w>
           <w n="w9" lemma="ubi" ana="d--------">ubi</w>
           <w n="w10" lemma="sum1" lemmaRef="126689" ana="v3ppia---">sunt</w>
-          <w n="w11" lemma="dirus" ana="a-s---nbs">dirissimo</w>
+          <w n="w11" lemma="dirus" lemmaRef="99555" ana="a-s---nbs">dirissimo</w>
           <w n="w12" lemma="fel" ana="n-s---nb-">felle</w>
           <w n="w13" lemma="mano" ana="v-ppp-nn-">manantia</w>
           <w n="w14" lemma="praecordia" ana="n-p---nn-">praecordia</w>
@@ -2569,7 +2569,7 @@
           <w n="w28" lemma="tuus" ana="a-s---fa-">tuam</w>
           <w n="w29" lemma="de" ana="r--------">de</w>
           <w n="w30" lemma="terra" ana="n-s---fb-">terra</w>
-          <w n="w31" lemma="vivo" ana="v-ppp-mg-">uiuentium</w>
+          <w n="w31" lemma="vivo" lemmaRef="130476" ana="v-ppp-mg-">uiuentium</w>
           <w n="w32" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s3">
@@ -2601,7 +2601,7 @@
           <w n="w3" lemma="ille" lemmaRef="106221" ana="p-p---mn-">illi</w>
           <w n="w4" lemma="video" ana="v3pria---">uiderunt</w>
           <w n="w5" lemma="punc1" ana="u--------">;</w>
-          <w n="w6" lemma="nos" ana="p-p---mn-">nos</w>
+          <w n="w6" lemma="nos" lemmaRef="110487" ana="p-p---mn-">nos</w>
           <w n="w7" lemma="interea" ana="d--------">interea</w>
           <w n="w8" lemma="reliquus" ana="a-p---fa-">reliquas</w>
           <w n="w9" lemma="Petrus" ana="n-s---mg-">Petri</w>
@@ -2624,10 +2624,10 @@
           <w n="w2" lemma="punc1" ana="u--------">,</w>
           <w n="w3" lemma="ut" ana="c--------">ut</w>
           <w n="w4" lemma="propono" ana="v-srppmn-">propositus</w>
-          <w n="w5" lemma="ordo" ana="n-s---mn-">ordo</w>
+          <w n="w5" lemma="ordo" lemmaRef="115236" ana="n-s---mn-">ordo</w>
           <w n="w6" lemma="postulo" ana="v3spia---">postulat</w>
           <w n="w7" lemma="punc1" ana="u--------">,</w>
-          <w n="w8" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w8" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w9" lemma="ipse" lemmaRef="108945" ana="p-s---mg-">ipsius</w>
           <w n="w10" lemma="prudentia" ana="n-s---fa-">prudentiam</w>
           <w n="w11" lemma="contemplor" ana="v1ppsd---">contemplemur</w>
@@ -2759,7 +2759,7 @@
           <w n="w31" lemma="multus" ana="a-p---nas">plurima</w>
           <w n="w32" lemma="in" lemmaRef="106748" ana="r--------">in</w>
           <w n="w33" lemma="is" lemmaRef="109083" ana="p-s---ma-">eum</w>
-          <w n="w34" lemma="ornamentum" ana="n-p---na-">ornamenta</w>
+          <w n="w34" lemma="ornamentum" lemmaRef="115271" ana="n-p---na-">ornamenta</w>
           <w n="w35" lemma="confero" ana="v3slsa---">contulisset</w>
           <w n="w36" lemma="punc1" ana="u--------">.</w>
         </s>
@@ -2883,11 +2883,11 @@
           <w n="w62" lemma="satis" ana="d--------">satis</w>
           <w n="w63" lemma="ni" ana="d--------">ni</w>
           <w n="w64" lemma="is" lemmaRef="109083" ana="p-s---ma-">eum</w>
-          <w n="w65" lemma="nos" ana="p-p---md-">nobis</w>
+          <w n="w65" lemma="nos" lemmaRef="110487" ana="p-p---md-">nobis</w>
           <w n="w66" lemma="hic" lemmaRef="105455" ana="p-s---fn-">haec</w>
-          <w n="w67" lemma="dirus" ana="a-s---fn-">dira</w>
+          <w n="w67" lemma="dirus" lemmaRef="99555" ana="a-s---fn-">dira</w>
           <w n="w68" lemma="atque" lemmaRef="90490" ana="c--------">atque</w>
-          <w n="w69" lemma="crudelis" ana="a-s---fn-">crudelis</w>
+          <w n="w69" lemma="crudelis" lemmaRef="97047" ana="a-s---fn-">crudelis</w>
           <w n="w70" lemma="mors" ana="n-s---fn-">mors</w>
           <w n="w71" lemma="tam" ana="d--------">tam</w>
           <w n="w72" lemma="repente" ana="d-------p">repente</w>
@@ -2910,7 +2910,7 @@
           <w n="w13" lemma="punc1" ana="u--------">;</w>
           <w n="w14" lemma="hic" lemmaRef="105455" ana="p-s---fn-">haec</w>
           <w n="w15" lemma="sum1" lemmaRef="126689" ana="v3siia---">erat</w>
-          <w n="w16" lemma="praecipuus" ana="a-s---fn-">praecipua</w>
+          <w n="w16" lemma="praecipuus" lemmaRef="118741" ana="a-s---fn-">praecipua</w>
           <w n="w17" lemma="is" lemmaRef="109083" ana="p-s---mg-">eius</w>
           <w n="w18" lemma="voluptas" ana="n-s---fn-">uoluptas</w>
           <w n="w19" lemma="punc1" ana="u--------">,</w>
@@ -2997,7 +2997,7 @@
           <w n="w33" lemma="punc1" ana="u--------">,</w>
           <w n="w34" lemma="comis" ana="a-s---ma-">comem</w>
           <w n="w35" lemma="punc1" ana="u--------">,</w>
-          <w n="w36" lemma="benignus" ana="a-s---ma-">benignum</w>
+          <w n="w36" lemma="benignus" lemmaRef="91494" ana="a-s---ma-">benignum</w>
           <w n="w37" lemma="punc1" ana="u--------">,</w>
           <w n="w38" lemma="ut" ana="c--------">ut</w>
           <w n="w39" lemma="socius" ana="n-s---ma-">socium</w>
@@ -3156,7 +3156,7 @@
           <w n="w30" lemma="punc1" ana="u--------">,</w>
           <w n="w31" lemma="volo1" ana="v3sria---">uoluit</w>
           <w n="w32" lemma="fraternus" ana="a-s---fb-">fraterna</w>
-          <w n="w33" lemma="munificentia" ana="n-s---fb-">munificentia</w>
+          <w n="w33" lemma="munificentia" lemmaRef="113047" ana="n-s---fb-">munificentia</w>
           <w n="w34" lemma="illustro" ana="v--pna---">illustrare</w>
           <w n="w35" lemma="punc1" ana="u--------">.</w>
         </s>
@@ -3188,7 +3188,7 @@
           <w n="w6" lemma="jam" ana="d--------">iam</w>
           <w n="w7" lemma="praefectus" ana="n-s---mg-">praefecti</w>
           <w n="w8" lemma="is" lemmaRef="109083" ana="p-s---mg-">eius</w>
-          <w n="w9" lemma="culpa" ana="n-s---fb-">culpa</w>
+          <w n="w9" lemma="culpa" lemmaRef="97183" ana="n-s---fb-">culpa</w>
           <w n="w10" lemma="ad" ana="r--------">ad</w>
           <w n="w11" lemma="alius2" ana="n-p---ma-">alios</w>
           <w n="w12" lemma="devenio" ana="v3slia---">deuenerat</w>
@@ -3281,7 +3281,7 @@
           <w n="w19" lemma="prior" ana="a-p---fbc">prioribus</w>
           <w n="w20" lemma="parvus" ana="a-p---fac">minores</w>
           <w n="w21" lemma="fortuna" ana="n-p---fa-">fortunas</w>
-          <w n="w22" lemma="do" ana="v--pnp---">dari</w>
+          <w n="w22" lemma="do" lemmaRef="99970" ana="v--pnp---">dari</w>
           <w n="w23" lemma="curo" ana="v3sria---">curauit</w>
           <w n="w24" lemma="punc1" ana="u--------">.</w>
         </s>
@@ -3470,7 +3470,7 @@
           <w n="w12" lemma="qui2" ana="p-s---nd-">cui</w>
           <w n="w13" lemma="minister" ana="n-p---mg-">ministrorum</w>
           <w n="w14" lemma="pecco" ana="v3spda-g-">peccandi</w>
-          <w n="w15" lemma="do" ana="v3sisp---">daretur</w>
+          <w n="w15" lemma="do" lemmaRef="99970" ana="v3sisp---">daretur</w>
           <w n="w16" lemma="occasio" ana="n-s---fn-">occasio</w>
           <w n="w17" lemma="punc1" ana="u--------">,</w>
           <w n="w18" lemma="omnis" lemmaRef="114954" ana="a-p---ng-">omnium</w>
@@ -3481,7 +3481,7 @@
           <w n="w23" lemma="et" ana="c--------">et</w>
           <w n="w24" lemma="littera" ana="n-p---fg-">litterarum</w>
           <w n="w25" lemma="punc1" ana="u--------">,</w>
-          <w n="w26" lemma="exemplar" ana="n-p---na-">exemplaria</w>
+          <w n="w26" lemma="exemplar" lemmaRef="101972" ana="n-p---na-">exemplaria</w>
           <w n="w27" lemma="apud" ana="r--------">apud</w>
           <w n="w28" lemma="notarius" ana="n-p---ma-">notarios</w>
           <w n="w29" lemma="exsto" lemmaRef="102360" ana="v--pna---">exstare</w>
@@ -3490,7 +3490,7 @@
         </s>
         <s n="s10">
           <w n="w1" lemma="hic" lemmaRef="105455" ana="p-s---fg-">Huius</w>
-          <w n="w2" lemma="praeclarus" ana="a-s---fgs">praeclarissimae</w>
+          <w n="w2" lemma="praeclarus" lemmaRef="118752" ana="a-s---fgs">praeclarissimae</w>
           <w n="w3" lemma="virtus" ana="n-s---fg-">uirtutis</w>
           <w n="w4" lemma="neque" ana="c--------">nec</w>
           <w n="w5" lemma="morior" ana="v-sppdmnp">moriens</w>
@@ -3559,7 +3559,7 @@
           <w n="w11" lemma="excludo" ana="v-srppmn-">exclusus</w>
           <w n="w12" lemma="angustia" ana="n-s---fb-">angustia</w>
           <w n="w13" lemma="punc1" ana="u--------">,</w>
-          <w n="w14" lemma="tum" ana="d--------">tum</w>
+          <w n="w14" lemma="tum" lemmaRef="129198" ana="d--------">tum</w>
           <w n="w15" lemma="ipse" lemmaRef="108945" ana="p-p---fg-">ipsarum</w>
           <w n="w16" lemma="res" lemmaRef="121868" ana="n-p---fg-">rerum</w>
           <w n="w17" lemma="multitudo" ana="n-s---fb-">multitudine</w>
@@ -3577,7 +3577,7 @@
           <w n="w8" lemma="parens2" ana="n-p---ma-">parentes</w>
           <w n="w9" lemma="punc1" ana="u--------">,</w>
           <w n="w10" lemma="et" ana="c--------">et</w>
-          <w n="w11" lemma="praesertim" ana="d--------">praesertim</w>
+          <w n="w11" lemma="praesertim" lemmaRef="119199" ana="d--------">praesertim</w>
           <w n="w12" lemma="qualis" ana="a-s---ma-">qualem</w>
           <w n="w13" lemma="erga" ana="r--------">erga</w>
           <w n="w14" lemma="ipse" lemmaRef="108945" ana="p-s---ma-">ipsum</w>
@@ -3682,7 +3682,7 @@
           <w n="w76" lemma="punc1" ana="u--------">,</w>
           <w n="w77" lemma="semper" ana="d--------">semperque</w>
           <w n="w78" lemma="ut" ana="c--------">ut</w>
-          <w n="w79" lemma="do" ana="v-srppmn-">datus</w>
+          <w n="w79" lemma="do" lemmaRef="99970" ana="v-srppmn-">datus</w>
           <w n="w80" lemma="ab" lemmaRef="86824" ana="r--------">a</w>
           <w n="w81" lemma="dominus" ana="n-s---mb-">domino</w>
           <w n="w82" lemma="Tobias" ana="n-s---md-">Tobiae</w>
@@ -3712,12 +3712,12 @@
           <w n="w106" lemma="debeo" ana="v3spsa---">debeat</w>
           <w n="w107" lemma="si" ana="c--------">si</w>
           <w n="w108" lemma="aut" lemmaRef="90827" ana="c--------">aut</w>
-          <w n="w109" lemma="vivo" ana="v-spp-ma-">uiuentem</w>
+          <w n="w109" lemma="vivo" lemmaRef="130476" ana="v-spp-ma-">uiuentem</w>
           <w n="w110" lemma="tantum" ana="d-------p">tantum</w>
           <w n="w111" lemma="diligo" ana="v3sria---">dilexit</w>
           <w n="w112" lemma="punc1" ana="u--------">,</w>
           <w n="w113" lemma="aut" lemmaRef="90827" ana="c--------">aut</w>
-          <w n="w114" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w114" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w115" lemma="mortuus" ana="a-s---mg-">mortui</w>
           <w n="w116" lemma="desiderium" ana="n-s---nb-">desiderio</w>
           <w n="w117" lemma="adeo2" ana="d--------">adeo</w>
@@ -3830,7 +3830,7 @@
           <w n="w1" lemma="testor" ana="v3spid---">Testatur</w>
           <w n="w2" lemma="hic" lemmaRef="105455" ana="p-s---fa-">hanc</w>
           <w n="w3" lemma="is" lemmaRef="109083" ana="p-s---mg-">eius</w>
-          <w n="w4" lemma="munificentia" ana="n-s---fa-">munificentiam</w>
+          <w n="w4" lemma="munificentia" lemmaRef="113047" ana="n-s---fa-">munificentiam</w>
           <w n="w5" lemma="in" lemmaRef="106748" ana="r--------">in</w>
           <w n="w6" lemma="hic" lemmaRef="105455" ana="p-s---fb-">hac</w>
           <w n="w7" lemma="Romanus" ana="a-s---fbp">Romana</w>
@@ -3872,11 +3872,11 @@
           <w n="w43" lemma="cum" ana="c--------">cum</w>
           <w n="w44" lemma="accipio" lemmaRef="87119" ana="v3slsa---">accepisset</w>
           <w n="w45" lemma="omnis" lemmaRef="114954" ana="a-p---nb-">omnibus</w>
-          <w n="w46" lemma="ornamentum" ana="n-p---nb-">ornamentis</w>
+          <w n="w46" lemma="ornamentum" lemmaRef="115271" ana="n-p---nb-">ornamentis</w>
           <w n="w47" lemma="spolio" ana="v-srppnn-">spoliatum</w>
           <w n="w48" lemma="punc1" ana="u--------">,</w>
           <w n="w49" lemma="tam" ana="d--------">tam</w>
-          <w n="w50" lemma="praeclarus" ana="a-s---fb-">praeclara</w>
+          <w n="w50" lemma="praeclarus" lemmaRef="118752" ana="a-s---fb-">praeclara</w>
           <w n="w51" lemma="instruo" ana="v3sria---">instruxit</w>
           <w n="w52" lemma="supellex" ana="n-s---fb-">supellectili</w>
           <w n="w53" lemma="ut" ana="c--------">ut</w>
@@ -3890,13 +3890,13 @@
           <w n="w61" lemma="sum1" lemmaRef="126689" ana="v--pna---">esse</w>
           <w n="w62" lemma="con-suesco" ana="v3slia---">consueuerat</w>
           <w n="w63" lemma="punc1" ana="u--------">,</w>
-          <w n="w64" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w64" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w65" lemma="splendor" lemmaRef="125427" ana="n-s---mb-">splendore</w>
           <w n="w66" lemma="et" ana="c--------">et</w>
           <w n="w67" lemma="omnifarius" ana="a-s---mb-">omnifario</w>
           <w n="w68" lemma="apparatus2" ana="n-s---mb-">apparatu</w>
           <w n="w69" lemma="vinco" ana="v3spsa---">uincat</w>
-          <w n="w70" lemma="universus" ana="a-p---na-">uniuersa</w>
+          <w n="w70" lemma="universus" lemmaRef="130700" ana="a-p---na-">uniuersa</w>
           <w n="w71" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s3">
@@ -3937,12 +3937,12 @@
           <w n="w35" lemma="omnis" lemmaRef="114954" ana="a-p---na-">omnia</w>
           <w n="w36" lemma="mutuo" ana="v--pnp---">mutuari</w>
           <w n="w37" lemma="punc1" ana="u--------">;</w>
-          <w n="w38" lemma="nunc" ana="d--------">nunc</w>
+          <w n="w38" lemma="nunc" lemmaRef="113990" ana="d--------">nunc</w>
           <w n="w39" lemma="tantus" ana="a-s---fb-">tanta</w>
           <w n="w40" lemma="cum" ana="c--------">cum</w>
           <w n="w41" lemma="omnis" lemmaRef="114954" ana="a-p---ng-">omnium</w>
           <w n="w42" lemma="punc1" ana="u--------">,</w>
-          <w n="w43" lemma="tum" ana="d--------">tum</w>
+          <w n="w43" lemma="tum" lemmaRef="129198" ana="d--------">tum</w>
           <w n="w44" lemma="praecipue" ana="d-------p">praecipue</w>
           <w n="w45" lemma="libellus" ana="n-p---mg-">libellorum</w>
           <w n="w46" lemma="punc1" ana="u--------">,</w>
@@ -3970,7 +3970,7 @@
         </s>
         <s n="s4">
           <w n="w1" lemma="hic" lemmaRef="105455" ana="p-s---ng-">Huius</w>
-          <w n="w2" lemma="idem" ana="p-s---ng-">eiusdem</w>
+          <w n="w2" lemma="idem" lemmaRef="109082" ana="p-s---ng-">eiusdem</w>
           <w n="w3" lemma="fanum1" ana="n-s---ng-">fani</w>
           <w n="w4" lemma="distraho" ana="v-prppna-">distracta</w>
           <w n="w5" lemma="praedium" ana="n-p---na-">praedia</w>
@@ -4065,10 +4065,10 @@
           <w n="w1" lemma="sed" ana="c--------">Sed</w>
           <w n="w2" lemma="deus" ana="n-s---mg-">dei</w>
           <w n="w3" lemma="voluntas" ana="n-s---fb-">uoluntate</w>
-          <w n="w4" lemma="nos" ana="p-p---md-">nobis</w>
+          <w n="w4" lemma="nos" lemmaRef="110487" ana="p-p---md-">nobis</w>
           <w n="w5" lemma="tam" ana="d--------">tam</w>
           <w n="w6" lemma="repente" ana="d-------p">repente</w>
-          <w n="w7" lemma="adimo" ana="v-srppmn-">ademptus</w>
+          <w n="w7" lemma="adimo" lemmaRef="87456" ana="v-srppmn-">ademptus</w>
           <w n="w8" lemma="sum1" lemmaRef="126689" ana="v3spia---">est</w>
           <w n="w9" lemma="punc1" ana="u--------">,</w>
           <w n="w10" lemma="non" lemmaRef="114108" ana="d--------">non</w>
@@ -4140,7 +4140,7 @@
           <w n="w18" lemma="punc1" ana="u--------">,</w>
           <w n="w19" lemma="intrepidus" ana="a-s---mn-">intrepidus</w>
           <w n="w20" lemma="tamen" lemmaRef="127607" ana="d--------">tamen</w>
-          <w n="w21" lemma="exspecto" ana="v3sria---">expectauit</w>
+          <w n="w21" lemma="exspecto" lemmaRef="102335" ana="v3sria---">expectauit</w>
           <w n="w22" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s10">
@@ -4275,7 +4275,7 @@
           <w n="w82" lemma="gloria" ana="n-s---fd-">gloriae</w>
           <w n="w83" lemma="meus" ana="a-s---fd-">meae</w>
           <w n="w84" lemma="satis" ana="d--------">satis</w>
-          <w n="w85" lemma="vivo" ana="v--rna---">uixisse</w>
+          <w n="w85" lemma="vivo" lemmaRef="130476" ana="v--rna---">uixisse</w>
           <w n="w86" lemma="scio" ana="v1spia---">scio</w>
           <w n="w87" lemma="punc1" ana="u--------">.</w>
         </s>
@@ -4361,7 +4361,7 @@
           <w n="w9" lemma="nullus" ana="a-s---mn-">nullus</w>
           <w n="w10" lemma="vester" lemmaRef="130009" ana="a-p---mg-">uestrum</w>
           <w n="w11" lemma="meus" ana="a-s---fg-">meae</w>
-          <w n="w12" lemma="gratitudo" ana="n-s---fg-">gratitudinis</w>
+          <w n="w12" lemma="gratitudo" lemmaRef="136171" ana="n-s---fg-">gratitudinis</w>
           <w n="w13" lemma="vicis" ana="n-p---fa-">uices</w>
           <w n="w14" lemma="doleo" ana="v3sisa---">doleret</w>
           <w n="w15" lemma="punc1" ana="u--------">.</w>
@@ -4500,7 +4500,7 @@
         </s>
         <s n="s11">
           <w n="w1" lemma="proinde" ana="d--------">Proinde</w>
-          <w n="w2" lemma="do" ana="v2ppma---">date</w>
+          <w n="w2" lemma="do" lemmaRef="99970" ana="v2ppma---">date</w>
           <w n="w3" lemma="opera" ana="n-s---fa-">operam</w>
           <w n="w4" lemma="probitas" ana="n-s---fd-">probitati</w>
           <w n="w5" lemma="punc1" ana="u--------">,</w>
@@ -4542,7 +4542,7 @@
           <w n="w28" lemma="pie" ana="d-------p">pie</w>
           <w n="w29" lemma="et" ana="c--------">et</w>
           <w n="w30" lemma="sancte" ana="d-------p">sancte</w>
-          <w n="w31" lemma="vivo" ana="v--rna---">uixisse</w>
+          <w n="w31" lemma="vivo" lemmaRef="130476" ana="v--rna---">uixisse</w>
           <w n="w32" lemma="magnus" ana="a-s---fns">maxima</w>
           <w n="w33" lemma="vir" ana="n-s---md-">uiro</w>
           <w n="w34" lemma="bonus" ana="a-s---md-">bono</w>
@@ -4627,7 +4627,7 @@
           <w n="w11" lemma="quanto" ana="d--------">quanto</w>
           <w n="w12" lemma="tu" lemmaRef="29131" ana="p-p---mn-">uos</w>
           <w n="w13" lemma="modeste" ana="d-------c">modestius</w>
-          <w n="w14" lemma="vivo" ana="v-ppp-mn-">uiuentes</w>
+          <w n="w14" lemma="vivo" lemmaRef="130476" ana="v-ppp-mn-">uiuentes</w>
           <w n="w15" lemma="pro1" ana="r--------">pro</w>
           <w n="w16" lemma="ego" ana="p-s---mb-">me</w>
           <w n="w17" lemma="dominus" ana="n-s---ma-">dominum</w>
@@ -4644,7 +4644,7 @@
           <w n="w7" lemma="sum1" lemmaRef="126689" ana="v3sfia---">erit</w>
           <w n="w8" lemma="sensus2" ana="n-s---mn-">sensus</w>
           <w n="w9" lemma="punc1" ana="u--------">,</w>
-          <w n="w10" lemma="idem" ana="p-s---na-">idem</w>
+          <w n="w10" lemma="idem" lemmaRef="109082" ana="p-s---na-">idem</w>
           <w n="w11" lemma="pro1" ana="r--------">pro</w>
           <w n="w12" lemma="tu" lemmaRef="29131" ana="p-p---mb-">uobis</w>
           <w n="w13" lemma="ego" ana="p-s---ma-">me</w>
@@ -4653,7 +4653,7 @@
           <w n="w16" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s5">
-          <w n="w1" lemma="vivo" ana="v2ppma---">Viuite</w>
+          <w n="w1" lemma="vivo" lemmaRef="130476" ana="v2ppma---">Viuite</w>
           <w n="w2" lemma="ego" ana="p-s---mg-">mei</w>
           <w n="w3" lemma="memor1" ana="a-p---mn-">memores</w>
           <w n="w4" lemma="et" ana="c--------">et</w>
@@ -4870,7 +4870,7 @@
           <w n="w7" lemma="et" ana="c--------">et</w>
           <w n="w8" lemma="vita" lemmaRef="130393" ana="n-s---fn-">uita</w>
           <w n="w9" lemma="superus" lemmaRef="126999" ana="a-s---fas">summam</w>
-          <w n="w10" lemma="do" ana="v3sria---">dedit</w>
+          <w n="w10" lemma="do" lemmaRef="99970" ana="v3sria---">dedit</w>
           <w n="w11" lemma="gloria" ana="n-s---fa-">gloriam</w>
           <w n="w12" lemma="et" ana="c--------">et</w>
           <w n="w13" lemma="mors" ana="n-s---fn-">mors</w>
@@ -4905,7 +4905,7 @@
           <w n="w21" lemma="gloria" ana="n-s---fd-">gloriae</w>
           <w n="w22" lemma="suus" ana="a-s---fd-">suae</w>
           <w n="w23" lemma="parum" ana="d--------">parum</w>
-          <w n="w24" lemma="vivo" ana="v3sria---">uixit</w>
+          <w n="w24" lemma="vivo" lemmaRef="130476" ana="v3sria---">uixit</w>
           <w n="w25" lemma="qui2" ana="p-s---mn-">qui</w>
           <w n="w26" lemma="punc1" ana="u--------">,</w>
           <w n="w27" lemma="quicumque" ana="p-p---na-">quaecumque</w>
@@ -4921,17 +4921,17 @@
           <w n="w37" lemma="punc1" ana="u--------">.</w>
         </s>
         <s n="s3">
-          <w n="w1" lemma="nos" ana="p-p---md-">Nobis</w>
+          <w n="w1" lemma="nos" lemmaRef="110487" ana="p-p---md-">Nobis</w>
           <w n="w2" lemma="forsan" ana="d--------">forsan</w>
           <w n="w3" lemma="ample" ana="d-------c">amplius</w>
-          <w n="w4" lemma="vivo" ana="v--pna---">uiuere</w>
+          <w n="w4" lemma="vivo" lemmaRef="130476" ana="v--pna---">uiuere</w>
           <w n="w5" lemma="possum" lemmaRef="118569" ana="v3siia---">poterat</w>
           <w n="w6" lemma="punc1" ana="u--------">,</w>
           <w n="w7" lemma="et" ana="c--------">et</w>
           <w n="w8" lemma="nimirum" ana="d--------">nimirum</w>
           <w n="w9" lemma="magnus" ana="a-s---nd-">magno</w>
           <w n="w10" lemma="et" ana="c--------">et</w>
-          <w n="w11" lemma="ornamentum" ana="n-s---nd-">ornamento</w>
+          <w n="w11" lemma="ornamentum" lemmaRef="115271" ana="n-s---nd-">ornamento</w>
           <w n="w12" lemma="et" ana="c--------">et</w>
           <w n="w13" lemma="utilitas" ana="n-s---fd-">utilitati</w>
           <w n="w14" lemma="punc1" ana="u--------">.</w>
@@ -4973,10 +4973,10 @@
           <w n="w20" lemma="atque" lemmaRef="90490" ana="c--------">atque</w>
           <w n="w21" lemma="dico2" ana="v1ppsa---">dicamus</w>
           <w n="w22" lemma="dominus" ana="n-s---mn-">Dominus</w>
-          <w n="w23" lemma="do" ana="v3sria---">dedit</w>
+          <w n="w23" lemma="do" lemmaRef="99970" ana="v3sria---">dedit</w>
           <w n="w24" lemma="punc1" ana="u--------">,</w>
           <w n="w25" lemma="dominus" ana="n-s---mn-">dominus</w>
-          <w n="w26" lemma="aufero" ana="v3sria---">abstulit</w>
+          <w n="w26" lemma="aufero" lemmaRef="90671" ana="v3sria---">abstulit</w>
           <w n="w27" lemma="punc1" ana="u--------">;</w>
           <w n="w28" lemma="sicut" ana="c--------">sicut</w>
           <w n="w29" lemma="dominus" ana="n-s---md-">domino</w>
