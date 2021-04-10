@@ -13,6 +13,12 @@ Nicolai episcopi Modrusiensis Oratio in funere reverendissimi domini d. Petri ca
 
 After January 18, 1474 Nicholas (1427–1480), bishop of Modruš in Croatia, composed in Rome an oration for the cardinal priest of St Sixtus Pietro Riario (1445 – 5 January 1474), a nephew of Pope Sixtus IV. Nicholas' *Oratio in funere reverendissimi domini d. Petri cardinalis Sancti Sixti* is known from seven editions printed during the papacy of Sixtus IV, and from six more manuscript copies. The number of witnesses (and the fact that three editions were published after the author's death in 1480) suggests that the oration was a popular example of the funeral rhetoric, and of praising cardinals, in Rome under Sixtus IV.
 
+## Files in this repository (parts of the edition)
+
+1. The main edition file, containing the text and variant readings, apparatus of sources, introduction conformant to the [LDLT schema](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html): [data/nicolausmodrusiensis.oratioriario.croala-ldlt.xml](https://github.com/nevenjovanovic/modruski-ldlt/blob/main/data/nicolausmodrusiensis.oratioriario.croala-ldlt.xml)
+2. The text segmented into words (and interpunction), with morphological analysis: [data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.xml](https://github.com/nevenjovanovic/modruski-ldlt/blob/main/data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.xml)
+3. The segmented text with lemmata and references to the LiLa LemmaBank: [data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.lemmata.xml](https://github.com/nevenjovanovic/modruski-ldlt/blob/main/data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.lemmata.xml)
+
 ## Brief survey of existing editions
 
 After the 1480s, the oration for Riario was first published in 2005 (edited by Neven Jovanović), as part of the digital collection Croatiae auctores Latini (current URL: <croala.ffzg.unizg.hr/cgi-bin/navigate.pl?croala.67>). The text was based on the incunable printed by Stephanus Plannck in Rome in 1482, which seems to be the edition best preserved in libraries around the world (cf. <www.gesamtkatalogderwiegendrucke.de/docs/M26709.htm>).
@@ -31,13 +37,18 @@ We intend to process the XML file to prepare a set of *indices* of variant readi
 
 ## Plan for implementing features of the LDLT's encoding guidelines
 
-1. transfer the collation to a single file conformant to the [LDLT schema](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html)
-2. add analysis of readings according to the LDLT schema
-3. translate the introduction, textual and historical notes, the thematic outline and apparatus fontium into Latin, encode it in the edition file according to the LDLT schema
-4. work with the Editorial Board and the DLL staff to develop a way of including grammatical and lexical commentary in the encoding (as attributes of the 'w' tags and using the ALDT treebank schema and the LiLa Lemma Bank references)
+1. transfer the collation to a single file conformant to the [LDLT schema](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) -- DONE
+2. add analysis of readings according to the LDLT schema -- DONE
+3. translate the [introduction](accessoria/praefatio.md), textual and historical notes, the thematic outline and apparatus fontium into Latin, encode it in the edition file according to the LDLT schema -- IN PROGRESS
+4. work with the Editorial Board and the DLL staff to solve the problem of [referring to specific passages in the paragraph from the apparatus fontium](accessoria/apparatus-fontium.md)
+4. work with the Editorial Board and the DLL staff to develop a way of including grammatical and lexical commentary in the encoding (as attributes of the 'w' tags and using the ALDT treebank schema and the LiLa Lemma Bank references) -- IN PROGRESS
 5. prepare the indices using XSLT and XQuery transformations
 
 For the front matter, textual commentary, and appendices of the proposed edition I intend to use Latin.
+
+Here is a screenshot of the edition in a test run using the excellent [EVT 2 viewer](http://evt.labcd.unipi.it/).
+
+![A test run of the edition in EVT](accessoria/imagines/evt-nmor-2021-04-10.png)
 
 ## License
 
