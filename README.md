@@ -39,7 +39,12 @@ We intend to process the XML file to prepare a set of *indices* of variant readi
 
 1. transfer the collation to a single file conformant to the [LDLT schema](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) -- DONE
 2. add analysis of readings according to the LDLT schema -- DONE
-3. translate the [introduction](accessoria/praefatio.md), textual and historical notes, the thematic outline and apparatus fontium into Latin, encode it in the edition file according to the LDLT schema -- IN PROGRESS
+3. translate into Latin the editorial matter and encode it in the edition file according to the LDLT schema; the editoral matter includes:
+  1. the [introduction](accessoria/praefatio.md)
+  2. the textual notes - DONE
+  3. the historical notes
+  3. the thematic outline
+  4. apparatus fontium and parallel passages (selected)
 4. work with the Editorial Board and the DLL staff to solve the problem of [referring to specific passages in the paragraph from the apparatus fontium](accessoria/apparatus-fontium.md)
 4. work with the Editorial Board and the DLL staff to develop a way of including grammatical and lexical commentary in the encoding (as attributes of the 'w' tags and using the ALDT treebank schema and the LiLa Lemma Bank references) -- IN PROGRESS
 5. prepare the indices using XSLT and XQuery transformations
@@ -49,6 +54,8 @@ For the front matter, textual commentary, and appendices of the proposed edition
 Here is a screenshot of the edition in a test run using the excellent [EVT 2 viewer](http://evt.labcd.unipi.it/).
 
 ![A test run of the edition in EVT](accessoria/imagines/evt-nmor-2021-04-10.png)
+
+The test run is live at our CroALa server:  [croala.ffzg.unizg.hr/modrusiensis-oratio/](http://croala.ffzg.unizg.hr/modrusiensis-oratio/).
 
 ## License
 
