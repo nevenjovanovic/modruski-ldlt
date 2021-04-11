@@ -40,11 +40,11 @@ We intend to process the XML file to prepare a set of *indices* of variant readi
 1. transfer the collation to a single file conformant to the [LDLT schema](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html) -- DONE
 2. add analysis of readings according to the LDLT schema -- DONE
 3. translate into Latin the editorial matter and encode it in the edition file according to the LDLT schema; the editoral matter includes:
-  1. the [introduction](accessoria/praefatio.md)
-  2. the textual notes - DONE
-  3. the historical notes
-  3. the thematic outline
-  4. apparatus fontium and parallel passages (selected)
+   1. the [introduction](accessoria/praefatio.md)
+   2. the textual notes - DONE
+   3. the historical notes
+   3. the thematic outline
+   4. apparatus fontium and parallel passages (selected)
 4. work with the Editorial Board and the DLL staff to solve the problem of [referring to specific passages in the paragraph from the apparatus fontium](accessoria/apparatus-fontium.md)
 4. work with the Editorial Board and the DLL staff to develop a way of including grammatical and lexical commentary in the encoding (as attributes of the 'w' tags and using the ALDT treebank schema and the LiLa Lemma Bank references) -- IN PROGRESS
 5. prepare the indices using XSLT and XQuery transformations
