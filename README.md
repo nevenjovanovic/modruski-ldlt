@@ -16,16 +16,17 @@ After January 18, 1474 Nicholas (1427–1480), bishop of Modruš in Croatia, com
 ## Files in this repository (parts of the edition)
 
 1. The main edition file, containing the text and variant readings, apparatus of sources, introduction conformant to the [LDLT schema](https://digitallatin.github.io/guidelines/LDLT-Guidelines.html): [data/nicolausmodrusiensis.oratioriario.croala-ldlt.xml](https://github.com/nevenjovanovic/modruski-ldlt/blob/main/data/nicolausmodrusiensis.oratioriario.croala-ldlt.xml)
-2. The text segmented into words (and interpunction), with morphological analysis: [data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.xml](https://github.com/nevenjovanovic/modruski-ldlt/blob/main/data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.xml)
-3. The segmented text with lemmata and references to the LiLa LemmaBank: [data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.lemmata.xml](https://github.com/nevenjovanovic/modruski-ldlt/blob/main/data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.lemmata.xml)
+2. The text segmented into words (and interpunction), with morphological analysis: [data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.xml](data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.xml)
+3. The segmented text with lemmata and references to the LiLa LemmaBank: [data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.lemmata.xml](data/morphosyntax/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.lemmata.xml)
 
 ## Brief survey of existing editions
 
 After the 1480s, the oration for Riario was first published in 2005 (edited by Neven Jovanović), as part of the digital collection Croatiae auctores Latini (current URL: <croala.ffzg.unizg.hr/cgi-bin/navigate.pl?croala.67>). The text was based on the incunable printed by Stephanus Plannck in Rome in 1482, which seems to be the edition best preserved in libraries around the world (cf. <www.gesamtkatalogderwiegendrucke.de/docs/M26709.htm>).
 
-The CroALa 2005 edition was a base for two further versions: recently it was used as the main text in the article Cook, B., & DeSilva, J. M. (2018). Princely Ambiguity: A Translation of Nikolaus of Modruš’ Funeral Oration for Cardinal Pietro Riario: Oratio in
-funere Petri Cardinalis Sancti Sixti (1474). *Royal Studies Journal*, 5(2), 92–128. <http://doi.org/10.21039/rsj.152> – and it was enhanced by further collations, transcriptions and comments in an ongoing edition by Neven Jovanović, published through Github and Zenodo,
-modruski-temrezah (DOI: <http://doi.org/10.5281/zenodo.3552475>, prepared in the framework of the TeMrežaH research project, PI Lahorka Plejić Poje, University of Zagreb).
+The CroALa 2005 edition was a base for two further versions: 
++ Cook, B., & DeSilva, J. M. (2018). Princely Ambiguity: A Translation of Nikolaus of Modruš’ Funeral Oration for Cardinal Pietro Riario: Oratio in
+funere Petri Cardinalis Sancti Sixti (1474). *Royal Studies Journal*, 5(2), 92–128. <http://doi.org/10.21039/rsj.152>
++ an ongoing edition by Neven Jovanović, published through Github and Zenodo, modruski-temrezah (DOI: <http://doi.org/10.5281/zenodo.3552475>, prepared in the framework of the TeMrežaH research project, PI Lahorka Plejić Poje, University of Zagreb), where it and it is being enhanced by further collations, transcriptions and comments.
 
 The edition by Cook and DeSilva is not a digital edition (it was only typeset and distributed digitally as PDF). Both the CroALa edition and the modruski-temrezah edition are encoded as TEI XML, and both are freely accessible and reusable through respective Github repositories, but they do not match the LDLT schema. The 2005 edition lacks a full collation, and the modruski-temrezah edition encodes each witness (and further commentaries) in a separate file. Moreover, the modruski-temrezah edition is at the moment a set of files without an interface; it is more a repository of working materials than a completed edition.
 
@@ -59,4 +60,4 @@ The test run is live at our CroALa server:  [croala.ffzg.unizg.hr/modrusiensis-o
 
 ## License
 
-[CC-BY](https://github.com/nevenjovanovic/modruski-ldlt/blob/master/LICENSE.md)
+[CC-BY](LICENSE.md)
