@@ -21,7 +21,7 @@ After January 18, 1474 Nicholas (1427–1480), bishop of Modruš in Croatia, com
 
 ## Brief survey of existing editions
 
-After the 1480s, the oration for Riario was first published in 2005 (edited by Neven Jovanović), as part of the digital collection Croatiae auctores Latini (current URL: <croala.ffzg.unizg.hr/cgi-bin/navigate.pl?croala.67>). The text was based on the incunable printed by Stephanus Plannck in Rome in 1482, which seems to be the edition best preserved in libraries around the world (cf. <www.gesamtkatalogderwiegendrucke.de/docs/M26709.htm>).
+After the 1480s, the oration for Riario was first published in 2005 (edited by Neven Jovanović), as part of the digital collection Croatiae auctores Latini (current URL: <http://croala.ffzg.unizg.hr/cgi-bin/navigate.pl?croala.67>). The text was based on the incunable printed by Stephanus Plannck in Rome in 1482, which seems to be the edition best preserved in libraries around the world (cf. <http://www.gesamtkatalogderwiegendrucke.de/docs/M26709.htm>).
 
 The CroALa 2005 edition was a base for two further versions: 
 + Cook, B., & DeSilva, J. M. (2018). Princely Ambiguity: A Translation of Nikolaus of Modruš’ Funeral Oration for Cardinal Pietro Riario: Oratio in
