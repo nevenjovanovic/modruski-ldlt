@@ -162,8 +162,8 @@
          <app>
             <lem>MODRVSIENSI</lem>
             <rdg wit="#Ge" type="addidit">Modrusiensi 1475</rdg>
-            <rdg wit="#ve" type="ignorat">Modnisiensi</rdg>
-            <rdg wit="#co" type="ignorat">Modrisiensi</rdg>
+            <rdg wit="#ve" type="error" cause="lectioFalsa">Modnisiensi</rdg>
+            <rdg wit="#co" type="error" cause="lectioFalsa">Modrisiensi</rdg>
          </app>
     </head>
          
@@ -260,7 +260,7 @@ diligentissimus restaurator.
 Corruit praeclarum magnanimitatis exemplar; cecidit 
 <app>
 <lem>munificentiae</lem>
-<rdg wit="#pa" type="lexicographice" cause="falsaLectio">manificentie</rdg>
+<rdg wit="#pa" type="lexicographice" cause="lectioFalsa">manificentie</rdg>
 </app>, 
 <app>
 <lem>gratitudinis</lem>
@@ -431,7 +431,7 @@ Quem ubi conspexisset Franciscus iam
 </app>  
 <app>
 <lem>ueste</lem>
-<rdg wit="#Gd #P" type="lexicographice" cause="falsaLectio">iuste</rdg>
+<rdg wit="#Gd #P" type="lexicographice" cause="lectioFalsa">iuste</rdg>
 </app> 
 indutum, quam idcirco iuuenis in itinere assumpserat quo se facilius 
 <app>
@@ -443,7 +443,7 @@ et matris fratrumque curam, ut coeperat, ageret,
 uel maturiorem 
 <app>
 <lem>domi</lem>
-<rdg wit="#Ge #C #R #va #o #ve #pa #co" type="lexicographice" cause="falsaLectio">domini</rdg>
+<rdg wit="#Ge #C #R #va #o #ve #pa #co" type="lexicographice" cause="lectioFalsa">domini</rdg>
 </app>  
 praestolaretur aetatem, 
 <app>
@@ -583,7 +583,7 @@ uersus complures multosque grammaticae textus, quos olim
 ita memoriter recitabat ut ea 
 <app>
 <lem>illum</lem>
-<rdg wit="#o" type="synonymum">eum</rdg>
+<rdg wit="#o" type="synonymon">eum</rdg>
 </app>  
 heri aut 
 <app>
@@ -629,7 +629,7 @@ Inerat enim menti eius praesaga quaedam futurorum diuinitas
 complurimaque, 
 <app>
 <lem>antequam</lem>
-<rdg wit="#co" type="orthographia" cause="divisit">ante quam</rdg>
+<rdg wit="#co" type="orthographia" cause="divisio">ante quam</rdg>
 </app> 
 <app>
 <lem>contigissent</lem>
@@ -683,7 +683,7 @@ Cerno hic
 praelatos et ex aliis ordinibus 
 <app>
 <lem>uiros</lem>
-<rdg wit="#Gd" type="lexicographice" cause="falsaLectio">unos</rdg>
+<rdg wit="#Gd" type="lexicographice" cause="lectioFalsa">unos</rdg>
 </app> 
 <app>
 <lem>praestantes</lem>
@@ -715,7 +715,7 @@ demandatum ab altissimi prouidentia munus uiriliter absolueret et
 suum per uaria 
 <app>
 <lem>bonorum</lem>
-<rdg wit="#va" type="lexicographice" cause="falsaLectio">honorum</rdg>
+<rdg wit="#va" type="lexicographice" cause="lectioFalsa">honorum</rdg>
 </app> 
 incrementa ad summum 
 <app>
@@ -755,7 +755,7 @@ eum dignitatis splendore uoluit illustrare
 omnibusque mundi principibus ostendere quo ministro et ex quam humili loco 
 <app>
 <lem>accepto</lem>
-<rdg wit="#pa1" ana="inmargine" type="omisit" cause="adiditPostea">Postea addidit in margine: accepto</rdg>
+<rdg wit="#pa1" ana="inmargine" type="omisit" cause="addiditPostea">Postea addidit in margine: accepto</rdg>
 </app> 
 uoluerit in sui uicarii 
 <app>
@@ -1867,7 +1867,7 @@ exposuit.
 Haec quoque sacra apostolorum 
 <app>
 <lem>aedes</lem>
-<rdg wit="#co" type="delevit" cause="corrrectio"><del resp="#co1">eius</del> ędes</rdg>
+<rdg wit="#co" type="delevit" cause="correctio"><del resp="#co1">eius</del> ędes</rdg>
 </app>  
 beneficentiam eius testari potuisset 
 <app>
@@ -1900,7 +1900,7 @@ refertam.  Sed Dei
 nobis tam repente 
 <app>
 <lem>ademptus</lem>
-<rdg wit="#P" type="lexicographice" cause="falsaLectio">adeptus</rdg>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">adeptus</rdg>
 </app>  
 est; non quod tam piis operibus non delectaretur Deus, uerum, quod ualde pertimesco, ut eum calamitatibus, quibus forsan in nostra crimina 
 <app>
@@ -1910,7 +1910,7 @@ est; non quod tam piis operibus non delectaretur Deus, uerum, quod ualde pertime
 decreuit, 
 <app>
 <lem>immeritum</lem>
-<rdg wit="#R" type="lexicographice" cause="falsaLectio">interitum</rdg>
+<rdg wit="#R" type="lexicographice" cause="lectioFalsa">interitum</rdg>
 </app>  
 subtraheret et 
 pro adimpleto bene 
@@ -1929,7 +1929,7 @@ non differret.</p>
 Cuius miserationis dilectionisque certa indicia 
 <app>
 <lem>in</lem>
-<rdg wit="#P" type="lexicographice" cause="falsaLectio">iam</rdg>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">iam</rdg>
 </app>  
 ipsius uidimus morte 
 quam, cum multis ante diebus aduentare praesentiret, 
@@ -1980,7 +1980,7 @@ nec se in medio iuuentutis flore ex tanto imperio et ex
 </app>  
 <app>
 <lem>opibus</lem>
-<rdg wit="#V #Gd #P #m" type="lexicographice" cause="falsaLectio">operibus</rdg>
+<rdg wit="#V #Gd #P #m" type="lexicographice" cause="lectioFalsa">operibus</rdg>
 </app>  
 subtrahi uel 
 <app>
@@ -2020,7 +2020,7 @@ Cepi enim illum ex hac mortalitate fructum quem maximum mea fortuna capere potui
 Maius restabat nihil; quicquid supererat, merito mihi suspectum metuendumque fuisset.  
 <app>
 <lem>Proinde</lem>
-<rdg wit="#P" type="lexicographice" cause="falsaLectio">Prouide</rdg>
+<rdg wit="#P" type="lexicographice" cause="lectioFalsa">Prouide</rdg>
 </app>  
 licet 
 <cit><quote>cupiam dissolui et esse cum Christo, uror tamen sola uestrarum 
@@ -2063,13 +2063,13 @@ sua clementia inter uos partiatur,
 ut et uos meritorum uestrorum et me non praestiti officii 
 <app>
 <lem>minus</lem>
-<rdg wit="#m" type="lexicographice" cause="falsaLectio">munus</rdg>
+<rdg wit="#m" type="lexicographice" cause="lectioFalsa">munus</rdg>
 </app>  
 paeniteat.  
 Ad haec compellit me et uehementius urget mea erga uos incredibilis caritas ut uos horter atque obtester ne huius mundi illecebris atque lenociniis animum uestrum inducatis neue in luxu ac 
 <app>
 <lem>inanibus</lem>
-<rdg wit="#Gd #P" type="lexicographice" cause="falsaLectio">manibus</rdg>
+<rdg wit="#Gd #P" type="lexicographice" cause="lectioFalsa">manibus</rdg>
 <rdg wit="#va" type="lexicographice" cause="divisio">in anibus</rdg>
 </app>  
 eius diuitiis spem 
@@ -2080,7 +2080,7 @@ eius diuitiis spem
 ponatis; quae 
 <app>
 <lem>quam fluxae quamque fallaces</lem>
-<rdg wit="#ve" type="lexicographice" cause="falsaLectio">quamquam fluxae quamquam fallaces</rdg>
+<rdg wit="#ve" type="lexicographice" cause="lectioFalsa">quamquam fluxae quamquam fallaces</rdg>
 </app>  
 sint, ego unus uobis maximo possum esse documento.  
 Credite quoniam 
@@ -2103,7 +2103,7 @@ nihil anteponite scientes unicuique uestrum
 propositam 
 <app>
 <lem>esse a Domino</lem>
-<rdg wit="#va" type="omisit" cause="falsaLectio">a Deo</rdg>
+<rdg wit="#va" type="omisit" cause="lectioFalsa">a Deo</rdg>
 </app>  
 laborum suorum mercedem; 
 quae etiam si nulla esset, hoc tamen ipsum 
