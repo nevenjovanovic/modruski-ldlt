@@ -49,6 +49,7 @@ We intend to process the XML file to prepare a set of *indices* of variant readi
 4. work with the Editorial Board and the DLL staff to solve the problem of [referring to specific passages in the paragraph from the apparatus fontium](accessoria/apparatus-fontium.md)
 4. work with the Editorial Board and the DLL staff to develop a way of including grammatical and lexical commentary in the encoding (as attributes of the 'w' tags and using the ALDT treebank schema and the LiLa Lemma Bank references) -- IN PROGRESS
 5. prepare the indices using XSLT and XQuery transformations
+   1. a [word list](accessoria/verba.md), linked to LiLa lemma bank IDs (a first sketch)
 
 For the front matter, textual commentary, and appendices of the proposed edition I intend to use Latin.
 
