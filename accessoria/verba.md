@@ -1,215 +1,367 @@
 # Verba orationis in funere Riarii
 
-Pro tempore (lemmata 211)
+Pro tempore (lemmata 360)
 
-[ab](https://lila-erc.eu/data/id/lemma/86824)  
-[abduco](https://lila-erc.eu/data/id/lemma/86867)  
-[absum](https://lila-erc.eu/data/id/lemma/87040)  
-[accipio](https://lila-erc.eu/data/id/lemma/87119)  
-[acerbitas](https://lila-erc.eu/data/id/lemma/87188)  
-[adimo](https://lila-erc.eu/data/id/lemma/87456)  
-[admiror](https://lila-erc.eu/data/id/lemma/87541)  
-[aetas](https://lila-erc.eu/data/id/lemma/87955)  
-[alius](https://lila-erc.eu/data/id/lemma/88481)  
-[alter](https://lila-erc.eu/data/id/lemma/88457)  
-[amitto](https://lila-erc.eu/data/id/lemma/88724)  
-[amplus](https://lila-erc.eu/data/id/lemma/88785)  
-[ars](https://lila-erc.eu/data/id/lemma/90089)  
-[atque](https://lila-erc.eu/data/id/lemma/90490)  
-[aufero](https://lila-erc.eu/data/id/lemma/90671)  
-[aut](https://lila-erc.eu/data/id/lemma/90827)  
-[autem](https://lila-erc.eu/data/id/lemma/90828)  
-[avunculus](https://lila-erc.eu/data/id/lemma/90860)  
-[baculum](https://lila-erc.eu/data/id/lemma/91227)  
-[bene](https://lila-erc.eu/data/id/lemma/91473)  
-[benefactor](https://lila-erc.eu/data/id/lemma/91478)  
-[benignitas](https://lila-erc.eu/data/id/lemma/91493)  
-[benignus](https://lila-erc.eu/data/id/lemma/91494)  
-[cado](https://lila-erc.eu/data/id/lemma/92179)  
-[careo](https://lila-erc.eu/data/id/lemma/92848)  
-[celeber](https://lila-erc.eu/data/id/lemma/93313)  
-[celebratio](https://lila-erc.eu/data/id/lemma/93315)  
-[celebro](https://lila-erc.eu/data/id/lemma/93319)  
-[cinis](https://lila-erc.eu/data/id/lemma/94017)  
-[claresco](https://lila-erc.eu/data/id/lemma/94423)  
-[comitas](https://lila-erc.eu/data/id/lemma/95039)  
-[concivis](https://lila-erc.eu/data/id/lemma/95537)  
-[conor](https://lila-erc.eu/data/id/lemma/95962)  
-[conservus](https://lila-erc.eu/data/id/lemma/97283)  
-[consilium](https://lila-erc.eu/data/id/lemma/96060)  
-[consolatio](https://lila-erc.eu/data/id/lemma/96085)  
-[corpus](https://lila-erc.eu/data/id/lemma/96667)  
-[corruo](https://lila-erc.eu/data/id/lemma/96707)  
-[cottidie](https://lila-erc.eu/data/id/lemma/96794)  
-[crudelis](https://lila-erc.eu/data/id/lemma/97047)  
-[culpa](https://lila-erc.eu/data/id/lemma/97183)  
-[cultor](https://lila-erc.eu/data/id/lemma/97195)  
-[demonstro](https://lila-erc.eu/data/id/lemma/98568)  
-[deprecor](https://lila-erc.eu/data/id/lemma/98779)  
-[desiderium](https://lila-erc.eu/data/id/lemma/98899)  
-[dexteritas](https://lila-erc.eu/data/id/lemma/100367)  
-[diligens](https://lila-erc.eu/data/id/lemma/12447)  
-[dirus](https://lila-erc.eu/data/id/lemma/99555)  
-[discipulus](https://lila-erc.eu/data/id/lemma/99613)  
-[dispicio](https://lila-erc.eu/data/id/lemma/99740)  
-[do](https://lila-erc.eu/data/id/lemma/99970)  
-[doctus](https://lila-erc.eu/data/id/lemma/5182)  
-[duodecim](https://lila-erc.eu/data/id/lemma/100255)  
-[egeo](https://lila-erc.eu/data/id/lemma/100701)  
-[eloquentia](https://lila-erc.eu/data/id/lemma/102693)  
-[enim](https://lila-erc.eu/data/id/lemma/101119)  
-[episcopus](https://lila-erc.eu/data/id/lemma/101294)  
-[etiam](https://lila-erc.eu/data/id/lemma/101554)  
-[ex](https://lila-erc.eu/data/id/lemma/101716)  
-[exemplar](https://lila-erc.eu/data/id/lemma/101972)  
-[exorno](https://lila-erc.eu/data/id/lemma/102106)  
-[exspecto](https://lila-erc.eu/data/id/lemma/102335)  
-[exstinguo](https://lila-erc.eu/data/id/lemma/102356)  
-[exsto](https://lila-erc.eu/data/id/lemma/102360)  
-[extremus](https://lila-erc.eu/data/id/lemma/102414)  
-[fautor](https://lila-erc.eu/data/id/lemma/103027)  
-[fervesco](https://lila-erc.eu/data/id/lemma/104230)  
-[frater](https://lila-erc.eu/data/id/lemma/103739)  
-[funebris](https://lila-erc.eu/data/id/lemma/104016)  
-[funus](https://lila-erc.eu/data/id/lemma/104031)  
-[grandis](https://lila-erc.eu/data/id/lemma/104842)  
-[gratitudo](https://lila-erc.eu/data/id/lemma/136171)  
-[gravis](https://lila-erc.eu/data/id/lemma/104903)  
-[habeo](https://lila-erc.eu/data/id/lemma/105044)  
-[hic](https://lila-erc.eu/data/id/lemma/105455)  
-[hic](https://lila-erc.eu/data/id/lemma/18676)  
-[hodiernus](https://lila-erc.eu/data/id/lemma/105582)  
-[iactura](https://lila-erc.eu/data/id/lemma/109476)  
-[idem](https://lila-erc.eu/data/id/lemma/109082)  
-[igitur](https://lila-erc.eu/data/id/lemma/106127)  
-[ille](https://lila-erc.eu/data/id/lemma/106221)  
-[immortalis](https://lila-erc.eu/data/id/lemma/106439)  
-[impono](https://lila-erc.eu/data/id/lemma/106633)  
-[in](https://lila-erc.eu/data/id/lemma/106748)  
-[incredibilis](https://lila-erc.eu/data/id/lemma/106731)  
-[infelix](https://lila-erc.eu/data/id/lemma/107633)  
-[ingenium](https://lila-erc.eu/data/id/lemma/107798)  
-[ingratitudo](https://lila-erc.eu/data/id/lemma/107815)  
-[insignis](https://lila-erc.eu/data/id/lemma/108151)  
-[intereo](https://lila-erc.eu/data/id/lemma/108458)  
-[interpretor](https://lila-erc.eu/data/id/lemma/108602)  
-[interverto](https://lila-erc.eu/data/id/lemma/108688)  
-[intueor](https://lila-erc.eu/data/id/lemma/108773)  
-[iocundus](https://lila-erc.eu/data/id/lemma/109160)  
-[ipse](https://lila-erc.eu/data/id/lemma/108945)  
-[is](https://lila-erc.eu/data/id/lemma/109083)  
-[ita](https://lila-erc.eu/data/id/lemma/109126)  
-[jaceo](https://lila-erc.eu/data/id/lemma/106000)  
-[jam](https://lila-erc.eu/data/id/lemma/106025)  
-[levamen](https://lila-erc.eu/data/id/lemma/110295)  
-[licet](https://lila-erc.eu/data/id/lemma/110432)  
-[lugeo](https://lila-erc.eu/data/id/lemma/110943)  
-[maeror](https://lila-erc.eu/data/id/lemma/111251)  
-[magnanimitas](https://lila-erc.eu/data/id/lemma/111295)  
-[magnificus](https://lila-erc.eu/data/id/lemma/111307)  
-[magnitudo](https://lila-erc.eu/data/id/lemma/111317)  
-[maiores](https://lila-erc.eu/data/id/lemma/63256)  
-[militia](https://lila-erc.eu/data/id/lemma/112331)  
-[minime](https://lila-erc.eu/data/id/lemma/27351)  
-[misero](https://lila-erc.eu/data/id/lemma/112466)  
-[modestia](https://lila-erc.eu/data/id/lemma/112526)  
-[modus](https://lila-erc.eu/data/id/lemma/112553)  
-[munificentia](https://lila-erc.eu/data/id/lemma/113047)  
-[munus](https://lila-erc.eu/data/id/lemma/113061)  
-[necesse](https://lila-erc.eu/data/id/lemma/113513)  
-[nolo](https://lila-erc.eu/data/id/lemma/113794)  
-[nomen](https://lila-erc.eu/data/id/lemma/113797)  
-[non](https://lila-erc.eu/data/id/lemma/114108)  
-[nos](https://lila-erc.eu/data/id/lemma/110487)  
-[nota](https://lila-erc.eu/data/id/lemma/113843)  
-[numquam](https://lila-erc.eu/data/id/lemma/114084)  
-[nunc](https://lila-erc.eu/data/id/lemma/113990)  
-[obscurus](https://lila-erc.eu/data/id/lemma/114385)  
-[omnis](https://lila-erc.eu/data/id/lemma/114954)  
-[onus](https://lila-erc.eu/data/id/lemma/115001)  
-[oratio](https://lila-erc.eu/data/id/lemma/115179)  
-[orbo](https://lila-erc.eu/data/id/lemma/115202)  
-[ordo](https://lila-erc.eu/data/id/lemma/115236)  
-[orior](https://lila-erc.eu/data/id/lemma/115264)  
-[ornamentum](https://lila-erc.eu/data/id/lemma/115271)  
-[parco](https://lila-erc.eu/data/id/lemma/116001)  
-[pars](https://lila-erc.eu/data/id/lemma/116084)  
-[particeps](https://lila-erc.eu/data/id/lemma/116096)  
-[partim](https://lila-erc.eu/data/id/lemma/116111)  
-[patria](https://lila-erc.eu/data/id/lemma/116250)  
-[pectus](https://lila-erc.eu/data/id/lemma/116348)  
-[per](https://lila-erc.eu/data/id/lemma/116569)  
-[perdo](https://lila-erc.eu/data/id/lemma/116738)  
-[peregrinatio](https://lila-erc.eu/data/id/lemma/116766)  
-[polliceor](https://lila-erc.eu/data/id/lemma/118296)  
-[pontifex](https://lila-erc.eu/data/id/lemma/118418)  
-[possum](https://lila-erc.eu/data/id/lemma/118569)  
-[pote](https://lila-erc.eu/data/id/lemma/118664)  
-[praecipuus](https://lila-erc.eu/data/id/lemma/118741)  
-[praeclarus](https://lila-erc.eu/data/id/lemma/118752)  
-[praesertim](https://lila-erc.eu/data/id/lemma/119199)  
-[praetermitto](https://lila-erc.eu/data/id/lemma/119306)  
-[primum](https://lila-erc.eu/data/id/lemma/116338)  
-[princeps](https://lila-erc.eu/data/id/lemma/73416)  
-[propemodum](https://lila-erc.eu/data/id/lemma/119925)  
-[prorsus1](https://lila-erc.eu/data/id/lemma/120016)  
-[puerilis](https://lila-erc.eu/data/id/lemma/120381)  
-[puto](https://lila-erc.eu/data/id/lemma/120610)  
-[qualis](https://lila-erc.eu/data/id/lemma/121068)  
-[quamvis](https://lila-erc.eu/data/id/lemma/121355)  
-[quidem](https://lila-erc.eu/data/id/lemma/121168)  
-[quilibet](https://lila-erc.eu/data/id/lemma/121317)  
-[quod](https://lila-erc.eu/data/id/lemma/74854)  
-[quoniam](https://lila-erc.eu/data/id/lemma/121289)  
-[ratio](https://lila-erc.eu/data/id/lemma/121458)  
-[reddo](https://lila-erc.eu/data/id/lemma/122458)  
-[rego](https://lila-erc.eu/data/id/lemma/122542)  
-[religiosus](https://lila-erc.eu/data/id/lemma/121716 )  
-[relinquo](https://lila-erc.eu/data/id/lemma/122569)  
-[res](https://lila-erc.eu/data/id/lemma/121868)  
-[responsum](https://lila-erc.eu/data/id/lemma/122946)  
-[restaurator](https://lila-erc.eu/data/id/lemma/121913)  
-[sacrosanctus](https://lila-erc.eu/data/id/lemma/127510)  
-[saeculum](https://lila-erc.eu/data/id/lemma/123105)  
-[saltem](https://lila-erc.eu/data/id/lemma/123252)  
-[sanctus](https://lila-erc.eu/data/id/lemma/78250)  
-[scriptura](https://lila-erc.eu/data/id/lemma/127417)  
-[secretum](https://lila-erc.eu/data/id/lemma/79660)  
-[servo](https://lila-erc.eu/data/id/lemma/124551)  
-[solacium](https://lila-erc.eu/data/id/lemma/125029)  
-[soleo](https://lila-erc.eu/data/id/lemma/125051)  
-[splendor](https://lila-erc.eu/data/id/lemma/125427)  
-[studiosus](https://lila-erc.eu/data/id/lemma/125888)  
-[suavis](https://lila-erc.eu/data/id/lemma/125947)  
-[subeo](https://lila-erc.eu/data/id/lemma/126085)  
-[sum1](https://lila-erc.eu/data/id/lemma/126689)  
-[superus](https://lila-erc.eu/data/id/lemma/126999)  
-[suus](https://lila-erc.eu/data/id/lemma/127165)  
-[tamen](https://lila-erc.eu/data/id/lemma/127607)  
-[tametsi](https://lila-erc.eu/data/id/lemma/129157)  
-[tamquam](https://lila-erc.eu/data/id/lemma/127617)  
-[tantum](https://lila-erc.eu/data/id/lemma/110679)  
-[tantum](https://lila-erc.eu/data/id/lemma/131447)  
-[tantus](https://lila-erc.eu/data/id/lemma/127630)  
-[temeritas](https://lila-erc.eu/data/id/lemma/127755)  
-[teneo](https://lila-erc.eu/data/id/lemma/127822)  
-[tenuis](https://lila-erc.eu/data/id/lemma/127852)  
-[tristis](https://lila-erc.eu/data/id/lemma/129020)  
-[tu](https://lila-erc.eu/data/id/lemma/29131)  
-[tum](https://lila-erc.eu/data/id/lemma/129198)  
-[tunc](https://lila-erc.eu/data/id/lemma/129223)  
-[ullus](https://lila-erc.eu/data/id/lemma/130494)  
-[universus](https://lila-erc.eu/data/id/lemma/130700)  
-[usurpo](https://lila-erc.eu/data/id/lemma/130904)  
-[valeo](https://lila-erc.eu/data/id/lemma/129509)  
-[vel](https://lila-erc.eu/data/id/lemma/129695)  
-[venia](https://lila-erc.eu/data/id/lemma/129786)  
-[verbum](https://lila-erc.eu/data/id/lemma/131057)  
-[vereor](https://lila-erc.eu/data/id/lemma/129863)  
-[vester](https://lila-erc.eu/data/id/lemma/130009)  
-[vetustus](https://lila-erc.eu/data/id/lemma/130074)  
-[vir](https://lila-erc.eu/data/id/lemma/130300)  
-[virilis](https://lila-erc.eu/data/id/lemma/130345)  
-[vita](https://lila-erc.eu/data/id/lemma/130393)  
-[vivo](https://lila-erc.eu/data/id/lemma/130476)  
-[zelus](https://lila-erc.eu/data/id/lemma/131201)  
+| Lemma | LiLa ID | Quot in oratione? |
+|----- |----- |----- |
+| et | [lemma/101542](http://lila-erc.eu/data/id/lemma/101542)  | 125|
+| sum1 | [lemma/126689](http://lila-erc.eu/data/id/lemma/126689)  | 97|
+| is | [lemma/109083](http://lila-erc.eu/data/id/lemma/109083)  | 81|
+| in | [lemma/106748](http://lila-erc.eu/data/id/lemma/106748)  | 70|
+| hic | [lemma/105455](http://lila-erc.eu/data/id/lemma/105455)  | 50|
+| ut | [lemma/130906](http://lila-erc.eu/data/id/lemma/130906)  | 49|
+| ab | [lemma/86824](http://lila-erc.eu/data/id/lemma/86824)  | 44|
+| ille | [lemma/106221](http://lila-erc.eu/data/id/lemma/106221)  | 43|
+| omnis | [lemma/114954](http://lila-erc.eu/data/id/lemma/114954)  | 41|
+| suus | [lemma/127165](http://lila-erc.eu/data/id/lemma/127165)  | 40|
+| non | [lemma/114108](http://lila-erc.eu/data/id/lemma/114108)  | 39|
+| possum | [lemma/118569](http://lila-erc.eu/data/id/lemma/118569)  | 33|
+| atque | [lemma/90490](http://lila-erc.eu/data/id/lemma/90490)  | 32|
+| ipse | [lemma/108945](http://lila-erc.eu/data/id/lemma/108945)  | 31|
+| quam | [lemma/74492](http://lila-erc.eu/data/id/lemma/74492)  | 27|
+| nullus | [lemma/114081](http://lila-erc.eu/data/id/lemma/114081)  | 26|
+| ego | [lemma/100712](http://lila-erc.eu/data/id/lemma/100712)  | 25|
+| sui | [lemma/131255](http://lila-erc.eu/data/id/lemma/131255)  | 23|
+| cum | [lemma/97202](http://lila-erc.eu/data/id/lemma/97202)  | 21|
+| tu | [lemma/29131](http://lila-erc.eu/data/id/lemma/29131)  | 20|
+| res | [lemma/121868](http://lila-erc.eu/data/id/lemma/121868)  | 19|
+| tamen | [lemma/127607](http://lila-erc.eu/data/id/lemma/127607)  | 19|
+| magnus | [lemma/111319](http://lila-erc.eu/data/id/lemma/111319)  | 19|
+| alius | [lemma/88481](http://lila-erc.eu/data/id/lemma/88481)  | 18|
+| aut | [lemma/90827](http://lila-erc.eu/data/id/lemma/90827)  | 17|
+| multus | [lemma/112998](http://lila-erc.eu/data/id/lemma/112998)  | 16|
+| vel | [lemma/129695](http://lila-erc.eu/data/id/lemma/129695)  | 15|
+| si | [lemma/124676](http://lila-erc.eu/data/id/lemma/124676)  | 14|
+| superus | [lemma/126999](http://lila-erc.eu/data/id/lemma/126999)  | 14|
+| dominus | [lemma/5227](http://lila-erc.eu/data/id/lemma/5227)  | 14|
+| accipio | [lemma/87119](http://lila-erc.eu/data/id/lemma/87119)  | 13|
+| tantus | [lemma/127630](http://lila-erc.eu/data/id/lemma/127630)  | 13|
+| amicus2 | [lemma/88684](http://lila-erc.eu/data/id/lemma/88684)  | 12|
+| enim | [lemma/101119](http://lila-erc.eu/data/id/lemma/101119)  | 12|
+| per | [lemma/116569](http://lila-erc.eu/data/id/lemma/116569)  | 12|
+| quod | [lemma/74854](http://lila-erc.eu/data/id/lemma/74854)  | 12|
+| vir | [lemma/130300](http://lila-erc.eu/data/id/lemma/130300)  | 12|
+| habeo | [lemma/105044](http://lila-erc.eu/data/id/lemma/105044)  | 11|
+| ex | [lemma/101716](http://lila-erc.eu/data/id/lemma/101716)  | 11|
+| cum | [lemma/97201](http://lila-erc.eu/data/id/lemma/97201)  | 11|
+| animus | [lemma/89094](http://lila-erc.eu/data/id/lemma/89094)  | 10|
+| pontifex | [lemma/118418](http://lila-erc.eu/data/id/lemma/118418)  | 10|
+| ita | [lemma/109126](http://lila-erc.eu/data/id/lemma/109126)  | 9|
+| princeps | [lemma/73416](http://lila-erc.eu/data/id/lemma/73416)  | 9|
+| vester | [lemma/130009](http://lila-erc.eu/data/id/lemma/130009)  | 9|
+| dies | [lemma/99334](http://lila-erc.eu/data/id/lemma/99334)  | 9|
+| nunc | [lemma/113990](http://lila-erc.eu/data/id/lemma/113990)  | 9|
+| vivo | [lemma/130476](http://lila-erc.eu/data/id/lemma/130476)  | 9|
+| licet | [lemma/110432](http://lila-erc.eu/data/id/lemma/110432)  | 9|
+| pater | [lemma/116203](http://lila-erc.eu/data/id/lemma/116203)  | 8|
+| munus | [lemma/113061](http://lila-erc.eu/data/id/lemma/113061)  | 8|
+| ullus | [lemma/130494](http://lila-erc.eu/data/id/lemma/130494)  | 8|
+| do | [lemma/99970](http://lila-erc.eu/data/id/lemma/99970)  | 8|
+| frater | [lemma/103739](http://lila-erc.eu/data/id/lemma/103739)  | 8|
+| jam | [lemma/106025](http://lila-erc.eu/data/id/lemma/106025)  | 8|
+| dominus | [lemma/98084](http://lila-erc.eu/data/id/lemma/98084)  | 7|
+| magis | [lemma/111271](http://lila-erc.eu/data/id/lemma/111271)  | 7|
+| minime | [hypolemma/27351](http://lila-erc.eu/data/id/hypolemma/27351)  | 7|
+| quidem | [lemma/121168](http://lila-erc.eu/data/id/lemma/121168)  | 7|
+| autem | [lemma/90828](http://lila-erc.eu/data/id/lemma/90828)  | 7|
+| ubi | [lemma/129639](http://lila-erc.eu/data/id/lemma/129639)  | 7|
+| amplus | [lemma/88785](http://lila-erc.eu/data/id/lemma/88785)  | 6|
+| mors | [lemma/112807](http://lila-erc.eu/data/id/lemma/112807)  | 6|
+| bene | [lemma/91473](http://lila-erc.eu/data/id/lemma/91473)  | 6|
+| virtus | [lemma/130356](http://lila-erc.eu/data/id/lemma/130356)  | 6|
+| etiam | [lemma/101554](http://lila-erc.eu/data/id/lemma/101554)  | 6|
+| prudentia | [lemma/120221](http://lila-erc.eu/data/id/lemma/120221)  | 6|
+| ornamentum | [lemma/115271](http://lila-erc.eu/data/id/lemma/115271)  | 6|
+| munificentia | [lemma/113047](http://lila-erc.eu/data/id/lemma/113047)  | 6|
+| nos | [lemma/hypolemma/110487](http://lila-erc.eu/data/id/lemma/hypolemma/110487)  | 6|
+| puto | [lemma/120610](http://lila-erc.eu/data/id/lemma/120610)  | 6|
+| qualis | [lemma/121068](http://lila-erc.eu/data/id/lemma/121068)  | 6|
+| nomen | [lemma/113797](http://lila-erc.eu/data/id/lemma/113797)  | 6|
+| aetas | [lemma/87955](http://lila-erc.eu/data/id/lemma/87955)  | 6|
+| hortor | [lemma/105727](http://lila-erc.eu/data/id/lemma/105727)  | 6|
+| unde | [lemma/130603](http://lila-erc.eu/data/id/lemma/130603)  | 6|
+| studium | [lemma/125889](http://lila-erc.eu/data/id/lemma/125889)  | 6|
+| soleo | [lemma/125051](http://lila-erc.eu/data/id/lemma/125051)  | 5|
+| vita | [lemma/130393](http://lila-erc.eu/data/id/lemma/130393)  | 5|
+| splendor | [lemma/125427](http://lila-erc.eu/data/id/lemma/125427)  | 5|
+| ars | [lemma/90089](http://lila-erc.eu/data/id/lemma/90089)  | 5|
+| igitur | [lemma/106127](http://lila-erc.eu/data/id/lemma/106127)  | 5|
+| quoniam | [lemma/121289](http://lila-erc.eu/data/id/lemma/121289)  | 5|
+| quidam | [lemma/121313](http://lila-erc.eu/data/id/lemma/121313)  | 5|
+| vis | [lemma/130360](http://lila-erc.eu/data/id/lemma/130360)  | 5|
+| quicumque | [lemma/121318](http://lila-erc.eu/data/id/lemma/121318)  | 5|
+| cardinalis | [lemma/135846](http://lila-erc.eu/data/id/lemma/135846)  | 4|
+| sanctus | [lemma/78250](http://lila-erc.eu/data/id/lemma/78250)  | 4|
+| praecipue | [hypolemma/34255](http://lila-erc.eu/data/id/hypolemma/34255)  | 4|
+| noster | [lemma/113882](http://lila-erc.eu/data/id/lemma/113882)  | 4|
+| numquam | [lemma/114084](http://lila-erc.eu/data/id/lemma/114084)  | 4|
+| gravis | [lemma/104903](http://lila-erc.eu/data/id/lemma/104903)  | 4|
+| pars | [lemma/116084](http://lila-erc.eu/data/id/lemma/116084)  | 4|
+| liberalitas | [lemma/110385](http://lila-erc.eu/data/id/lemma/110385)  | 4|
+| ingenium | [lemma/107798](http://lila-erc.eu/data/id/lemma/107798)  | 4|
+| praeclarus | [lemma/118752](http://lila-erc.eu/data/id/lemma/118752)  | 4|
+| universus | [lemma/130700](http://lila-erc.eu/data/id/lemma/130700)  | 4|
+| dirus | [lemma/99555](http://lila-erc.eu/data/id/lemma/99555)  | 4|
+| idem | [lemma/109082](http://lila-erc.eu/data/id/lemma/109082)  | 4|
+| celebro | [lemma/93319](http://lila-erc.eu/data/id/lemma/93319)  | 4|
+| pectus | [lemma/116348](http://lila-erc.eu/data/id/lemma/116348)  | 4|
+| mirus | [lemma/112444](http://lila-erc.eu/data/id/lemma/112444)  | 4|
+| propono | [lemma/119973](http://lila-erc.eu/data/id/lemma/119973)  | 4|
+| exsto | [lemma/102360](http://lila-erc.eu/data/id/lemma/102360)  | 3|
+| copia1 | [lemma/96517](http://lila-erc.eu/data/id/lemma/96517)  | 3|
+| prior | [lemma/119509](http://lila-erc.eu/data/id/lemma/119509)  | 3|
+| perdo | [lemma/116738](http://lila-erc.eu/data/id/lemma/116738)  | 3|
+| ratio | [lemma/121458](http://lila-erc.eu/data/id/lemma/121458)  | 3|
+| iactura | [lemma/109476](http://lila-erc.eu/data/id/lemma/109476)  | 3|
+| cottidie | [lemma/96794](http://lila-erc.eu/data/id/lemma/96794)  | 3|
+| secretum | [lemma/79660](http://lila-erc.eu/data/id/lemma/79660)  | 3|
+| magnanimitas | [lemma/111295](http://lila-erc.eu/data/id/lemma/111295)  | 3|
+| tum | [lemma/129198](http://lila-erc.eu/data/id/lemma/129198)  | 3|
+| crudelis | [lemma/97047](http://lila-erc.eu/data/id/lemma/97047)  | 3|
+| adimo | [lemma/87456](http://lila-erc.eu/data/id/lemma/87456)  | 3|
+| nolo | [lemma/113794](http://lila-erc.eu/data/id/lemma/113794)  | 3|
+| ordo | [lemma/115236](http://lila-erc.eu/data/id/lemma/115236)  | 3|
+| culpa | [lemma/97183](http://lila-erc.eu/data/id/lemma/97183)  | 3|
+| deprecor | [lemma/98779](http://lila-erc.eu/data/id/lemma/98779)  | 3|
+| desiderium | [lemma/98899](http://lila-erc.eu/data/id/lemma/98899)  | 3|
+| avunculus | [lemma/90860](http://lila-erc.eu/data/id/lemma/90860)  | 3|
+| quamvis | [lemma/121355](http://lila-erc.eu/data/id/lemma/121355)  | 3|
+| prex | [lemma/119456](http://lila-erc.eu/data/id/lemma/119456)  | 3|
+| sedes | [lemma/124005](http://lila-erc.eu/data/id/lemma/124005)  | 3|
+| assumo | [lemma/90386](http://lila-erc.eu/data/id/lemma/90386)  | 3|
+| patior | [lemma/116222](http://lila-erc.eu/data/id/lemma/116222)  | 3|
+| evinco | [lemma/101641](http://lila-erc.eu/data/id/lemma/101641)  | 3|
+| itaque | [lemma/109129](http://lila-erc.eu/data/id/lemma/109129)  | 3|
+| percipio | [lemma/116656](http://lila-erc.eu/data/id/lemma/116656)  | 3|
+| deinde | [lemma/98386](http://lila-erc.eu/data/id/lemma/98386)  | 3|
+| diligenter | [lemma/47414](http://lila-erc.eu/data/id/lemma/47414)  | 3|
+| hic | [lemma/hypolemma/18676](http://lila-erc.eu/data/id/lemma/hypolemma/18676)  | 3|
+| complures | [lemma/95359](http://lila-erc.eu/data/id/lemma/95359)  | 3|
+| semel | [lemma/124090](http://lila-erc.eu/data/id/lemma/124090)  | 3|
+| tantum | [lemma/131447](http://lila-erc.eu/data/id/lemma/131447)  | 3|
+| oratio | [lemma/115179](http://lila-erc.eu/data/id/lemma/115179)  | 2|
+| funus | [lemma/104031](http://lila-erc.eu/data/id/lemma/104031)  | 2|
+| alter | [lemma/88457](http://lila-erc.eu/data/id/lemma/88457)  | 2|
+| maeror | [lemma/111251](http://lila-erc.eu/data/id/lemma/111251)  | 2|
+| suavis | [lemma/125947](http://lila-erc.eu/data/id/lemma/125947)  | 2|
+| extremus | [lemma/102414](http://lila-erc.eu/data/id/lemma/102414)  | 2|
+| exorno | [lemma/102106](http://lila-erc.eu/data/id/lemma/102106)  | 2|
+| prorsus1 | [hypolemma/110864](http://lila-erc.eu/data/id/hypolemma/110864)  | 2|
+| solacium | [lemma/125029](http://lila-erc.eu/data/id/lemma/125029)  | 2|
+| sacrosanctus | [lemma/127510](http://lila-erc.eu/data/id/lemma/127510)  | 2|
+| senatus | [lemma/124309](http://lila-erc.eu/data/id/lemma/124309)  | 2|
+| publicus | [lemma/120358](http://lila-erc.eu/data/id/lemma/120358)  | 2|
+| curia | [lemma/4223](http://lila-erc.eu/data/id/lemma/4223)  | 2|
+| luctus | [lemma/111143](http://lila-erc.eu/data/id/lemma/111143)  | 2|
+| consuetudo | [lemma/96179](http://lila-erc.eu/data/id/lemma/96179)  | 2|
+| benignitas | [lemma/91493](http://lila-erc.eu/data/id/lemma/91493)  | 2|
+| incredibilis | [lemma/106731](http://lila-erc.eu/data/id/lemma/106731)  | 2|
+| consilium | [lemma/96060](http://lila-erc.eu/data/id/lemma/96060)  | 2|
+| absum | [lemma/87040](http://lila-erc.eu/data/id/lemma/87040)  | 2|
+| praecipuus | [lemma/118741](http://lila-erc.eu/data/id/lemma/118741)  | 2|
+| cultor | [lemma/97195](http://lila-erc.eu/data/id/lemma/97195)  | 2|
+| diligens | [lemma/12447](http://lila-erc.eu/data/id/lemma/12447)  | 2|
+| exemplar | [lemma/101972](http://lila-erc.eu/data/id/lemma/101972)  | 2|
+| gratitudo | [lemma/136171](http://lila-erc.eu/data/id/lemma/136171)  | 2|
+| benignus | [lemma/91494](http://lila-erc.eu/data/id/lemma/91494)  | 2|
+| aufero | [lemma/90671](http://lila-erc.eu/data/id/lemma/90671)  | 2|
+| orbo | [lemma/115202](http://lila-erc.eu/data/id/lemma/115202)  | 2|
+| exspecto | [lemma/102335](http://lila-erc.eu/data/id/lemma/102335)  | 2|
+| misero | [lemma/112466](http://lila-erc.eu/data/id/lemma/112466)  | 2|
+| pote | [lemma/118664](http://lila-erc.eu/data/id/lemma/118664)  | 2|
+| venia | [lemma/129786](http://lila-erc.eu/data/id/lemma/129786)  | 2|
+| servo | [lemma/124551](http://lila-erc.eu/data/id/lemma/124551)  | 2|
+| teneo | [lemma/127822](http://lila-erc.eu/data/id/lemma/127822)  | 2|
+| modus | [lemma/112553](http://lila-erc.eu/data/id/lemma/112553)  | 2|
+| praesertim | [lemma/119199](http://lila-erc.eu/data/id/lemma/119199)  | 2|
+| temeritas | [lemma/127755](http://lila-erc.eu/data/id/lemma/127755)  | 2|
+| subeo | [lemma/126085](http://lila-erc.eu/data/id/lemma/126085)  | 2|
+| praetermitto | [lemma/119306](http://lila-erc.eu/data/id/lemma/119306)  | 2|
+| obscurus | [lemma/114385](http://lila-erc.eu/data/id/lemma/114385)  | 2|
+| tenuis | [lemma/127852](http://lila-erc.eu/data/id/lemma/127852)  | 2|
+| celeber | [lemma/93313](http://lila-erc.eu/data/id/lemma/93313)  | 2|
+| saeculum | [lemma/123105](http://lila-erc.eu/data/id/lemma/123105)  | 2|
+| tametsi | [lemma/129157](http://lila-erc.eu/data/id/lemma/129157)  | 2|
+| insignis | [lemma/108151](http://lila-erc.eu/data/id/lemma/108151)  | 2|
+| tamquam | [lemma/127617](http://lila-erc.eu/data/id/lemma/127617)  | 2|
+| religiosus | [lemma/121716 ](http://lila-erc.eu/data/id/lemma/121716 )  | 2|
+| doctus | [lemma/5182](http://lila-erc.eu/data/id/lemma/5182)  | 2|
+| scriptura | [lemma/127417](http://lila-erc.eu/data/id/lemma/127417)  | 2|
+| strenuus | [lemma/125810](http://lila-erc.eu/data/id/lemma/125810)  | 2|
+| vestis | [lemma/130034](http://lila-erc.eu/data/id/lemma/130034)  | 2|
+| induo | [lemma/107451](http://lila-erc.eu/data/id/lemma/107451)  | 2|
+| praestolor | [lemma/119248](http://lila-erc.eu/data/id/lemma/119248)  | 2|
+| puer | [lemma/118042](http://lila-erc.eu/data/id/lemma/118042)  | 2|
+| rite | [lemma/122117](http://lila-erc.eu/data/id/lemma/122117)  | 2|
+| dubito | [lemma/100176](http://lila-erc.eu/data/id/lemma/100176)  | 2|
+| carus1 | [lemma/92942](http://lila-erc.eu/data/id/lemma/92942)  | 2|
+| curo | [lemma/97341](http://lila-erc.eu/data/id/lemma/97341)  | 2|
+| doceo | [lemma/99971](http://lila-erc.eu/data/id/lemma/99971)  | 2|
+| trado | [lemma/128519](http://lila-erc.eu/data/id/lemma/128519)  | 2|
+| mox | [lemma/112849](http://lila-erc.eu/data/id/lemma/112849)  | 2|
+| velut | [lemma/129732](http://lila-erc.eu/data/id/lemma/129732)  | 2|
+| scientia | [lemma/127415](http://lila-erc.eu/data/id/lemma/127415)  | 2|
+| varius1 | [lemma/129584](http://lila-erc.eu/data/id/lemma/129584)  | 2|
+| noctu | [lemma/113771](http://lila-erc.eu/data/id/lemma/113771)  | 2|
+| ineo | [lemma/107508](http://lila-erc.eu/data/id/lemma/107508)  | 2|
+| audio | [lemma/90641](http://lila-erc.eu/data/id/lemma/90641)  | 2|
+| praeterea | [lemma/120700](http://lila-erc.eu/data/id/lemma/120700)  | 2|
+| difficilis | [lemma/99345](http://lila-erc.eu/data/id/lemma/99345)  | 2|
+| absolvo | [lemma/87018](http://lila-erc.eu/data/id/lemma/87018)  | 2|
+| tantum | [lemma/hypolemma/110679](http://lila-erc.eu/data/id/lemma/hypolemma/110679)  | 2|
+| partim | [lemma/116111](http://lila-erc.eu/data/id/lemma/116111)  | 2|
+| praesto | [lemma/119245](http://lila-erc.eu/data/id/lemma/119245)  | 2|
+| episcopus | [lemma/101294](http://lila-erc.eu/data/id/lemma/101294)  | 1|
+| funebris | [lemma/104016](http://lila-erc.eu/data/id/lemma/104016)  | 1|
+| celebratio | [lemma/93315](http://lila-erc.eu/data/id/lemma/93315)  | 1|
+| duo | [lemma/100246](http://lila-erc.eu/data/id/lemma/100246)  | 1|
+| maiores | [lemma/63256](http://lila-erc.eu/data/id/lemma/63256)  | 1|
+| usurpo | [lemma/130904](http://lila-erc.eu/data/id/lemma/130904)  | 1|
+| tristis | [lemma/129020](http://lila-erc.eu/data/id/lemma/129020)  | 1|
+| iocundus | [lemma/109160](http://lila-erc.eu/data/id/lemma/109160)  | 1|
+| consolatio | [lemma/96085](http://lila-erc.eu/data/id/lemma/96085)  | 1|
+| egeo | [lemma/100701](http://lila-erc.eu/data/id/lemma/100701)  | 1|
+| polliceor | [lemma/118296](http://lila-erc.eu/data/id/lemma/118296)  | 1|
+| dispicio | [lemma/99740](http://lila-erc.eu/data/id/lemma/99740)  | 1|
+| eloquentia | [lemma/102693](http://lila-erc.eu/data/id/lemma/102693)  | 1|
+| collega | [lemma/94828](http://lila-erc.eu/data/id/lemma/94828)  | 1|
+| comitas | [lemma/95039](http://lila-erc.eu/data/id/lemma/95039)  | 1|
+| dexteritas | [lemma/100367](http://lila-erc.eu/data/id/lemma/100367)  | 1|
+| admiror | [lemma/87541](http://lila-erc.eu/data/id/lemma/87541)  | 1|
+| amitto | [lemma/88724](http://lila-erc.eu/data/id/lemma/88724)  | 1|
+| singularis | [lemma/124888](http://lila-erc.eu/data/id/lemma/124888)  | 1|
+| baculum | [lemma/91227](http://lila-erc.eu/data/id/lemma/91227)  | 1|
+| particeps | [lemma/116096](http://lila-erc.eu/data/id/lemma/116096)  | 1|
+| peregrinatio | [lemma/116766](http://lila-erc.eu/data/id/lemma/116766)  | 1|
+| levamen | [lemma/110295](http://lila-erc.eu/data/id/lemma/110295)  | 1|
+| responsum | [lemma/122946](http://lila-erc.eu/data/id/lemma/122946)  | 1|
+| reddo | [lemma/122458](http://lila-erc.eu/data/id/lemma/122458)  | 1|
+| saltem | [lemma/123252](http://lila-erc.eu/data/id/lemma/123252)  | 1|
+| parco | [lemma/116001](http://lila-erc.eu/data/id/lemma/116001)  | 1|
+| cinis | [lemma/94017](http://lila-erc.eu/data/id/lemma/94017)  | 1|
+| exstinguo | [lemma/102356](http://lila-erc.eu/data/id/lemma/102356)  | 1|
+| jaceo | [lemma/106000](http://lila-erc.eu/data/id/lemma/106000)  | 1|
+| intereo | [lemma/108458](http://lila-erc.eu/data/id/lemma/108458)  | 1|
+| studiosus | [lemma/125888](http://lila-erc.eu/data/id/lemma/125888)  | 1|
+| fautor | [lemma/103027](http://lila-erc.eu/data/id/lemma/103027)  | 1|
+| restaurator | [lemma/121913](http://lila-erc.eu/data/id/lemma/121913)  | 1|
+| corruo | [lemma/96707](http://lila-erc.eu/data/id/lemma/96707)  | 1|
+| cado | [lemma/92179](http://lila-erc.eu/data/id/lemma/92179)  | 1|
+| lugeo | [lemma/110943](http://lila-erc.eu/data/id/lemma/110943)  | 1|
+| infelix | [lemma/107633](http://lila-erc.eu/data/id/lemma/107633)  | 1|
+| conservus | [lemma/97283](http://lila-erc.eu/data/id/lemma/97283)  | 1|
+| interverto | [lemma/108688](http://lila-erc.eu/data/id/lemma/108688)  | 1|
+| benefactor | [lemma/91478](http://lila-erc.eu/data/id/lemma/91478)  | 1|
+| intueor | [lemma/108773](http://lila-erc.eu/data/id/lemma/108773)  | 1|
+| necesse | [lemma/113513](http://lila-erc.eu/data/id/lemma/113513)  | 1|
+| acerbitas | [lemma/87188](http://lila-erc.eu/data/id/lemma/87188)  | 1|
+| abduco | [lemma/86867](http://lila-erc.eu/data/id/lemma/86867)  | 1|
+| valeo | [lemma/129509](http://lila-erc.eu/data/id/lemma/129509)  | 1|
+| verbum | [lemma/131057](http://lila-erc.eu/data/id/lemma/131057)  | 1|
+| careo | [lemma/92848](http://lila-erc.eu/data/id/lemma/92848)  | 1|
+| impono | [lemma/106633](http://lila-erc.eu/data/id/lemma/106633)  | 1|
+| onus | [lemma/115001](http://lila-erc.eu/data/id/lemma/115001)  | 1|
+| ingratitudo | [lemma/107815](http://lila-erc.eu/data/id/lemma/107815)  | 1|
+| nota | [lemma/113843](http://lila-erc.eu/data/id/lemma/113843)  | 1|
+| vereor | [lemma/129863](http://lila-erc.eu/data/id/lemma/129863)  | 1|
+| hodiernus | [lemma/105582](http://lila-erc.eu/data/id/lemma/105582)  | 1|
+| patria | [lemma/116250](http://lila-erc.eu/data/id/lemma/116250)  | 1|
+| orior | [lemma/115264](http://lila-erc.eu/data/id/lemma/115264)  | 1|
+| vetustus | [lemma/130074](http://lila-erc.eu/data/id/lemma/130074)  | 1|
+| grandis | [lemma/104842](http://lila-erc.eu/data/id/lemma/104842)  | 1|
+| immortalis | [lemma/106439](http://lila-erc.eu/data/id/lemma/106439)  | 1|
+| propemodum | [lemma/119925](http://lila-erc.eu/data/id/lemma/119925)  | 1|
+| corpus | [lemma/96667](http://lila-erc.eu/data/id/lemma/96667)  | 1|
+| quilibet | [lemma/121317](http://lila-erc.eu/data/id/lemma/121317)  | 1|
+| relinquo | [lemma/122569](http://lila-erc.eu/data/id/lemma/122569)  | 1|
+| magnitudo | [lemma/111317](http://lila-erc.eu/data/id/lemma/111317)  | 1|
+| modestia | [lemma/112526](http://lila-erc.eu/data/id/lemma/112526)  | 1|
+| conor | [lemma/95962](http://lila-erc.eu/data/id/lemma/95962)  | 1|
+| primum | [lemma/116338](http://lila-erc.eu/data/id/lemma/116338)  | 1|
+| magnificus | [lemma/111307](http://lila-erc.eu/data/id/lemma/111307)  | 1|
+| demonstro | [lemma/98568](http://lila-erc.eu/data/id/lemma/98568)  | 1|
+| duodecim | [lemma/100255](http://lila-erc.eu/data/id/lemma/100255)  | 1|
+| rego | [lemma/122542](http://lila-erc.eu/data/id/lemma/122542)  | 1|
+| zelus | [lemma/131201](http://lila-erc.eu/data/id/lemma/131201)  | 1|
+| fervesco | [lemma/104230](http://lila-erc.eu/data/id/lemma/104230)  | 1|
+| claresco | [lemma/94423](http://lila-erc.eu/data/id/lemma/94423)  | 1|
+| tunc | [lemma/129223](http://lila-erc.eu/data/id/lemma/129223)  | 1|
+| concivis | [lemma/95537](http://lila-erc.eu/data/id/lemma/95537)  | 1|
+| interpretor | [lemma/108602](http://lila-erc.eu/data/id/lemma/108602)  | 1|
+| militia | [lemma/112331](http://lila-erc.eu/data/id/lemma/112331)  | 1|
+| discipulus | [lemma/99613](http://lila-erc.eu/data/id/lemma/99613)  | 1|
+| puerilis | [lemma/120381](http://lila-erc.eu/data/id/lemma/120381)  | 1|
+| virilis | [lemma/130345](http://lila-erc.eu/data/id/lemma/130345)  | 1|
+| exoro | [lemma/102109](http://lila-erc.eu/data/id/lemma/102109)  | 1|
+| inscius | [lemma/108085](http://lila-erc.eu/data/id/lemma/108085)  | 1|
+| perduco | [lemma/116747](http://lila-erc.eu/data/id/lemma/116747)  | 1|
+| opinor | [lemma/115070](http://lila-erc.eu/data/id/lemma/115070)  | 1|
+| nutus | [lemma/114043](http://lila-erc.eu/data/id/lemma/114043)  | 1|
+| antistes | [lemma/89335](http://lila-erc.eu/data/id/lemma/89335)  | 1|
+| idcirco | [lemma/106080](http://lila-erc.eu/data/id/lemma/106080)  | 1|
+| iter | [lemma/109132](http://lila-erc.eu/data/id/lemma/109132)  | 1|
+| insinuo | [lemma/108167](http://lila-erc.eu/data/id/lemma/108167)  | 1|
+| maturus | [lemma/111742](http://lila-erc.eu/data/id/lemma/111742)  | 1|
+| jugum | [lemma/109202](http://lila-erc.eu/data/id/lemma/109202)  | 1|
+| blanditia | [lemma/91702](http://lila-erc.eu/data/id/lemma/91702)  | 1|
+| persuasio | [lemma/117364](http://lila-erc.eu/data/id/lemma/117364)  | 1|
+| denique | [lemma/98611](http://lila-erc.eu/data/id/lemma/98611)  | 1|
+| arbitror | [lemma/89778](http://lila-erc.eu/data/id/lemma/89778)  | 1|
+| sacrum | [lemma/123064](http://lila-erc.eu/data/id/lemma/123064)  | 1|
+| caerimonia | [lemma/92114](http://lila-erc.eu/data/id/lemma/92114)  | 1|
+| tirocinium | [lemma/128304](http://lila-erc.eu/data/id/lemma/128304)  | 1|
+| rudimentum | [lemma/122240](http://lila-erc.eu/data/id/lemma/122240)  | 1|
+| libet | [lemma/110402](http://lila-erc.eu/data/id/lemma/110402)  | 1|
+| perdisco | [lemma/116726](http://lila-erc.eu/data/id/lemma/116726)  | 1|
+| exsequor | [lemma/102311](http://lila-erc.eu/data/id/lemma/102311)  | 1|
+| divinitus | [lemma/99941](http://lila-erc.eu/data/id/lemma/99941)  | 1|
+| amplector | [lemma/88767](http://lila-erc.eu/data/id/lemma/88767)  | 1|
+| imbuo | [lemma/106353](http://lila-erc.eu/data/id/lemma/106353)  | 1|
+| subinde | [lemma/126128](http://lila-erc.eu/data/id/lemma/126128)  | 1|
+| liberalis1 | [lemma/110384](http://lila-erc.eu/data/id/lemma/110384)  | 1|
+| dogma | [lemma/100004](http://lila-erc.eu/data/id/lemma/100004)  | 1|
+| floreo | [lemma/103470](http://lila-erc.eu/data/id/lemma/103470)  | 1|
+| undique | [lemma/130636](http://lila-erc.eu/data/id/lemma/130636)  | 1|
+| cellula | [lemma/93351](http://lila-erc.eu/data/id/lemma/93351)  | 1|
+| recondo | [lemma/122416](http://lila-erc.eu/data/id/lemma/122416)  | 1|
+| credibilis | [lemma/96876](http://lila-erc.eu/data/id/lemma/96876)  | 1|
+| philosophor | [lemma/117665](http://lila-erc.eu/data/id/lemma/117665)  | 1|
+| notitia | [lemma/113858](http://lila-erc.eu/data/id/lemma/113858)  | 1|
+| ceno | [lemma/93384](http://lila-erc.eu/data/id/lemma/93384)  | 1|
+| disciplina | [lemma/99609](http://lila-erc.eu/data/id/lemma/99609)  | 1|
+| quaestio | [lemma/121052](http://lila-erc.eu/data/id/lemma/121052)  | 1|
+| evolvo | [lemma/101670](http://lila-erc.eu/data/id/lemma/101670)  | 1|
+| theologus | [lemma/128116](http://lila-erc.eu/data/id/lemma/128116)  | 1|
+| figo | [lemma/103280](http://lila-erc.eu/data/id/lemma/103280)  | 1|
+| praeceptor | [lemma/118722](http://lila-erc.eu/data/id/lemma/118722)  | 1|
+| vigeo | [lemma/130174](http://lila-erc.eu/data/id/lemma/130174)  | 1|
+| stupeo | [lemma/125899](http://lila-erc.eu/data/id/lemma/125899)  | 1|
+| acumen | [lemma/87325](http://lila-erc.eu/data/id/lemma/87325)  | 1|
+| perspicacitas | [lemma/117343](http://lila-erc.eu/data/id/lemma/117343)  | 1|
+| penetro | [lemma/116485](http://lila-erc.eu/data/id/lemma/116485)  | 1|
+| quivis | [lemma/121316](http://lila-erc.eu/data/id/lemma/121316)  | 1|
+| theologia | [lemma/128113](http://lila-erc.eu/data/id/lemma/128113)  | 1|
+| problema | [lemma/119562](http://lila-erc.eu/data/id/lemma/119562)  | 1|
+| admiratio | [lemma/87538](http://lila-erc.eu/data/id/lemma/87538)  | 1|
+| eloquium | [lemma/100864](http://lila-erc.eu/data/id/lemma/100864)  | 1|
+| quantus | [lemma/121092](http://lila-erc.eu/data/id/lemma/121092)  | 1|
+| aspicio | [lemma/90262](http://lila-erc.eu/data/id/lemma/90262)  | 1|
+| lector | [lemma/110136](http://lila-erc.eu/data/id/lemma/110136)  | 1|
+| qui | [lemma/121354](http://lila-erc.eu/data/id/lemma/121354)  | 1|
+| prius | [lemma/136134](http://lila-erc.eu/data/id/lemma/136134)  | 1|
+| odi | [lemma/114724](http://lila-erc.eu/data/id/lemma/114724)  | 1|
+| protinus | [lemma/120154](http://lila-erc.eu/data/id/lemma/120154)  | 1|
+| peramo | [lemma/116595](http://lila-erc.eu/data/id/lemma/116595)  | 1|
+| nemo | [lemma/113605](http://lila-erc.eu/data/id/lemma/113605)  | 1|
+| pereo | [lemma/116791](http://lila-erc.eu/data/id/lemma/116791)  | 1|
+| temno | [lemma/127762](http://lila-erc.eu/data/id/lemma/127762)  | 1|
+| diuitiae | [lemma/99899](http://lila-erc.eu/data/id/lemma/99899)  | 1|
+| fastus | [lemma/102961](http://lila-erc.eu/data/id/lemma/102961)  | 1|
+| luxuries | [lemma/109975](http://lila-erc.eu/data/id/lemma/109975)  | 1|
+| simul | [lemma/124857](http://lila-erc.eu/data/id/lemma/124857)  | 1|
+| speculum | [lemma/125316](http://lila-erc.eu/data/id/lemma/125316)  | 1|
+| uiator | [lemma/130097](http://lila-erc.eu/data/id/lemma/130097)  | 1|
+| adsum | [lemma/87642](http://lila-erc.eu/data/id/lemma/87642)  | 1|
+| sors | [lemma/125204](http://lila-erc.eu/data/id/lemma/125204)  | 1|
+| rideo | [lemma/122833](http://lila-erc.eu/data/id/lemma/122833)  | 1|
+
