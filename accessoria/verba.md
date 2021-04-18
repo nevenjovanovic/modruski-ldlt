@@ -1,6 +1,6 @@
 # Verba orationis in funere Riarii
 
-Pro tempore (lemmata 360)
+Pro tempore (lemmata **360**)
 
 | Lemma | LiLa ID | Quot in oratione? |
 |----- |----- |----- |
@@ -73,7 +73,7 @@ Pro tempore (lemmata 360)
 | prudentia | [lemma/120221](http://lila-erc.eu/data/id/lemma/120221)  | 6|
 | ornamentum | [lemma/115271](http://lila-erc.eu/data/id/lemma/115271)  | 6|
 | munificentia | [lemma/113047](http://lila-erc.eu/data/id/lemma/113047)  | 6|
-| nos | [lemma/hypolemma/110487](http://lila-erc.eu/data/id/lemma/hypolemma/110487)  | 6|
+| nos | [hypolemma/110487](http://lila-erc.eu/data/id/hypolemma/110487)  | 6|
 | puto | [lemma/120610](http://lila-erc.eu/data/id/lemma/120610)  | 6|
 | qualis | [lemma/121068](http://lila-erc.eu/data/id/lemma/121068)  | 6|
 | nomen | [lemma/113797](http://lila-erc.eu/data/id/lemma/113797)  | 6|
@@ -135,7 +135,7 @@ Pro tempore (lemmata 360)
 | percipio | [lemma/116656](http://lila-erc.eu/data/id/lemma/116656)  | 3|
 | deinde | [lemma/98386](http://lila-erc.eu/data/id/lemma/98386)  | 3|
 | diligenter | [lemma/47414](http://lila-erc.eu/data/id/lemma/47414)  | 3|
-| hic | [lemma/hypolemma/18676](http://lila-erc.eu/data/id/lemma/hypolemma/18676)  | 3|
+| hic | [hypolemma/18676](http://lila-erc.eu/data/id/hypolemma/18676)  | 3|
 | complures | [lemma/95359](http://lila-erc.eu/data/id/lemma/95359)  | 3|
 | semel | [lemma/124090](http://lila-erc.eu/data/id/lemma/124090)  | 3|
 | tantum | [lemma/131447](http://lila-erc.eu/data/id/lemma/131447)  | 3|
@@ -208,7 +208,7 @@ Pro tempore (lemmata 360)
 | praeterea | [lemma/120700](http://lila-erc.eu/data/id/lemma/120700)  | 2|
 | difficilis | [lemma/99345](http://lila-erc.eu/data/id/lemma/99345)  | 2|
 | absolvo | [lemma/87018](http://lila-erc.eu/data/id/lemma/87018)  | 2|
-| tantum | [lemma/hypolemma/110679](http://lila-erc.eu/data/id/lemma/hypolemma/110679)  | 2|
+| tantum | [hypolemma/110679](http://lila-erc.eu/data/id/hypolemma/110679)  | 2|
 | partim | [lemma/116111](http://lila-erc.eu/data/id/lemma/116111)  | 2|
 | praesto | [lemma/119245](http://lila-erc.eu/data/id/lemma/119245)  | 2|
 | episcopus | [lemma/101294](http://lila-erc.eu/data/id/lemma/101294)  | 1|
