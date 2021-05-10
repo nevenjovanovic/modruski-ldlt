@@ -1,386 +1,1442 @@
-# Verba orationis in funere Riarii
+# Verba orationis in funere Riarii, per genera et lemmata
 
-Pro tempore (lemmata **378**)
+Sine LiLa URL: verba 31.
 
-| Lemma | LiLa ID | Quot in oratione? |
-|----- |----- |----- |
-| et | [lemma/101542](http://lila-erc.eu/data/id/lemma/101542)  | 125|
-| sum1 | [lemma/126689](http://lila-erc.eu/data/id/lemma/126689)  | 97|
-| is | [lemma/109083](http://lila-erc.eu/data/id/lemma/109083)  | 81|
-| in | [lemma/106748](http://lila-erc.eu/data/id/lemma/106748)  | 70|
-| hic | [lemma/105455](http://lila-erc.eu/data/id/lemma/105455)  | 50|
-| ut | [lemma/130906](http://lila-erc.eu/data/id/lemma/130906)  | 49|
-| ab | [lemma/86824](http://lila-erc.eu/data/id/lemma/86824)  | 44|
-| ille | [lemma/106221](http://lila-erc.eu/data/id/lemma/106221)  | 43|
-| omnis | [lemma/114954](http://lila-erc.eu/data/id/lemma/114954)  | 41|
-| suus | [lemma/127165](http://lila-erc.eu/data/id/lemma/127165)  | 40|
-| non | [lemma/114108](http://lila-erc.eu/data/id/lemma/114108)  | 39|
-| possum | [lemma/118569](http://lila-erc.eu/data/id/lemma/118569)  | 33|
-| atque | [lemma/90490](http://lila-erc.eu/data/id/lemma/90490)  | 32|
-| ipse | [lemma/108945](http://lila-erc.eu/data/id/lemma/108945)  | 31|
-| quam | [lemma/74492](http://lila-erc.eu/data/id/lemma/74492)  | 27|
-| nullus | [lemma/114081](http://lila-erc.eu/data/id/lemma/114081)  | 26|
-| ego | [lemma/100712](http://lila-erc.eu/data/id/lemma/100712)  | 25|
-| sui | [lemma/131255](http://lila-erc.eu/data/id/lemma/131255)  | 23|
-| cum | [lemma/97202](http://lila-erc.eu/data/id/lemma/97202)  | 21|
-| tu | [lemma/29131](http://lila-erc.eu/data/id/lemma/29131)  | 20|
-| res | [lemma/121868](http://lila-erc.eu/data/id/lemma/121868)  | 19|
-| tamen | [lemma/127607](http://lila-erc.eu/data/id/lemma/127607)  | 19|
-| magnus | [lemma/111319](http://lila-erc.eu/data/id/lemma/111319)  | 19|
-| alius | [lemma/88481](http://lila-erc.eu/data/id/lemma/88481)  | 18|
-| aut | [lemma/90827](http://lila-erc.eu/data/id/lemma/90827)  | 17|
-| multus | [lemma/112998](http://lila-erc.eu/data/id/lemma/112998)  | 16|
-| vel | [lemma/129695](http://lila-erc.eu/data/id/lemma/129695)  | 15|
-| si | [lemma/124676](http://lila-erc.eu/data/id/lemma/124676)  | 14|
-| superus | [lemma/126999](http://lila-erc.eu/data/id/lemma/126999)  | 14|
-| dominus | [lemma/5227](http://lila-erc.eu/data/id/lemma/5227)  | 14|
-| accipio | [lemma/87119](http://lila-erc.eu/data/id/lemma/87119)  | 13|
-| tantus | [lemma/127630](http://lila-erc.eu/data/id/lemma/127630)  | 13|
-| amicus2 | [lemma/88684](http://lila-erc.eu/data/id/lemma/88684)  | 12|
-| enim | [lemma/101119](http://lila-erc.eu/data/id/lemma/101119)  | 12|
-| per | [lemma/116569](http://lila-erc.eu/data/id/lemma/116569)  | 12|
-| quod | [lemma/74854](http://lila-erc.eu/data/id/lemma/74854)  | 12|
-| vir | [lemma/130300](http://lila-erc.eu/data/id/lemma/130300)  | 12|
-| habeo | [lemma/105044](http://lila-erc.eu/data/id/lemma/105044)  | 11|
-| ex | [lemma/101716](http://lila-erc.eu/data/id/lemma/101716)  | 11|
-| bonus | [lemma/91782](http://lila-erc.eu/data/id/lemma/91782)  | 11|
-| cum | [lemma/97201](http://lila-erc.eu/data/id/lemma/97201)  | 11|
-| animus | [lemma/89094](http://lila-erc.eu/data/id/lemma/89094)  | 10|
-| pontifex | [lemma/118418](http://lila-erc.eu/data/id/lemma/118418)  | 10|
-| ita | [lemma/109126](http://lila-erc.eu/data/id/lemma/109126)  | 9|
-| princeps | [lemma/73416](http://lila-erc.eu/data/id/lemma/73416)  | 9|
-| vester | [lemma/130009](http://lila-erc.eu/data/id/lemma/130009)  | 9|
-| dies | [lemma/99334](http://lila-erc.eu/data/id/lemma/99334)  | 9|
-| sacer | [lemma/123063](http://lila-erc.eu/data/id/lemma/123063)  | 9|
-| nunc | [lemma/113990](http://lila-erc.eu/data/id/lemma/113990)  | 9|
-| vivo | [lemma/130476](http://lila-erc.eu/data/id/lemma/130476)  | 9|
-| licet | [lemma/110432](http://lila-erc.eu/data/id/lemma/110432)  | 9|
-| pater | [lemma/116203](http://lila-erc.eu/data/id/lemma/116203)  | 8|
-| munus | [lemma/113061](http://lila-erc.eu/data/id/lemma/113061)  | 8|
-| ullus | [lemma/130494](http://lila-erc.eu/data/id/lemma/130494)  | 8|
-| cura | [lemma/97301](http://lila-erc.eu/data/id/lemma/97301)  | 8|
-| do | [lemma/99970](http://lila-erc.eu/data/id/lemma/99970)  | 8|
-| frater | [lemma/103739](http://lila-erc.eu/data/id/lemma/103739)  | 8|
-| jam | [lemma/106025](http://lila-erc.eu/data/id/lemma/106025)  | 8|
-| dominus | [lemma/98084](http://lila-erc.eu/data/id/lemma/98084)  | 7|
-| magis | [lemma/111271](http://lila-erc.eu/data/id/lemma/111271)  | 7|
-| minime | [hypolemma/27351](http://lila-erc.eu/data/id/hypolemma/27351)  | 7|
-| quidem | [lemma/121168](http://lila-erc.eu/data/id/lemma/121168)  | 7|
-| autem | [lemma/90828](http://lila-erc.eu/data/id/lemma/90828)  | 7|
-| ubi | [lemma/129639](http://lila-erc.eu/data/id/lemma/129639)  | 7|
-| amplus | [lemma/88785](http://lila-erc.eu/data/id/lemma/88785)  | 6|
-| mors | [lemma/112807](http://lila-erc.eu/data/id/lemma/112807)  | 6|
-| bene | [lemma/91473](http://lila-erc.eu/data/id/lemma/91473)  | 6|
-| virtus | [lemma/130356](http://lila-erc.eu/data/id/lemma/130356)  | 6|
-| etiam | [lemma/101554](http://lila-erc.eu/data/id/lemma/101554)  | 6|
-| prudentia | [lemma/120221](http://lila-erc.eu/data/id/lemma/120221)  | 6|
-| labor2 | [lemma/109621](http://lila-erc.eu/data/id/lemma/109621)  | 6|
-| ornamentum | [lemma/115271](http://lila-erc.eu/data/id/lemma/115271)  | 6|
-| urbs | [lemma/130822](http://lila-erc.eu/data/id/lemma/130822)  | 6|
-| munificentia | [lemma/113047](http://lila-erc.eu/data/id/lemma/113047)  | 6|
-| nos | [hypolemma/110487](http://lila-erc.eu/data/id/hypolemma/110487)  | 6|
-| puto | [lemma/120610](http://lila-erc.eu/data/id/lemma/120610)  | 6|
-| qualis | [lemma/121068](http://lila-erc.eu/data/id/lemma/121068)  | 6|
-| nomen | [lemma/113797](http://lila-erc.eu/data/id/lemma/113797)  | 6|
-| aetas | [lemma/87955](http://lila-erc.eu/data/id/lemma/87955)  | 6|
-| hortor | [lemma/105727](http://lila-erc.eu/data/id/lemma/105727)  | 6|
-| unde | [lemma/130603](http://lila-erc.eu/data/id/lemma/130603)  | 6|
-| studium | [lemma/125889](http://lila-erc.eu/data/id/lemma/125889)  | 6|
-| soleo | [lemma/125051](http://lila-erc.eu/data/id/lemma/125051)  | 5|
-| vita | [lemma/130393](http://lila-erc.eu/data/id/lemma/130393)  | 5|
-| splendor | [lemma/125427](http://lila-erc.eu/data/id/lemma/125427)  | 5|
-| ars | [lemma/90089](http://lila-erc.eu/data/id/lemma/90089)  | 5|
-| igitur | [lemma/106127](http://lila-erc.eu/data/id/lemma/106127)  | 5|
-| quoniam | [lemma/121289](http://lila-erc.eu/data/id/lemma/121289)  | 5|
-| quidam | [lemma/121313](http://lila-erc.eu/data/id/lemma/121313)  | 5|
-| vis | [lemma/130360](http://lila-erc.eu/data/id/lemma/130360)  | 5|
-| quicumque | [lemma/121318](http://lila-erc.eu/data/id/lemma/121318)  | 5|
-| cardinalis | [lemma/135846](http://lila-erc.eu/data/id/lemma/135846)  | 4|
-| sanctus | [lemma/78250](http://lila-erc.eu/data/id/lemma/78250)  | 4|
-| praecipue | [hypolemma/34255](http://lila-erc.eu/data/id/hypolemma/34255)  | 4|
-| noster | [lemma/113882](http://lila-erc.eu/data/id/lemma/113882)  | 4|
-| numquam | [lemma/114084](http://lila-erc.eu/data/id/lemma/114084)  | 4|
-| gravis | [lemma/104903](http://lila-erc.eu/data/id/lemma/104903)  | 4|
-| pars | [lemma/116084](http://lila-erc.eu/data/id/lemma/116084)  | 4|
-| liberalitas | [lemma/110385](http://lila-erc.eu/data/id/lemma/110385)  | 4|
-| ingenium | [lemma/107798](http://lila-erc.eu/data/id/lemma/107798)  | 4|
-| vero | [hypolemma/111474](http://lila-erc.eu/data/id/hypolemma/111474)  | 4|
-| praeclarus | [lemma/118752](http://lila-erc.eu/data/id/lemma/118752)  | 4|
-| universus | [lemma/130700](http://lila-erc.eu/data/id/lemma/130700)  | 4|
-| dirus | [lemma/99555](http://lila-erc.eu/data/id/lemma/99555)  | 4|
-| idem | [lemma/109082](http://lila-erc.eu/data/id/lemma/109082)  | 4|
-| celebro | [lemma/93319](http://lila-erc.eu/data/id/lemma/93319)  | 4|
-| pectus | [lemma/116348](http://lila-erc.eu/data/id/lemma/116348)  | 4|
-| mirus | [lemma/112444](http://lila-erc.eu/data/id/lemma/112444)  | 4|
-| propono | [lemma/119973](http://lila-erc.eu/data/id/lemma/119973)  | 4|
-| exsto | [lemma/102360](http://lila-erc.eu/data/id/lemma/102360)  | 3|
-| copia1 | [lemma/96517](http://lila-erc.eu/data/id/lemma/96517)  | 3|
-| prior | [lemma/119509](http://lila-erc.eu/data/id/lemma/119509)  | 3|
-| perdo | [lemma/116738](http://lila-erc.eu/data/id/lemma/116738)  | 3|
-| ratio | [lemma/121458](http://lila-erc.eu/data/id/lemma/121458)  | 3|
-| iactura | [lemma/109476](http://lila-erc.eu/data/id/lemma/109476)  | 3|
-| cottidie | [lemma/96794](http://lila-erc.eu/data/id/lemma/96794)  | 3|
-| secretum | [lemma/79660](http://lila-erc.eu/data/id/lemma/79660)  | 3|
-| orbis | [lemma/115196](http://lila-erc.eu/data/id/lemma/115196)  | 3|
-| magnanimitas | [lemma/111295](http://lila-erc.eu/data/id/lemma/111295)  | 3|
-| tum | [lemma/129198](http://lila-erc.eu/data/id/lemma/129198)  | 3|
-| crudelis | [lemma/97047](http://lila-erc.eu/data/id/lemma/97047)  | 3|
-| adimo | [lemma/87456](http://lila-erc.eu/data/id/lemma/87456)  | 3|
-| nolo | [lemma/113794](http://lila-erc.eu/data/id/lemma/113794)  | 3|
-| ordo | [lemma/115236](http://lila-erc.eu/data/id/lemma/115236)  | 3|
-| culpa | [lemma/97183](http://lila-erc.eu/data/id/lemma/97183)  | 3|
-| deprecor | [lemma/98779](http://lila-erc.eu/data/id/lemma/98779)  | 3|
-| desiderium | [lemma/98899](http://lila-erc.eu/data/id/lemma/98899)  | 3|
-| avunculus | [lemma/90860](http://lila-erc.eu/data/id/lemma/90860)  | 3|
-| quamvis | [lemma/121355](http://lila-erc.eu/data/id/lemma/121355)  | 3|
-| prex | [lemma/119456](http://lila-erc.eu/data/id/lemma/119456)  | 3|
-| sedes | [lemma/124005](http://lila-erc.eu/data/id/lemma/124005)  | 3|
-| assumo | [lemma/90386](http://lila-erc.eu/data/id/lemma/90386)  | 3|
-| patior | [lemma/116222](http://lila-erc.eu/data/id/lemma/116222)  | 3|
-| evinco | [lemma/101641](http://lila-erc.eu/data/id/lemma/101641)  | 3|
-| itaque | [lemma/109129](http://lila-erc.eu/data/id/lemma/109129)  | 3|
-| percipio | [lemma/116656](http://lila-erc.eu/data/id/lemma/116656)  | 3|
-| deinde | [lemma/98386](http://lila-erc.eu/data/id/lemma/98386)  | 3|
-| diligenter | [lemma/47414](http://lila-erc.eu/data/id/lemma/47414)  | 3|
-| hic | [hypolemma/18676](http://lila-erc.eu/data/id/hypolemma/18676)  | 3|
-| complures | [lemma/95359](http://lila-erc.eu/data/id/lemma/95359)  | 3|
-| semel | [lemma/124090](http://lila-erc.eu/data/id/lemma/124090)  | 3|
-| tantum | [lemma/131447](http://lila-erc.eu/data/id/lemma/131447)  | 3|
-| oratio | [lemma/115179](http://lila-erc.eu/data/id/lemma/115179)  | 2|
-| funus | [lemma/104031](http://lila-erc.eu/data/id/lemma/104031)  | 2|
-| alter | [lemma/88457](http://lila-erc.eu/data/id/lemma/88457)  | 2|
-| maeror | [lemma/111251](http://lila-erc.eu/data/id/lemma/111251)  | 2|
-| suavis | [lemma/125947](http://lila-erc.eu/data/id/lemma/125947)  | 2|
-| extremus | [lemma/102414](http://lila-erc.eu/data/id/lemma/102414)  | 2|
-| exorno | [lemma/102106](http://lila-erc.eu/data/id/lemma/102106)  | 2|
-| prorsus1 | [hypolemma/110864](http://lila-erc.eu/data/id/hypolemma/110864)  | 2|
-| solacium | [lemma/125029](http://lila-erc.eu/data/id/lemma/125029)  | 2|
-| sacrosanctus | [lemma/127510](http://lila-erc.eu/data/id/lemma/127510)  | 2|
-| senatus | [lemma/124309](http://lila-erc.eu/data/id/lemma/124309)  | 2|
-| publicus | [lemma/120358](http://lila-erc.eu/data/id/lemma/120358)  | 2|
-| curia | [lemma/4223](http://lila-erc.eu/data/id/lemma/4223)  | 2|
-| luctus | [lemma/111143](http://lila-erc.eu/data/id/lemma/111143)  | 2|
-| consuetudo | [lemma/96179](http://lila-erc.eu/data/id/lemma/96179)  | 2|
-| benignitas | [lemma/91493](http://lila-erc.eu/data/id/lemma/91493)  | 2|
-| incredibilis | [lemma/106731](http://lila-erc.eu/data/id/lemma/106731)  | 2|
-| consilium | [lemma/96060](http://lila-erc.eu/data/id/lemma/96060)  | 2|
-| socius | [lemma/125001](http://lila-erc.eu/data/id/lemma/125001)  | 2|
-| comes | [lemma/95024](http://lila-erc.eu/data/id/lemma/95024)  | 2|
-| fidus1 | [lemma/103275](http://lila-erc.eu/data/id/lemma/103275)  | 2|
-| absum | [lemma/87040](http://lila-erc.eu/data/id/lemma/87040)  | 2|
-| livor | [lemma/110695](http://lila-erc.eu/data/id/lemma/110695)  | 2|
-| praecipuus | [lemma/118741](http://lila-erc.eu/data/id/lemma/118741)  | 2|
-| cultor | [lemma/97195](http://lila-erc.eu/data/id/lemma/97195)  | 2|
-| civitas | [lemma/94400](http://lila-erc.eu/data/id/lemma/94400)  | 2|
-| diligens | [hypolemma/12447](http://lila-erc.eu/data/id/hypolemma/12447)  | 2|
-| exemplar | [lemma/101972](http://lila-erc.eu/data/id/lemma/101972)  | 2|
-| gratitudo | [lemma/136171](http://lila-erc.eu/data/id/lemma/136171)  | 2|
-| benignus | [lemma/91494](http://lila-erc.eu/data/id/lemma/91494)  | 2|
-| aufero | [lemma/90671](http://lila-erc.eu/data/id/lemma/90671)  | 2|
-| orbo | [lemma/115202](http://lila-erc.eu/data/id/lemma/115202)  | 2|
-| exspecto | [lemma/102335](http://lila-erc.eu/data/id/lemma/102335)  | 2|
-| misero | [lemma/112466](http://lila-erc.eu/data/id/lemma/112466)  | 2|
-| pote | [lemma/118664](http://lila-erc.eu/data/id/lemma/118664)  | 2|
-| venia | [lemma/129786](http://lila-erc.eu/data/id/lemma/129786)  | 2|
-| servo | [lemma/124551](http://lila-erc.eu/data/id/lemma/124551)  | 2|
-| teneo | [lemma/127822](http://lila-erc.eu/data/id/lemma/127822)  | 2|
-| modus | [lemma/112553](http://lila-erc.eu/data/id/lemma/112553)  | 2|
-| praesertim | [lemma/119199](http://lila-erc.eu/data/id/lemma/119199)  | 2|
-| temeritas | [lemma/127755](http://lila-erc.eu/data/id/lemma/127755)  | 2|
-| subeo | [lemma/126085](http://lila-erc.eu/data/id/lemma/126085)  | 2|
-| praetermitto | [lemma/119306](http://lila-erc.eu/data/id/lemma/119306)  | 2|
-| obscurus | [lemma/114385](http://lila-erc.eu/data/id/lemma/114385)  | 2|
-| tenuis | [lemma/127852](http://lila-erc.eu/data/id/lemma/127852)  | 2|
-| celeber | [lemma/93313](http://lila-erc.eu/data/id/lemma/93313)  | 2|
-| saeculum | [lemma/123105](http://lila-erc.eu/data/id/lemma/123105)  | 2|
-| tametsi | [lemma/129157](http://lila-erc.eu/data/id/lemma/129157)  | 2|
-| insignis | [lemma/108151](http://lila-erc.eu/data/id/lemma/108151)  | 2|
-| tamquam | [lemma/127617](http://lila-erc.eu/data/id/lemma/127617)  | 2|
-| religiosus | [lemma/121716 ](http://lila-erc.eu/data/id/lemma/121716 )  | 2|
-| doctus | [lemma/5182](http://lila-erc.eu/data/id/lemma/5182)  | 2|
-| scriptura | [lemma/127417](http://lila-erc.eu/data/id/lemma/127417)  | 2|
-| strenuus | [lemma/125810](http://lila-erc.eu/data/id/lemma/125810)  | 2|
-| vestis | [lemma/130034](http://lila-erc.eu/data/id/lemma/130034)  | 2|
-| induo | [lemma/107451](http://lila-erc.eu/data/id/lemma/107451)  | 2|
-| praestolor | [lemma/119248](http://lila-erc.eu/data/id/lemma/119248)  | 2|
-| puer | [lemma/118042](http://lila-erc.eu/data/id/lemma/118042)  | 2|
-| rite | [lemma/122117](http://lila-erc.eu/data/id/lemma/122117)  | 2|
-| dubito | [lemma/100176](http://lila-erc.eu/data/id/lemma/100176)  | 2|
-| carus1 | [lemma/92942](http://lila-erc.eu/data/id/lemma/92942)  | 2|
-| curo | [lemma/97341](http://lila-erc.eu/data/id/lemma/97341)  | 2|
-| doceo | [lemma/99971](http://lila-erc.eu/data/id/lemma/99971)  | 2|
-| trado | [lemma/128519](http://lila-erc.eu/data/id/lemma/128519)  | 2|
-| mox | [lemma/112849](http://lila-erc.eu/data/id/lemma/112849)  | 2|
-| velut | [lemma/129732](http://lila-erc.eu/data/id/lemma/129732)  | 2|
-| scientia | [lemma/127415](http://lila-erc.eu/data/id/lemma/127415)  | 2|
-| varius1 | [lemma/129584](http://lila-erc.eu/data/id/lemma/129584)  | 2|
-| noctu | [lemma/113771](http://lila-erc.eu/data/id/lemma/113771)  | 2|
-| ineo | [lemma/107508](http://lila-erc.eu/data/id/lemma/107508)  | 2|
-| audio | [lemma/90641](http://lila-erc.eu/data/id/lemma/90641)  | 2|
-| praeterea | [lemma/120700](http://lila-erc.eu/data/id/lemma/120700)  | 2|
-| difficilis | [lemma/99345](http://lila-erc.eu/data/id/lemma/99345)  | 2|
-| absolvo | [lemma/87018](http://lila-erc.eu/data/id/lemma/87018)  | 2|
-| tantum | [hypolemma/110679](http://lila-erc.eu/data/id/hypolemma/110679)  | 2|
-| partim | [lemma/116111](http://lila-erc.eu/data/id/lemma/116111)  | 2|
-| urbs | [lemma/24502](http://lila-erc.eu/data/id/lemma/24502)  | 2|
-| praesto | [lemma/119245](http://lila-erc.eu/data/id/lemma/119245)  | 2|
-| episcopus | [lemma/101294](http://lila-erc.eu/data/id/lemma/101294)  | 1|
-| funebris | [lemma/104016](http://lila-erc.eu/data/id/lemma/104016)  | 1|
-| celebratio | [lemma/93315](http://lila-erc.eu/data/id/lemma/93315)  | 1|
-| duo | [lemma/100246](http://lila-erc.eu/data/id/lemma/100246)  | 1|
-| maiores | [lemma/63256](http://lila-erc.eu/data/id/lemma/63256)  | 1|
-| usurpo | [lemma/130904](http://lila-erc.eu/data/id/lemma/130904)  | 1|
-| tristis | [lemma/129020](http://lila-erc.eu/data/id/lemma/129020)  | 1|
-| iocundus | [lemma/109160](http://lila-erc.eu/data/id/lemma/109160)  | 1|
-| consolatio | [lemma/96085](http://lila-erc.eu/data/id/lemma/96085)  | 1|
-| egeo | [lemma/100701](http://lila-erc.eu/data/id/lemma/100701)  | 1|
-| polliceor | [lemma/118296](http://lila-erc.eu/data/id/lemma/118296)  | 1|
-| dispicio | [lemma/99740](http://lila-erc.eu/data/id/lemma/99740)  | 1|
-| eloquentia | [lemma/102693](http://lila-erc.eu/data/id/lemma/102693)  | 1|
-| collega | [lemma/94828](http://lila-erc.eu/data/id/lemma/94828)  | 1|
-| comitas | [lemma/95039](http://lila-erc.eu/data/id/lemma/95039)  | 1|
-| dexteritas | [lemma/100367](http://lila-erc.eu/data/id/lemma/100367)  | 1|
-| admiror | [lemma/87541](http://lila-erc.eu/data/id/lemma/87541)  | 1|
-| amitto | [lemma/88724](http://lila-erc.eu/data/id/lemma/88724)  | 1|
-| singularis | [lemma/124888](http://lila-erc.eu/data/id/lemma/124888)  | 1|
-| senectus2 | [lemma/124314](http://lila-erc.eu/data/id/lemma/124314)  | 1|
-| baculum | [lemma/91227](http://lila-erc.eu/data/id/lemma/91227)  | 1|
-| particeps | [lemma/116096](http://lila-erc.eu/data/id/lemma/116096)  | 1|
-| peregrinatio | [lemma/116766](http://lila-erc.eu/data/id/lemma/116766)  | 1|
-| levamen | [lemma/110295](http://lila-erc.eu/data/id/lemma/110295)  | 1|
-| responsum | [lemma/122946](http://lila-erc.eu/data/id/lemma/122946)  | 1|
-| reddo | [lemma/122458](http://lila-erc.eu/data/id/lemma/122458)  | 1|
-| invidia | [lemma/108842](http://lila-erc.eu/data/id/lemma/108842)  | 1|
-| edax | [lemma/100555](http://lila-erc.eu/data/id/lemma/100555)  | 1|
-| saltem | [lemma/123252](http://lila-erc.eu/data/id/lemma/123252)  | 1|
-| parco | [lemma/116001](http://lila-erc.eu/data/id/lemma/116001)  | 1|
-| cinis | [lemma/94017](http://lila-erc.eu/data/id/lemma/94017)  | 1|
-| exstinguo | [lemma/102356](http://lila-erc.eu/data/id/lemma/102356)  | 1|
-| jaceo | [lemma/106000](http://lila-erc.eu/data/id/lemma/106000)  | 1|
-| amator | [lemma/88586](http://lila-erc.eu/data/id/lemma/88586)  | 1|
-| intereo | [lemma/108458](http://lila-erc.eu/data/id/lemma/108458)  | 1|
-| studiosus | [lemma/125888](http://lila-erc.eu/data/id/lemma/125888)  | 1|
-| fautor | [lemma/103027](http://lila-erc.eu/data/id/lemma/103027)  | 1|
-| restaurator | [lemma/121913](http://lila-erc.eu/data/id/lemma/121913)  | 1|
-| corruo | [lemma/96707](http://lila-erc.eu/data/id/lemma/96707)  | 1|
-| cado | [lemma/92179](http://lila-erc.eu/data/id/lemma/92179)  | 1|
-| alumnus | [lemma/88538](http://lila-erc.eu/data/id/lemma/88538)  | 1|
-| lugeo | [lemma/110943](http://lila-erc.eu/data/id/lemma/110943)  | 1|
-| infelix | [lemma/107633](http://lila-erc.eu/data/id/lemma/107633)  | 1|
-| conservus | [lemma/97283](http://lila-erc.eu/data/id/lemma/97283)  | 1|
-| interverto | [lemma/108688](http://lila-erc.eu/data/id/lemma/108688)  | 1|
-| benefactor | [lemma/91478](http://lila-erc.eu/data/id/lemma/91478)  | 1|
-| intueor | [lemma/108773](http://lila-erc.eu/data/id/lemma/108773)  | 1|
-| necesse | [lemma/113513](http://lila-erc.eu/data/id/lemma/113513)  | 1|
-| acerbitas | [lemma/87188](http://lila-erc.eu/data/id/lemma/87188)  | 1|
-| abduco | [lemma/86867](http://lila-erc.eu/data/id/lemma/86867)  | 1|
-| valeo | [lemma/129509](http://lila-erc.eu/data/id/lemma/129509)  | 1|
-| verbum | [lemma/131057](http://lila-erc.eu/data/id/lemma/131057)  | 1|
-| careo | [lemma/92848](http://lila-erc.eu/data/id/lemma/92848)  | 1|
-| impono | [lemma/106633](http://lila-erc.eu/data/id/lemma/106633)  | 1|
-| onus | [lemma/115001](http://lila-erc.eu/data/id/lemma/115001)  | 1|
-| ingratitudo | [lemma/107815](http://lila-erc.eu/data/id/lemma/107815)  | 1|
-| nota | [lemma/113843](http://lila-erc.eu/data/id/lemma/113843)  | 1|
-| vereor | [lemma/129863](http://lila-erc.eu/data/id/lemma/129863)  | 1|
-| hodiernus | [lemma/105582](http://lila-erc.eu/data/id/lemma/105582)  | 1|
-| patria | [lemma/116250](http://lila-erc.eu/data/id/lemma/116250)  | 1|
-| orior | [lemma/115264](http://lila-erc.eu/data/id/lemma/115264)  | 1|
-| vetustus | [lemma/130074](http://lila-erc.eu/data/id/lemma/130074)  | 1|
-| grandis | [lemma/104842](http://lila-erc.eu/data/id/lemma/104842)  | 1|
-| immortalis | [lemma/106439](http://lila-erc.eu/data/id/lemma/106439)  | 1|
-| propemodum | [lemma/119925](http://lila-erc.eu/data/id/lemma/119925)  | 1|
-| corpus | [lemma/96667](http://lila-erc.eu/data/id/lemma/96667)  | 1|
-| quilibet | [lemma/121317](http://lila-erc.eu/data/id/lemma/121317)  | 1|
-| relinquo | [lemma/122569](http://lila-erc.eu/data/id/lemma/122569)  | 1|
-| magnitudo | [lemma/111317](http://lila-erc.eu/data/id/lemma/111317)  | 1|
-| modestia | [lemma/112526](http://lila-erc.eu/data/id/lemma/112526)  | 1|
-| conor | [lemma/95962](http://lila-erc.eu/data/id/lemma/95962)  | 1|
-| primum | [lemma/116338](http://lila-erc.eu/data/id/lemma/116338)  | 1|
-| magnificus | [lemma/111307](http://lila-erc.eu/data/id/lemma/111307)  | 1|
-| demonstro | [lemma/98568](http://lila-erc.eu/data/id/lemma/98568)  | 1|
-| duodecim | [lemma/100255](http://lila-erc.eu/data/id/lemma/100255)  | 1|
-| rego | [lemma/122542](http://lila-erc.eu/data/id/lemma/122542)  | 1|
-| zelus | [lemma/131201](http://lila-erc.eu/data/id/lemma/131201)  | 1|
-| fervesco | [lemma/104230](http://lila-erc.eu/data/id/lemma/104230)  | 1|
-| claresco | [lemma/94423](http://lila-erc.eu/data/id/lemma/94423)  | 1|
-| tunc | [lemma/129223](http://lila-erc.eu/data/id/lemma/129223)  | 1|
-| concivis | [lemma/95537](http://lila-erc.eu/data/id/lemma/95537)  | 1|
-| interpretor | [lemma/108602](http://lila-erc.eu/data/id/lemma/108602)  | 1|
-| militia | [lemma/112331](http://lila-erc.eu/data/id/lemma/112331)  | 1|
-| discipulus | [lemma/99613](http://lila-erc.eu/data/id/lemma/99613)  | 1|
-| puerilis | [lemma/120381](http://lila-erc.eu/data/id/lemma/120381)  | 1|
-| virilis | [lemma/130345](http://lila-erc.eu/data/id/lemma/130345)  | 1|
-| exoro | [lemma/102109](http://lila-erc.eu/data/id/lemma/102109)  | 1|
-| inscius | [lemma/108085](http://lila-erc.eu/data/id/lemma/108085)  | 1|
-| perduco | [lemma/116747](http://lila-erc.eu/data/id/lemma/116747)  | 1|
-| opinor | [lemma/115070](http://lila-erc.eu/data/id/lemma/115070)  | 1|
-| nutus | [lemma/114043](http://lila-erc.eu/data/id/lemma/114043)  | 1|
-| antistes | [lemma/89335](http://lila-erc.eu/data/id/lemma/89335)  | 1|
-| idcirco | [lemma/106080](http://lila-erc.eu/data/id/lemma/106080)  | 1|
-| iter | [lemma/109132](http://lila-erc.eu/data/id/lemma/109132)  | 1|
-| insinuo | [lemma/108167](http://lila-erc.eu/data/id/lemma/108167)  | 1|
-| maturus | [lemma/111742](http://lila-erc.eu/data/id/lemma/111742)  | 1|
-| jugum | [lemma/109202](http://lila-erc.eu/data/id/lemma/109202)  | 1|
-| blanditia | [lemma/91702](http://lila-erc.eu/data/id/lemma/91702)  | 1|
-| persuasio | [lemma/117364](http://lila-erc.eu/data/id/lemma/117364)  | 1|
-| denique | [lemma/98611](http://lila-erc.eu/data/id/lemma/98611)  | 1|
-| arbitror | [lemma/89778](http://lila-erc.eu/data/id/lemma/89778)  | 1|
-| sacrum | [lemma/123064](http://lila-erc.eu/data/id/lemma/123064)  | 1|
-| caerimonia | [lemma/92114](http://lila-erc.eu/data/id/lemma/92114)  | 1|
-| tirocinium | [lemma/128304](http://lila-erc.eu/data/id/lemma/128304)  | 1|
-| rudimentum | [lemma/122240](http://lila-erc.eu/data/id/lemma/122240)  | 1|
-| libet | [lemma/110402](http://lila-erc.eu/data/id/lemma/110402)  | 1|
-| perdisco | [lemma/116726](http://lila-erc.eu/data/id/lemma/116726)  | 1|
-| exsequor | [lemma/102311](http://lila-erc.eu/data/id/lemma/102311)  | 1|
-| divinitus | [lemma/99941](http://lila-erc.eu/data/id/lemma/99941)  | 1|
-| amplector | [lemma/88767](http://lila-erc.eu/data/id/lemma/88767)  | 1|
-| imbuo | [lemma/106353](http://lila-erc.eu/data/id/lemma/106353)  | 1|
-| subinde | [lemma/126128](http://lila-erc.eu/data/id/lemma/126128)  | 1|
-| liberalis1 | [lemma/110384](http://lila-erc.eu/data/id/lemma/110384)  | 1|
-| dogma | [lemma/100004](http://lila-erc.eu/data/id/lemma/100004)  | 1|
-| floreo | [lemma/103470](http://lila-erc.eu/data/id/lemma/103470)  | 1|
-| undique | [lemma/130636](http://lila-erc.eu/data/id/lemma/130636)  | 1|
-| cellula | [lemma/93351](http://lila-erc.eu/data/id/lemma/93351)  | 1|
-| recondo | [lemma/122416](http://lila-erc.eu/data/id/lemma/122416)  | 1|
-| credibilis | [lemma/96876](http://lila-erc.eu/data/id/lemma/96876)  | 1|
-| philosophor | [lemma/117665](http://lila-erc.eu/data/id/lemma/117665)  | 1|
-| notitia | [lemma/113858](http://lila-erc.eu/data/id/lemma/113858)  | 1|
-| ceno | [lemma/93384](http://lila-erc.eu/data/id/lemma/93384)  | 1|
-| disciplina | [lemma/99609](http://lila-erc.eu/data/id/lemma/99609)  | 1|
-| quaestio | [lemma/121052](http://lila-erc.eu/data/id/lemma/121052)  | 1|
-| evolvo | [lemma/101670](http://lila-erc.eu/data/id/lemma/101670)  | 1|
-| theologus | [lemma/128116](http://lila-erc.eu/data/id/lemma/128116)  | 1|
-| figo | [lemma/103280](http://lila-erc.eu/data/id/lemma/103280)  | 1|
-| praeceptor | [lemma/118722](http://lila-erc.eu/data/id/lemma/118722)  | 1|
-| vigeo | [lemma/130174](http://lila-erc.eu/data/id/lemma/130174)  | 1|
-| stupeo | [lemma/125899](http://lila-erc.eu/data/id/lemma/125899)  | 1|
-| acumen | [lemma/87325](http://lila-erc.eu/data/id/lemma/87325)  | 1|
-| perspicacitas | [lemma/117343](http://lila-erc.eu/data/id/lemma/117343)  | 1|
-| penetro | [lemma/116485](http://lila-erc.eu/data/id/lemma/116485)  | 1|
-| quivis | [lemma/121316](http://lila-erc.eu/data/id/lemma/121316)  | 1|
-| theologia | [lemma/128113](http://lila-erc.eu/data/id/lemma/128113)  | 1|
-| problema | [lemma/119562](http://lila-erc.eu/data/id/lemma/119562)  | 1|
-| admiratio | [lemma/87538](http://lila-erc.eu/data/id/lemma/87538)  | 1|
-| eloquium | [lemma/100864](http://lila-erc.eu/data/id/lemma/100864)  | 1|
-| quantus | [lemma/121092](http://lila-erc.eu/data/id/lemma/121092)  | 1|
-| aspicio | [lemma/90262](http://lila-erc.eu/data/id/lemma/90262)  | 1|
-| lector | [lemma/110136](http://lila-erc.eu/data/id/lemma/110136)  | 1|
-| qui | [lemma/121354](http://lila-erc.eu/data/id/lemma/121354)  | 1|
-| prius | [lemma/136134](http://lila-erc.eu/data/id/lemma/136134)  | 1|
-| odi | [lemma/114724](http://lila-erc.eu/data/id/lemma/114724)  | 1|
-| protinus | [lemma/120154](http://lila-erc.eu/data/id/lemma/120154)  | 1|
-| peramo | [lemma/116595](http://lila-erc.eu/data/id/lemma/116595)  | 1|
-| nemo | [lemma/113605](http://lila-erc.eu/data/id/lemma/113605)  | 1|
-| pereo | [lemma/116791](http://lila-erc.eu/data/id/lemma/116791)  | 1|
-| temno | [lemma/127762](http://lila-erc.eu/data/id/lemma/127762)  | 1|
-| diuitiae | [lemma/99899](http://lila-erc.eu/data/id/lemma/99899)  | 1|
-| fastus | [lemma/102961](http://lila-erc.eu/data/id/lemma/102961)  | 1|
-| luxuries | [lemma/109975](http://lila-erc.eu/data/id/lemma/109975)  | 1|
-| simul | [lemma/124857](http://lila-erc.eu/data/id/lemma/124857)  | 1|
-| speculum | [lemma/125316](http://lila-erc.eu/data/id/lemma/125316)  | 1|
-| uiator | [lemma/130097](http://lila-erc.eu/data/id/lemma/130097)  | 1|
-| adsum | [lemma/87642](http://lila-erc.eu/data/id/lemma/87642)  | 1|
-| sors | [lemma/125204](http://lila-erc.eu/data/id/lemma/125204)  | 1|
-| rideo | [lemma/122833](http://lila-erc.eu/data/id/lemma/122833)  | 1|
-
+<table>
+  <thead>
+    <tr>
+      <td>POS</td>
+      <td>Tokens</td>
+      <td>Lemmata</td>
+      <td>List of lemmata</td>
+    </tr>
+  </thead>
+  <tr>
+    <td>n</td>
+    <td>1016</td>
+    <td>483</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/13620">Ambrosius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/1295">Bononia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/3086">Christus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/7182">Ferraria</a>
+      <a href="http://lila-erc.eu/data/id/lemma/53375">Franciscus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/8375">Gregorius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/9296">Hieronymus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/10748">Italia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/12020">Ligur</a>
+      <a href="http://lila-erc.eu/data/id/lemma/13871">Mediolanum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/15279">Nabuchodonosor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/15816">Nicolaus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/136090">Papia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/17778">Patavium</a>
+      <a href="https://lila-erc.eu/data/id/lemma/18207">Petrus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/20293">Roma</a>
+      <a href="https://lila-erc.eu/data/id/lemma/21323">Senae Sena</a>
+      <a href="http://lila-erc.eu/data/id/lemma/21844">Sixtus</a>
+      <a href="https://lila-erc.eu/data/id/lemma/22924">Taruisium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/23833">Tobias</a>
+      <a href="http://lila-erc.eu/data/id/lemma/136258">Venetiae</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87188">acerbitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87325">acumen</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87538">admiratio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89311">adversum2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87679">advocatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87733">aedes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87743">aedificium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87918">aes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87931">aestas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87955">aetas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87975">affectus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88481">alius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88538">alumnus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88586">amator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89461">amicitia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88684">amicus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88717">amor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89018">angelus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89049">angustia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89075">anima</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89094">animus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89129">annus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89335">antistes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89456">apis1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89539">apostolatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89543">apostolus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89601">apparatus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89904">ardor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90089">ars</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90334">asseveratio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90387">assumptio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90542">attestatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90633">audacia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90784">auris</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90792">aurora</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90590">avaritia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90860">avunculus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91227">baculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91365">basilica</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91478">benefactor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91479">beneficentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91483">beneficium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92062">benevolentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91493">benignitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91528">bibliotheca</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91568">biennium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91702">blanditia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91351">bonum</a>
+      <a href="https://lila-erc.eu/data/id/lemma/92231">caelum2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92114">caerimonia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92293">calamitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92383">calix</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92575">canis1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92796">caput</a>
+      <a href="http://lila-erc.eu/data/id/lemma/39288">cardinalatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/135846">cardinalis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92867">caritas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97835">casus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93253">causa</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93315">celebratio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93327">celeritas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93351">cellula</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93926">cibus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94017">cinis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94400">civitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94487">clementia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93188">codex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94715">cogitatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94723">cognatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94706">coitus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94828">collega</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95024">comes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95039">comitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95178">commodum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95537">concivis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95735">confessio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97283">conservus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96060">consilium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96085">consolatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97806">constantia1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96179">consuetudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96413">conubium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96461">convicium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96478">convivium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96517">copia1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96553">cor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96667">corpus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96945">crimen</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97041">cruciatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97099">cubiculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97176">culmen</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97183">culpa</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97195">cultor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97670">cultus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97279">cupiditas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97301">cura</a>
+      <a href="http://lila-erc.eu/data/id/lemma/4223">curia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97671">cursus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97898">damnum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98118">decor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98043">decretum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98168">decus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98621">dens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98899">desiderium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/4810">deus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99126">devotio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100367">dexteritas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99334">dies</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99402">dignitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99458">dilectio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99609">disciplina</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99613">discipulus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99940">divinitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99899">divitiae diuitiae</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99985">doctor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99993">documentum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100004">dogma</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100034">dolor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100037">dolus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100047">domestici</a>
+      <a href="http://lila-erc.eu/data/id/lemma/48017">domesticus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98084">dominus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/5227">dominus</a>
+      <a href="https://lila-erc.eu/data/id/lemma/100071">domus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100088">donum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/48383">ducatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100327">dux</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100517">ecclesia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102693">eloquentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100864">eloquium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101294">episcopus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101311">epitaphium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101463">errator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101510">esca</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101579">evangelium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102698">excellentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101972">exemplar</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101975">exemplum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102639">exitus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102642">exortus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102776">facultas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102868">fama</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102885">familia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102888">familiaris</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102889">familiaritas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102911">fanum1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102977">fastigium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102961">fastus2 fastus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103575">fatum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103027">fautor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103061">fel</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103063">felicitas1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103260">fides1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103296">filia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103307">filius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103321">finis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104170">fletus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103489">flos</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103696">fortuna</a>
+      <a href="http://lila-erc.eu/data/id/lemma/7449">fortuna</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103730">fragilitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103739">frater</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103880">fructus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104031">funus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104485">genitor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104504">genus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104528">germanus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104703">gloria</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104818">grammatica</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104819">grammaticus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104869">gratia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/136171">gratitudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104949">gubernator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104979">gustus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104991">gymnasium1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105049">habitatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105624">homo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105646">honestum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105647">honor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105663">hora1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105736">hospes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105742">hospitium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105757">hostis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109476">iactura</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106223">illecebra</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106440">immortalitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106526">impensa</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106515">imperator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106532">imperium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106732">impunitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107046">incommodum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107176">incrementum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107326">indicium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107352">indignatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107416">indoles</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109484">indulgentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107798">ingenium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107815">ingratitudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107881">inimicitia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107882">inimicus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107914">injuria</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108198">insomnium1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108354">integritas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108842">invidia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109132">iter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108935">jocus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109161">judex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109202">jugum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109252">jus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109264">justitia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109293">juventus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109621">labor2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109669">lacrima</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109838">languor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109942">largitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110056">latus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110103">laus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110136">lector</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110141">lectulus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110156">legatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110208">lenocinium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110295">levamen</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110351">lex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110379">libellus</a>
+      <a href="https://lila-erc.eu/data/id/lemma/109917">liber1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110382">liber4</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110385">liberalitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110503">limen</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110562">lingua</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110668">littera</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110695">livor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110019">locus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111143">luctus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111048">lux</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109975">luxuries</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111058">luxus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111251">maeror</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111274">magister</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111283">magistratus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111295">magnanimitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111317">magnitudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/63256">maiores</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111326">majestas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111520">mansio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111585">manus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111688">mater</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111722">matrona1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111842">medium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112000">memoria</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112038">mens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112046">mensis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112100">merces1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112092">meritum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112261">metus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112263">meum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112318">miles</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112331">militia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112362">mina2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112383">minister</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112386">ministerium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112454">miseratio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112460">misericordia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112520">moderatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112526">modestia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112553">modus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112655">monasterium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112807">mors</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112814">mortalitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112831">mos</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112987">multitudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112290">mundus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113047">munificentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113061">munus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113184">mutuum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113240">mysterium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113421">natura</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113504">necessarius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113509">necessitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114122">neglegentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113566">negotium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/67324">nemo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113797">nomen</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113843">nota</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113849">notarius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113858">notitia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113393">novacula</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113901">nox</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113981">numerus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113734">nuntius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114043">nutus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114260">oblectamentum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114411">observator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114567">occasio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114716">oculus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115548">offensa</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114811">officium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114844">oleum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114954">omnis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115001">onus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115016">opera</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115116">oppidum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115146">ops1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115170">opus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115176">oraculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115179">oratio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115185">orator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115196">orbis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115236">ordo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115271">ornamentum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115327">os2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/17317">palatium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115856">papa2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116020">parens2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116084">pars</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116096">particeps</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116105">particula</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116162">passio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116203">pater</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120801">patientia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116250">patria</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116322">pax</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120856">peccatum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116348">pectus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116369">pecunia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116766">peregrinatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116826">perfidia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116930">periculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117343">perspicacitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117364">persuasio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117499">pes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117663">philosophia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118059">philosophus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117794">pietas1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118267">poeta</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118418">pontifex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118463">populus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118652">potestas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118722">praeceptor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118783">praecordia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118849">praedium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120930">praefectus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/34443">praelatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119037">praemium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119215">praesidium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119259">praesul</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119456">prex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/73416">princeps</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119503">principatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119505">principium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119560">probitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119562">problema</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119667">prodigium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120918">proventus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120831">providentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120221">prudentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120713">psalmista</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120248">psalmus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118042">puer</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120499">pulvis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121052">quaestio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121173">quies1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121384">radix</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121458">ratio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121576">rector</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121683">regnum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121713">religio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121868">res</a>
+      <a href="http://lila-erc.eu/data/id/lemma/76402">rescriptum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122943">respectus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122946">responsum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122962">respublica</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121913">restaurator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122013">rex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122240">rudimentum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123092">sacrificium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123064">sacrum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123105">saeculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123172">sal</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123276">salus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123263">salvator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/78250">sanctus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127415">scientia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127417">scriptura</a>
+      <a href="http://lila-erc.eu/data/id/lemma/79660">secretum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124005">sedes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124023">sedulitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124306">senator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124309">senatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124314">senectus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/80013">senex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124355">sensus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124342">sententia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124494">sermo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124767">signum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124862">simulatio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125001">socius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125027">sol</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125029">solacium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125127">somnulentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125204">sors</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125316">speculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125336">spes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125406">spiritus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125427">splendor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125757">stomachus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125888">studiosus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125889">studium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126706">summa</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127492">sumptus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126717">supellex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127524">tabernaculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127755">temeritas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127766">temperamentum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127783">templum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127522">tempus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127912">terra</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127976">testamentum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127993">testimonium</a>
+      <a href="https://lila-erc.eu/data/id/lemma/127994">testis1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127994">testis2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129412">textus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128113">theologia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128116">theologus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128304">tirocinium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128562">tranquillitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130097">uiator</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130533">umbra</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130587">unctio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130193">universum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130700">universus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130815">urbanitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130822">urbs</a>
+      <a href="http://lila-erc.eu/data/id/lemma/24502">urbs</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131133">usus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130918">utilitas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129603">vasculum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129593">vasum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129662">vectigal</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129786">venia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131057">verbum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129876">veritas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130035">versus3</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130000">vesper</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130028">vestimentum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130034">vestis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130096">viaticum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130113">vicarius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130138">vicis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130141">vicissitudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131134">victus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130275">vinum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130300">vir</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130356">virtus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130360">vis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131459">viscera</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130393">vita</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130432">vitium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130763">voluntas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130771">voluptas</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131097">votum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130806">vox</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131201">zelus</a>
+    </td>
+  </tr>
+  <tr>
+    <td>r</td>
+    <td>216</td>
+    <td>19</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/86824">ab</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87344">ad</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87680">adversus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89164">ante</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89686">apud</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94380">citra</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97201">cum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97932">de</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101404">erga</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101716">ex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106748">in</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108392">inter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108726">intra</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114173">ob</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116569">per</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118572">post</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118468">pro1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124883">sine</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126718">super2</a>
+    </td>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>605</td>
+    <td>213</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/3084">Christianus</a>
+      <a href="https://lila-erc.eu/data/id/lemma/136266">Latinus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/20302">Romanus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/30">abditus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87191">acerbus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/547">acutus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87807">aemulus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87982">affabilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88330">alienus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88481">alius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88457">alter</a>
+      <a href="https://lila-erc.eu/data/id/hypolemma/1781">altus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88785">amplus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89540">apostolicus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90592">avarus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91494">benignus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91782">bonus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91883">brevis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91905">brutus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92188">caducus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92214">caelestis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92942">carus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93313">celeber</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93321">celeris</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93581">certus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93624">ceterus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95032">comis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95177">commodus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97171">communis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95359">complures</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95361">complurimi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95914">congruus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96709">corruptibilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96876">credibilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97047">crudelis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97250">cunctus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97337">curiosus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/10876">deditus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98292">deformis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99345">difficilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99407">dignus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/12446">dilectus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/12447">diligens</a>
+      <a href="https://lila-erc.eu/data/id/hypolemma/12447">diligo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99555">dirus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99944">divinus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97990">divus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/5182">doctus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100036">dolosus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98100">dominicus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100177">dubius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100555">edax</a>
+      <a href="https://lila-erc.eu/data/id/hypolemma/14994">excellens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102414">extremus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102754">facilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102846">fallax</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103068">felix1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103256">fidelis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103275">fidus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103336">firmus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103690">fortis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103742">fraternus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104016">funebris</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/43030">futurus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104842">grandis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104903">gravis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105582">hodiernus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105645">honestus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105968">huiusmodi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105765">humanus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105771">humilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106302">illustris</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106402">immeritus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106439">immortalis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106528">imperialis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106816">inanis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107008">inclutus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107157">incorruptibilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106731">incredibilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107270">indecorus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107459">indignus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107560">inexpiabilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107633">infelix</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107691">infirmus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/80411">infortunatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107799">ingens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107816">ingratus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107896">iniquus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107913">injurius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107923">injustus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108085">inscius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108151">insignis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108182">insolens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108378">intempestus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108744">intrepidus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108844">invidus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109160">iocundus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109268">justus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109286">juvenis</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/25590">libens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110384">liberalis1</a>
+      <a href="https://lila-erc.eu/data/id/lemma/111308">magnificentissimus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111307">magnificus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111319">magnus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/63389">malevolus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111384">malignus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111418">malus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111504">manifestus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111742">maturus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111841">medius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/135857">memor1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112262">meus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112383">minister</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112444">mirus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112492">mitis</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/27538">moderatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/135850">mortalis</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/27843">mortuus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112998">multus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113002">mundanus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113502">necessarius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113513">necesse</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113697">nimius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113751">nobilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114159">nonnullus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113882">noster</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113900">novus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114081">nullus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114385">obscurus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114808">officiosus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114938">omnifarius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114952">omnipotens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114954">omnis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115031">operosus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/30374">optatus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115166">opulens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116002">parcus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116136">parvus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116271">paucus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/31888">perditus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116828">perfidus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117473">pervigil</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117515">pestifer</a>
+      <a href="http://lila-erc.eu/data/id/lemma/71730">pius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118015">placidus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118148">plerusque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118664">pote potis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118741">praecipuus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118752">praeclarus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119169">praesagus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/35027">praestans</a>
+      <a href="http://lila-erc.eu/data/id/lemma/19360">primus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119509">prior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119573">probus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119669">prodigus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/35758">promptus2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119896">pronus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119945">propheticus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119990">proprius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120095">prosper</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120219">proximus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120220">prudens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120358">publicus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120381">puerilis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121068">qualis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121208">quingenti</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121357">rabidus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121716">religiosus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121488">reliquus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/76728">reverendus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122135">robiginosus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123063">sacer</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127510">sacrosanctus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/78250">sanctus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/39817">secretus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124298">sempiternus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124888">singularis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123320">singulus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125090">sollicitus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125109">solus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125810">strenuus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125947">suavis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126073">subdolus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126187">sublimis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126705">summus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126757">superbus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126956">superstes</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126999">superus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127032">supplex</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127165">suus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/43849">tacitus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127592">talis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127630">tantus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127803">tenax</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127852">tenuis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128477">tot</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128484">totus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129020">tristis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129288">turpis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129328">tuus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130494">ullus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130507">ultimus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130671">unicus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130700">universus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/85636">unus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129584">varius1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129684">vehemens</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129837">verax</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129978">verus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130009">vester</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130074">vetustus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130137">vicinus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130345">virilis</a>
+    </td>
+  </tr>
+  <tr>
+    <td>v</td>
+    <td>887</td>
+    <td>430</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/86867">abduco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87018">absolvo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87028">absterreo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87040">absum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87053">abundo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87102">accepto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87116">accingo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87119">accipio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87175">accuso</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87433">adhibeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87456">adimo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87457">adimpleo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87476">adipiscor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87454">adjicio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87535">administro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87541">admiror</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87634">adoro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87642">adsum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87657">advento</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87686">advivo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87792">aegroto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88001">affero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88003">afficio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88015">affirmo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88030">affluo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88081">aggravo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88140">ago</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88724">amitto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88767">amplector</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89023">ango</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89222">antepono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89613">appono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89642">appropinquo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89778">arbitror</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89811">arcesso</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89947">arguo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90262">aspicio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90386">assumo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90423">asto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90544">attestor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90555">attingo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90638">audeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90641">audio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90671">aufero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90673">augeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92087">benedico</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92088">benefacio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92179">cado</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92686">capio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92848">careo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93200">caveo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93319">celebro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93384">ceno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93546">cerno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/93611">cesso</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94378">cito2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94423">claresco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94682">coemo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94695">coepi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94738">cognosco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94739">cogo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94790">collabor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94855">colligo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94916">colo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95097">commemoro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97334">commendo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95164">committo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97455">comparo2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95289">compello1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95309">comperio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95341">compleo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95367">compono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95418">computo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95522">concinno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95677">condo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95686">condono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95728">confero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95749">confido</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95838">confundo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95962">conor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95970">conquiesco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95991">conscendo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96008">consecro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96035">consequor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96054">considero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97533">consido</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96117">conspicio1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96146">constituo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96151">consto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/94952">consuesco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96238">contemplor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96251">contendo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96293">contingo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96338">contraho</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96446">converto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96687">corrigo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96707">corruo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96881">credo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96950">criminor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97287">cupio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97341">curo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97897">damno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97945">deambulo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97963">debeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97994">decanto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98007">decedo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98047">decerno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98053">decerto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98090">declaro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98205">dedo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98257">deficio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98417">delector1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98470">deligo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98480">delinquo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98520">demando</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98568">demonstro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98606">denego</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98672">deosculor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98690">depello</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98700">depereo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98779">deprecor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98857">desaevio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98882">desero2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98908">designo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98910">desino</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98913">desisto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98963">destino</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98976">destruo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98996">desum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99033">detestor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99051">detracto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99047">detraho</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99075">devenio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99098">devincio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99107">devito</a>
+      <a href="https://lila-erc.eu/data/id/lemma/99301">dico1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99302">dico2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99342">differo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99405">digno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99404">dignor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99463">diligo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99509">dimitto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99619">disco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99740">dispicio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99785">dissero1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99822">dissolvo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99875">distraho</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99903">dito</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99912">divello</a>
+      <a href="https://lila-erc.eu/data/id/lemma/99083">diversor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99970">do</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99971">doceo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100021">doleo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100087">dono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100176">dubito</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100196">duco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100567">edisco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100588">educo2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100701">egeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100733">ejulo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100824">eligo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100976">emigro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100996">emitto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101424">erigo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101432">eripio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101602">evello</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101641">evinco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101667">evolo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101670">evolvo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101808">exaugeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101865">excipio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101884">excludo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101893">excolo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102017">exhibeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102038">exigo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102057">existimo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102106">exorno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102109">exoro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102164">experior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102173">expeto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102202">explico</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102214">expono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102311">exsequor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102361">exsisto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102335">exspecto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102356">exstinguo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102360">exsto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102758">facio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102847">fallo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103126">fero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104230">fervesco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103280">figo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103319">fingo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103328">fio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103388">flagro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103446">fleo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103470">floreo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103519">fluo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103717">foveo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103923">fugio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104022">fungor</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/43030">futurus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104365">gaudeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104536">gero1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/104908">gravo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105044">habeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105089">haereo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105658">honoro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105727">hortor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106173">ignoro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106190">illabor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106303">illustro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106353">imbuo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106504">impendo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106539">impero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106573">impetro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106607">impleo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106633">impono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107004">inclino</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107210">incumbo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107417">indolesco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107435">induco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107451">induo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107508">ineo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107649">infero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107785">ingemisco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107789">ingemo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/107902">initio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108034">inquam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108131">inservio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108159">insimulo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108167">insinuo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108246">instauro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108284">instruo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108325">insum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108382">intendo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108458">intereo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108602">interpretor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108627">interrogo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108661">intersum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108688">interverto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108773">intueor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108954">irascor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106000">jaceo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109152">jubeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109249">juro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109625">laboro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109652">lacero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109718">laedo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110078">laudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110177">lego2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110349">levo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110402">libet</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110432">licet</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110943">lugeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111408">malo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111470">mando1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111518">mano</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112072">mentior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112108">mereor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112260">metuo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112466">misero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112499">mitto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112590">molior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112665">moneo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112796">morior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112848">moveo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113053">munio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113181">mutuo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113381">narro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113387">nascor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113466">navo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113552">neglego</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113553">nego</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113625">nescio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113794">nolo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113840">nosco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113944">nudo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114245">objurgo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114290">obliviscor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114299">obloquor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114437">obsisto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114498">obtestor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114546">obversor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114603">occludo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114620">occupo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114724">odi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114784">offendo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114795">offero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115070">opinor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115131">opprimo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115160">opto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115202">orbo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115264">orior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115284">orno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115363">ostendo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/115624">paeniteo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116001">parco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116061">paro1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116113">partior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116144">pasco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116143">pascor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116222">patior</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116252">patro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116332">pecco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116485">penetro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116586">perago</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116595">peramo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116656">percipio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116726">perdisco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116738">perdo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116747">perduco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116769">peregrinor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116791">pereo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116816">perfero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116821">perficio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116872">perfruor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117055">permaneo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117324">persolvo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117355">persto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117401">pertimesco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117487">perungo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117445">pervenio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117549">peto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117665">philosophor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118010">placeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118296">polliceor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118414">pono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118569">possum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118629">postulo</a>
+      <a href="https://lila-erc.eu/data/id/lemma/118832">praedico1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118833">praedico2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118894">praeficio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119090">praeoccupo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119104">praeparo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119148">praeripio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119191">praesentio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119246">praesto2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119248">praestolor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119306">praetermitto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119429">precor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119625">procreo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119646">procuro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119705">profero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119713">proficiscor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119765">prohibeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119845">promitto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119924">propello</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119973">propono</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120035">prorumpo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120069">prosequor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120546">purgo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120610">puto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122387">recipero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122392">recito</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122394">reclamo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122416">recondo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122446">recuso</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122458">reddo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122463">redeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122470">redimo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122492">refercio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122542">rego</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122569">relinquo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122595">remeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122656">rependo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122659">reperio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122690">repugno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122734">respergo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122740">respondeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122752">restituo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121597">resto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122823">revoco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122833">rideo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122853">rogo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122884">ruo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123732">scio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123945">secedo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123947">secerno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124004">sedeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124353">sentio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124551">servo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124866">simulo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125051">soleo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125088">sollicito</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125299">specto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125334">spero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125446">spolio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125455">spondeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125614">statuo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125899">stupeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126076">subduco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126085">subeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126221">subministro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126466">subtraho</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126646">suffundo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126689">sum1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126911">supero</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126965">supersum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126991">supervivo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127021">suppeto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127037">supplico</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127111">suscipio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127130">suspicio1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127762">temno</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127822">teneo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127996">testor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128357">tollo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128449">torqueo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/128519">trado</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130484">ulciscor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130831">urgeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130847">uro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130904">usurpo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130923">utor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129468">vaco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129509">valeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129780">veneror</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129802">ventito</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129863">vereor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/84710">versor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130163">video</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130174">vigeo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130232">vinco</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130252">vindico</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130292">violo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130426">vitio</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130476">vivo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130745">volo1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130766">volvo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>c</td>
+    <td>447</td>
+    <td>34</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/90912">antequam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90490">atque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90827">aut</a>
+      <a href="http://lila-erc.eu/data/id/lemma/90828">autem</a>
+      <a href="http://lila-erc.eu/data/id/lemma/97202">cum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100084">donec</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101119">enim</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101542">et</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101554">etiam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106127">igitur</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109129">itaque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/110432">licet</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113344">nam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113491">ne1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114120">neque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113559">ni</a>
+      <a href="http://lila-erc.eu/data/id/lemma/67474">nisi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113704">nisi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120753">postquam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121355">quamvis</a>
+      <a href="https://lila-erc.eu/data/id/lemma/131416">que</a>
+      <a href="https://lila-erc.eu/data/id/hypolemma/110467">quo quoque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/74851">quoad</a>
+      <a href="http://lila-erc.eu/data/id/lemma/74854">quod</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121289">quoniam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123994">sed</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124676">si</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124723">sicut</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129157">tametsi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129639">ubi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131456">ue</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130906">ut</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129695">vel</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/111485">verum</a>
+    </td>
+  </tr>
+  <tr>
+    <td>m</td>
+    <td>12</td>
+    <td>9</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/98009">decem</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100246">duo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100255">duodecim</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112335">mille</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120957">quadraginta</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121130">quattuor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121134">quattuordecim</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121219">quinquaginta</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121223">quinque1</a>
+    </td>
+  </tr>
+  <tr>
+    <td>d</td>
+    <td>404</td>
+    <td>148</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/hypolemma/277">abunde</a>
+      <a href="http://lila-erc.eu/data/id/lemma/87420">adeo2</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/56943">aeque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88311">alibi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91094">aliquando</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88651">amen</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/2151">ample</a>
+      <a href="http://lila-erc.eu/data/id/lemma/89165">ante</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/3507">assidue</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91473">bene</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91653">bis</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/4964">breviter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92227">caelitus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/40464">celere</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/7044">clare</a>
+      <a href="http://lila-erc.eu/data/id/lemma/95739">confestim</a>
+      <a href="http://lila-erc.eu/data/id/lemma/96794">cottidie</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98386">deinde</a>
+      <a href="http://lila-erc.eu/data/id/lemma/98611">denique</a>
+      <a href="http://lila-erc.eu/data/id/lemma/47414">diligenter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99941">divinitus</a>
+      <a href="https://lila-erc.eu/data/id/lemma/100071">domus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100243">dumtaxat</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100515">ecce</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/13804">egregie</a>
+      <a href="http://lila-erc.eu/data/id/lemma/101415">ergo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/102400">extemplo</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/111576">facile</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103104">fere</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/16753">flagitiose</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103629">foris2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/103683">forte</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/17262">frequenter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105378">heri</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/18676">hic</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105454">hinc</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/18844">honorifice</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106080">idcirco</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/19401">illuc</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106420">immo</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/20011">impie</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/20091">importune</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108331">insuper</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108452">interea</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109126">ita</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109138">iterum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106025">jam</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/24399">jugiter</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/25519">leviter</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/25572">libere</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111271">magis</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/26440">magnifice</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/26555">male</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/26848">maxime</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/111500">melius1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/64998">memoriter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112140">merito</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/27351">minime</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/27420">mirifice</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/27461">misericorditer</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/27544">modeste</a>
+      <a href="http://lila-erc.eu/data/id/lemma/112849">mox</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/111488">multo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113492">ne2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114118">nequaquam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/67449">nihil</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114151">nimirum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/67473">nisi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113771">noctu</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114108">non</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114156">nonnumquam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114084">numquam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/113990">nunc</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114010">nuper</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114887">olim</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114945">omnino</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/31025">parce</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116111">partim</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116130">parum</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/31133">parve</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/32407">permaxime</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117207">perpetuo</a>
+      <a href="http://lila-erc.eu/data/id/lemma/117249">perquam</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/32779">persancte</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/33530">pie</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118505">porro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118664">pote potis</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/34255">praecipue</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119199">praesertim</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119245">praesto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120700">praeterea</a>
+      <a href="http://lila-erc.eu/data/id/lemma/116338">primum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/136134">prius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119631">procul</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119776">proinde</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/111642">prompte</a>
+      <a href="http://lila-erc.eu/data/id/lemma/119925">propemodum</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/110864">prorsus1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/120154">protinus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/74492">quam</a>
+      <a href="https://lila-erc.eu/data/id/lemma/138601">quamobrem</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131414">quanto</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121343">quare</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121168">quidem</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121181">quin</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121267">quippe</a>
+      <a href="https://lila-erc.eu/data/id/hypolemma/110467">quo quoque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121298">quotiens</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/37393">religiose</a>
+      <a href="http://lila-erc.eu/data/id/lemma/122117">rite</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123106">saepe</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123252">saltem</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/39381">sane</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123480">satis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/123989">secus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/58885">segne</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124090">semel</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124294">semper</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124690">sic</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/40925">similiter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/124857">simul</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/111490">solum</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/41472">splendide</a>
+      <a href="http://lila-erc.eu/data/id/lemma/126128">subinde</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/42737">subtiliter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129151">tam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127607">tamen</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127617">tamquam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131446">tanto</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/110679">tantum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131447">tantum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127860">ter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129198">tum</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129223">tunc</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129639">ubi</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130516">ultro</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130603">unde</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130636">undique</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130872">usque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129516">validus</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/45924">varie</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/46011">vehementer</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129695">vel</a>
+      <a href="http://lila-erc.eu/data/id/lemma/129732">velut</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/111474">vero</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/46690">violenter</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/46744">viriliter</a>
+      <a href="http://lila-erc.eu/data/id/lemma/130478">vix</a>
+    </td>
+  </tr>
+  <tr>
+    <td>p</td>
+    <td>450</td>
+    <td>27</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/91087">aliqui</a>
+      <a href="http://lila-erc.eu/data/id/lemma/91108">aliquis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/88481">alius</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100712">ego</a>
+      <a href="http://lila-erc.eu/data/id/lemma/105455">hic</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109082">idem</a>
+      <a href="http://lila-erc.eu/data/id/lemma/106221">ille</a>
+      <a href="http://lila-erc.eu/data/id/lemma/108945">ipse</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109083">is</a>
+      <a href="http://lila-erc.eu/data/id/lemma/114071">nihil</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/110487">nos</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121092">quantus</a>
+      <a href="https://lila-erc.eu/data/id/lemma/121354">qui2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121354">qui2 qui</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121318">quicumque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121313">quidam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121317">quilibet</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121334">quisnam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121315">quisquam</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121320">quisque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121322">quisquis</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121316">quivis</a>
+      <a href="https://lila-erc.eu/data/id/lemma/131431">seipse</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131255">sui</a>
+      <a href="http://lila-erc.eu/data/id/lemma/29131">tu</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131027">unusquisque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/135768">uterque</a>
+    </td>
+  </tr>
+  <tr>
+    <td>e</td>
+    <td>3</td>
+    <td>1</td>
+    <td>
+      <a href="http://lila-erc.eu/data/id/lemma/114172">o</a>
+    </td>
+  </tr>
+</table>
 
