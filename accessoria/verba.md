@@ -1,6 +1,6 @@
 # Verba orationis in funere Riarii, per genera et lemmata
 
-Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) remanent verba **31**.
+Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) remanent verba **25**, lemmata **20**.
 
 <table>
   <thead>
@@ -1184,7 +1184,7 @@ Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) rema
   </tr>
   <tr>
     <td>c (coniunctio)</td>
-    <td>447</td>
+    <td>446</td>
     <td>34</td>
     <td>
       <a href="http://lila-erc.eu/data/id/lemma/90912">antequam</a>
@@ -1396,8 +1396,8 @@ Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) rema
   </tr>
   <tr>
     <td>p (pronomen)</td>
-    <td>453</td>
-    <td>26</td>
+    <td>456</td>
+    <td>28</td>
     <td>
       <a href="http://lila-erc.eu/data/id/lemma/91087">aliqui</a>
       <a href="http://lila-erc.eu/data/id/lemma/91108">aliquis</a>
@@ -1415,12 +1415,14 @@ Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) rema
       <a href="http://lila-erc.eu/data/id/lemma/121318">quicumque</a>
       <a href="http://lila-erc.eu/data/id/lemma/121313">quidam</a>
       <a href="http://lila-erc.eu/data/id/lemma/121317">quilibet</a>
+      <a href="https://lila-erc.eu/data/id/lemma/121165">quis2</a>
       <a href="http://lila-erc.eu/data/id/lemma/121334">quisnam</a>
       <a href="http://lila-erc.eu/data/id/lemma/121315">quisquam</a>
       <a href="http://lila-erc.eu/data/id/lemma/121320">quisque</a>
       <a href="http://lila-erc.eu/data/id/lemma/121322">quisquis</a>
       <a href="http://lila-erc.eu/data/id/lemma/121316">quivis</a>
       <a href="http://lila-erc.eu/data/id/lemma/131431">seipse</a>
+      <a href="https://lila-erc.eu/data/id/lemma/127505">siquis</a>
       <a href="http://lila-erc.eu/data/id/lemma/131255">sui</a>
       <a href="http://lila-erc.eu/data/id/lemma/29131">tu</a>
       <a href="http://lila-erc.eu/data/id/lemma/131027">unusquisque</a>
@@ -1436,3 +1438,27 @@ Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) rema
     </td>
   </tr>
 </table>
+
+## Lemmata sine LiLa URL
+
+Sine [LiLa URL](http://lila-erc.eu/) remanent verba **25**, lemmata **20**.
+
++ Bosti
++ Imola
++ Maiolus
++ Modrusiensis
++ Perusium
++ Saona
++ Symoniacus
++ Ticinium
++ Vicheria
++ Viterbiensis
++ acute
++ computum
++ floccipendo
++ libenter
++ nudiustertius
++ perraro
++ quotannis
++ repente
++ sancte
