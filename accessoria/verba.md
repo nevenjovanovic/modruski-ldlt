@@ -1,6 +1,6 @@
 # Verba orationis in funere Riarii, per genera et lemmata
 
-Sine LiLa URL: verba 31.
+Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
 
 <table>
   <thead>
@@ -12,7 +12,7 @@ Sine LiLa URL: verba 31.
     </tr>
   </thead>
   <tr>
-    <td>n</td>
+    <td>n (nomen)</td>
     <td>1016</td>
     <td>483</td>
     <td>
@@ -502,7 +502,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>r</td>
+    <td>r (praepositio)</td>
     <td>216</td>
     <td>19</td>
     <td>
@@ -528,7 +528,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>a</td>
+    <td>a (adiectivum)</td>
     <td>605</td>
     <td>213</td>
     <td>
@@ -748,7 +748,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>v</td>
+    <td>v (verbum)</td>
     <td>887</td>
     <td>430</td>
     <td>
@@ -1185,7 +1185,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>c</td>
+    <td>c (coniunctio)</td>
     <td>447</td>
     <td>34</td>
     <td>
@@ -1226,7 +1226,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>m</td>
+    <td>m (numerus)</td>
     <td>12</td>
     <td>9</td>
     <td>
@@ -1242,7 +1242,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>d</td>
+    <td>d (adverbium)</td>
     <td>404</td>
     <td>148</td>
     <td>
@@ -1397,7 +1397,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>p</td>
+    <td>p (pronomen)</td>
     <td>450</td>
     <td>27</td>
     <td>
@@ -1431,7 +1431,7 @@ Sine LiLa URL: verba 31.
     </td>
   </tr>
   <tr>
-    <td>e</td>
+    <td>e (interiectio)</td>
     <td>3</td>
     <td>1</td>
     <td>
