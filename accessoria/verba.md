@@ -1,6 +1,6 @@
 # Verba orationis in funere Riarii, per genera et lemmata
 
-Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
+Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) remanent verba **31**.
 
 <table>
   <thead>
