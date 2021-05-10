@@ -14,7 +14,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
   <tr>
     <td>n (nomen)</td>
     <td>1016</td>
-    <td>483</td>
+    <td>482</td>
     <td>
       <a href="http://lila-erc.eu/data/id/lemma/13620">Ambrosius</a>
       <a href="http://lila-erc.eu/data/id/lemma/1295">Bononia</a>
@@ -30,11 +30,11 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/15816">Nicolaus</a>
       <a href="http://lila-erc.eu/data/id/lemma/136090">Papia</a>
       <a href="http://lila-erc.eu/data/id/lemma/17778">Patavium</a>
-      <a href="https://lila-erc.eu/data/id/lemma/18207">Petrus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/18207">Petrus</a>
       <a href="http://lila-erc.eu/data/id/lemma/20293">Roma</a>
-      <a href="https://lila-erc.eu/data/id/lemma/21323">Senae Sena</a>
+      <a href="http://lila-erc.eu/data/id/lemma/21323">Senae Sena</a>
       <a href="http://lila-erc.eu/data/id/lemma/21844">Sixtus</a>
-      <a href="https://lila-erc.eu/data/id/lemma/22924">Taruisium</a>
+      <a href="http://lila-erc.eu/data/id/lemma/22924">Taruisium</a>
       <a href="http://lila-erc.eu/data/id/lemma/23833">Tobias</a>
       <a href="http://lila-erc.eu/data/id/lemma/136258">Venetiae</a>
       <a href="http://lila-erc.eu/data/id/lemma/87188">acerbitas</a>
@@ -85,7 +85,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/91568">biennium</a>
       <a href="http://lila-erc.eu/data/id/lemma/91702">blanditia</a>
       <a href="http://lila-erc.eu/data/id/lemma/91351">bonum</a>
-      <a href="https://lila-erc.eu/data/id/lemma/92231">caelum2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/92231">caelum2</a>
       <a href="http://lila-erc.eu/data/id/lemma/92114">caerimonia</a>
       <a href="http://lila-erc.eu/data/id/lemma/92293">calamitas</a>
       <a href="http://lila-erc.eu/data/id/lemma/92383">calix</a>
@@ -160,7 +160,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/48017">domesticus</a>
       <a href="http://lila-erc.eu/data/id/lemma/98084">dominus</a>
       <a href="http://lila-erc.eu/data/id/lemma/5227">dominus</a>
-      <a href="https://lila-erc.eu/data/id/lemma/100071">domus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100071">domus</a>
       <a href="http://lila-erc.eu/data/id/lemma/100088">donum</a>
       <a href="http://lila-erc.eu/data/id/lemma/48383">ducatus</a>
       <a href="http://lila-erc.eu/data/id/lemma/100327">dux</a>
@@ -261,7 +261,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/110295">levamen</a>
       <a href="http://lila-erc.eu/data/id/lemma/110351">lex</a>
       <a href="http://lila-erc.eu/data/id/lemma/110379">libellus</a>
-      <a href="https://lila-erc.eu/data/id/lemma/109917">liber1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/109917">liber1</a>
       <a href="http://lila-erc.eu/data/id/lemma/110382">liber4</a>
       <a href="http://lila-erc.eu/data/id/lemma/110385">liberalitas</a>
       <a href="http://lila-erc.eu/data/id/lemma/110503">limen</a>
@@ -435,7 +435,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/125001">socius</a>
       <a href="http://lila-erc.eu/data/id/lemma/125027">sol</a>
       <a href="http://lila-erc.eu/data/id/lemma/125029">solacium</a>
-      <a href="http://lila-erc.eu/data/id/lemma/125127">somnulentia</a>
+      <a href="http://lila-erc.eu/data/id/lemma/125127">somnolentia</a>
       <a href="http://lila-erc.eu/data/id/lemma/125204">sors</a>
       <a href="http://lila-erc.eu/data/id/lemma/125316">speculum</a>
       <a href="http://lila-erc.eu/data/id/lemma/125336">spes</a>
@@ -455,8 +455,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/127912">terra</a>
       <a href="http://lila-erc.eu/data/id/lemma/127976">testamentum</a>
       <a href="http://lila-erc.eu/data/id/lemma/127993">testimonium</a>
-      <a href="https://lila-erc.eu/data/id/lemma/127994">testis1</a>
-      <a href="http://lila-erc.eu/data/id/lemma/127994">testis2</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127994">testis2 testis1</a>
       <a href="http://lila-erc.eu/data/id/lemma/129412">textus2</a>
       <a href="http://lila-erc.eu/data/id/lemma/128113">theologia</a>
       <a href="http://lila-erc.eu/data/id/lemma/128116">theologus</a>
@@ -530,10 +529,10 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
   <tr>
     <td>a (adiectivum)</td>
     <td>605</td>
-    <td>213</td>
+    <td>212</td>
     <td>
       <a href="http://lila-erc.eu/data/id/lemma/3084">Christianus</a>
-      <a href="https://lila-erc.eu/data/id/lemma/136266">Latinus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/136266">Latinus</a>
       <a href="http://lila-erc.eu/data/id/lemma/20302">Romanus</a>
       <a href="http://lila-erc.eu/data/id/hypolemma/30">abditus</a>
       <a href="http://lila-erc.eu/data/id/lemma/87191">acerbus</a>
@@ -543,7 +542,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/88330">alienus</a>
       <a href="http://lila-erc.eu/data/id/lemma/88481">alius</a>
       <a href="http://lila-erc.eu/data/id/lemma/88457">alter</a>
-      <a href="https://lila-erc.eu/data/id/hypolemma/1781">altus1</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/1781">altus1</a>
       <a href="http://lila-erc.eu/data/id/lemma/88785">amplus</a>
       <a href="http://lila-erc.eu/data/id/lemma/89540">apostolicus</a>
       <a href="http://lila-erc.eu/data/id/lemma/90592">avarus</a>
@@ -574,8 +573,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/99345">difficilis</a>
       <a href="http://lila-erc.eu/data/id/lemma/99407">dignus</a>
       <a href="http://lila-erc.eu/data/id/hypolemma/12446">dilectus</a>
-      <a href="http://lila-erc.eu/data/id/hypolemma/12447">diligens</a>
-      <a href="https://lila-erc.eu/data/id/hypolemma/12447">diligo</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/12447">diligens diligo</a>
       <a href="http://lila-erc.eu/data/id/lemma/99555">dirus</a>
       <a href="http://lila-erc.eu/data/id/lemma/99944">divinus</a>
       <a href="http://lila-erc.eu/data/id/lemma/97990">divus</a>
@@ -584,7 +582,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/98100">dominicus</a>
       <a href="http://lila-erc.eu/data/id/lemma/100177">dubius</a>
       <a href="http://lila-erc.eu/data/id/lemma/100555">edax</a>
-      <a href="https://lila-erc.eu/data/id/hypolemma/14994">excellens</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/14994">excellens</a>
       <a href="http://lila-erc.eu/data/id/lemma/102414">extremus</a>
       <a href="http://lila-erc.eu/data/id/lemma/102754">facilis</a>
       <a href="http://lila-erc.eu/data/id/lemma/102846">fallax</a>
@@ -633,7 +631,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/109286">juvenis</a>
       <a href="http://lila-erc.eu/data/id/hypolemma/25590">libens</a>
       <a href="http://lila-erc.eu/data/id/lemma/110384">liberalis1</a>
-      <a href="https://lila-erc.eu/data/id/lemma/111308">magnificentissimus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/111308">magnificentissimus</a>
       <a href="http://lila-erc.eu/data/id/lemma/111307">magnificus</a>
       <a href="http://lila-erc.eu/data/id/lemma/111319">magnus</a>
       <a href="http://lila-erc.eu/data/id/lemma/63389">malevolus</a>
@@ -887,7 +885,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/99075">devenio</a>
       <a href="http://lila-erc.eu/data/id/lemma/99098">devincio</a>
       <a href="http://lila-erc.eu/data/id/lemma/99107">devito</a>
-      <a href="https://lila-erc.eu/data/id/lemma/99301">dico1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99301">dico1</a>
       <a href="http://lila-erc.eu/data/id/lemma/99302">dico2</a>
       <a href="http://lila-erc.eu/data/id/lemma/99342">differo</a>
       <a href="http://lila-erc.eu/data/id/lemma/99405">digno</a>
@@ -901,7 +899,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/99875">distraho</a>
       <a href="http://lila-erc.eu/data/id/lemma/99903">dito</a>
       <a href="http://lila-erc.eu/data/id/lemma/99912">divello</a>
-      <a href="https://lila-erc.eu/data/id/lemma/99083">diversor</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99083">diversor</a>
       <a href="http://lila-erc.eu/data/id/lemma/99970">do</a>
       <a href="http://lila-erc.eu/data/id/lemma/99971">doceo</a>
       <a href="http://lila-erc.eu/data/id/lemma/100021">doleo</a>
@@ -1082,7 +1080,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/118414">pono</a>
       <a href="http://lila-erc.eu/data/id/lemma/118569">possum</a>
       <a href="http://lila-erc.eu/data/id/lemma/118629">postulo</a>
-      <a href="https://lila-erc.eu/data/id/lemma/118832">praedico1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/118832">praedico1</a>
       <a href="http://lila-erc.eu/data/id/lemma/118833">praedico2</a>
       <a href="http://lila-erc.eu/data/id/lemma/118894">praeficio</a>
       <a href="http://lila-erc.eu/data/id/lemma/119090">praeoccupo</a>
@@ -1209,8 +1207,8 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/113704">nisi</a>
       <a href="http://lila-erc.eu/data/id/lemma/120753">postquam</a>
       <a href="http://lila-erc.eu/data/id/lemma/121355">quamvis</a>
-      <a href="https://lila-erc.eu/data/id/lemma/131416">que</a>
-      <a href="https://lila-erc.eu/data/id/hypolemma/110467">quo quoque</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131416">que</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/110467">quo quoque</a>
       <a href="http://lila-erc.eu/data/id/lemma/74851">quoad</a>
       <a href="http://lila-erc.eu/data/id/lemma/74854">quod</a>
       <a href="http://lila-erc.eu/data/id/lemma/121289">quoniam</a>
@@ -1226,7 +1224,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
     </td>
   </tr>
   <tr>
-    <td>m (numerus)</td>
+    <td>m (numerale)</td>
     <td>12</td>
     <td>9</td>
     <td>
@@ -1267,7 +1265,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/98611">denique</a>
       <a href="http://lila-erc.eu/data/id/lemma/47414">diligenter</a>
       <a href="http://lila-erc.eu/data/id/lemma/99941">divinitus</a>
-      <a href="https://lila-erc.eu/data/id/lemma/100071">domus</a>
+      <a href="http://lila-erc.eu/data/id/lemma/100071">domus</a>
       <a href="http://lila-erc.eu/data/id/lemma/100243">dumtaxat</a>
       <a href="http://lila-erc.eu/data/id/lemma/100515">ecce</a>
       <a href="http://lila-erc.eu/data/id/hypolemma/13804">egregie</a>
@@ -1346,13 +1344,13 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/hypolemma/110864">prorsus1</a>
       <a href="http://lila-erc.eu/data/id/lemma/120154">protinus</a>
       <a href="http://lila-erc.eu/data/id/lemma/74492">quam</a>
-      <a href="https://lila-erc.eu/data/id/lemma/138601">quamobrem</a>
+      <a href="http://lila-erc.eu/data/id/lemma/138601">quamobrem</a>
       <a href="http://lila-erc.eu/data/id/lemma/131414">quanto</a>
       <a href="http://lila-erc.eu/data/id/lemma/121343">quare</a>
       <a href="http://lila-erc.eu/data/id/lemma/121168">quidem</a>
       <a href="http://lila-erc.eu/data/id/lemma/121181">quin</a>
       <a href="http://lila-erc.eu/data/id/lemma/121267">quippe</a>
-      <a href="https://lila-erc.eu/data/id/hypolemma/110467">quo quoque</a>
+      <a href="http://lila-erc.eu/data/id/hypolemma/110467">quo quoque</a>
       <a href="http://lila-erc.eu/data/id/lemma/121298">quotiens</a>
       <a href="http://lila-erc.eu/data/id/hypolemma/37393">religiose</a>
       <a href="http://lila-erc.eu/data/id/lemma/122117">rite</a>
@@ -1398,8 +1396,8 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
   </tr>
   <tr>
     <td>p (pronomen)</td>
-    <td>450</td>
-    <td>27</td>
+    <td>453</td>
+    <td>26</td>
     <td>
       <a href="http://lila-erc.eu/data/id/lemma/91087">aliqui</a>
       <a href="http://lila-erc.eu/data/id/lemma/91108">aliquis</a>
@@ -1413,8 +1411,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/114071">nihil</a>
       <a href="http://lila-erc.eu/data/id/hypolemma/110487">nos</a>
       <a href="http://lila-erc.eu/data/id/lemma/121092">quantus</a>
-      <a href="https://lila-erc.eu/data/id/lemma/121354">qui2</a>
-      <a href="http://lila-erc.eu/data/id/lemma/121354">qui2 qui</a>
+      <a href="http://lila-erc.eu/data/id/lemma/121354">qui2</a>
       <a href="http://lila-erc.eu/data/id/lemma/121318">quicumque</a>
       <a href="http://lila-erc.eu/data/id/lemma/121313">quidam</a>
       <a href="http://lila-erc.eu/data/id/lemma/121317">quilibet</a>
@@ -1423,7 +1420,7 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
       <a href="http://lila-erc.eu/data/id/lemma/121320">quisque</a>
       <a href="http://lila-erc.eu/data/id/lemma/121322">quisquis</a>
       <a href="http://lila-erc.eu/data/id/lemma/121316">quivis</a>
-      <a href="https://lila-erc.eu/data/id/lemma/131431">seipse</a>
+      <a href="http://lila-erc.eu/data/id/lemma/131431">seipse</a>
       <a href="http://lila-erc.eu/data/id/lemma/131255">sui</a>
       <a href="http://lila-erc.eu/data/id/lemma/29131">tu</a>
       <a href="http://lila-erc.eu/data/id/lemma/131027">unusquisque</a>
@@ -1439,4 +1436,3 @@ Verba sunt **4128**. Sine [LiLa URL](http://lila-erc.eu/) remanent **31**.
     </td>
   </tr>
 </table>
-
