@@ -1443,22 +1443,24 @@ Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) rema
 
 Sine [LiLa URL](http://lila-erc.eu/) remanent verba **25**, lemmata **20**.
 
-+ Bosti
-+ Imola
-+ Maiolus
-+ Modrusiensis
-+ Perusium
-+ Saona
-+ Symoniacus
-+ Ticinium
-+ Vicheria
-+ Viterbiensis
-+ acute
-+ computum
-+ floccipendo
-+ libenter
-+ nudiustertius
-+ perraro
-+ quotannis
-+ repente
-+ sancte
++ Bosti, proper noun (LiLa 0)
++ Imola, proper noun (LiLa 0)
++ Maiolus, proper noun (LiLa has maiolus, common noun: http://lila-erc.eu/data/id/lemma/63245 )
++ Modrusiensis, adjective (LiLa 0)
++ Perusium (LiLa has perusia, proper noun: http://lila-erc.eu/data/id/lemma/18135 )
++ Saona, proper noun (LiLa 0)
++ Symoniacus (LiLa has simonia, common noun: http://lila-erc.eu/data/id/lemma/80774 )
++ Ticinium (LiLa has ticinum, proper noun: http://lila-erc.eu/data/id/lemma/23667 )
++ Vicheria, proper noun (LiLa has uiceria, common noun: http://lila-erc.eu/data/id/lemma/84994)
++ Viterbiensis, adjective (LiLa has uiterbium, proper noun: http://lila-erc.eu/data/id/lemma/136052 )
++ acute, adverb (from adjective acutus: http://lila-erc.eu/data/id/hypolemma/547 )
++ computum, common noun, neutrum (variant of computus: http://lila-erc.eu/data/id/lemma/95420 )
++ floccipendo, verb (written as one word; composite of floccus, noun http://lila-erc.eu/data/id/lemma/103468 and pendo 3, verb https://lila-erc.eu/data/id/lemma/116474 )
++ libenter, adverb (from adjective libens http://lila-erc.eu/data/id/hypolemma/25590 )
++ nudiustertius, adverb (written as one word; there is an adverb nudius http://lila-erc.eu/data/id/lemma/113942 and adjective nudiustertianus http://lila-erc.eu/data/id/lemma/113943 )
++ perraro, adverb (from adjective perrarus http://lila-erc.eu/data/id/lemma/117253 )
++ quotannis, adverb (nothing similar in LiLa)
++ repente, adverb (from base of repens https://lila-erc.eu/lodview/data/id/base/3609 )
++ sancte, adverb (from sanctus https://lila-erc.eu/data/id/hypolemma/39324 )
+
+
