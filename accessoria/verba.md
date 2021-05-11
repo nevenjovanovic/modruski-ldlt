@@ -150,14 +150,13 @@ Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) rema
       <a href="http://lila-erc.eu/data/id/lemma/99609">disciplina</a>
       <a href="http://lila-erc.eu/data/id/lemma/99613">discipulus</a>
       <a href="http://lila-erc.eu/data/id/lemma/99940">divinitas</a>
-      <a href="http://lila-erc.eu/data/id/lemma/99899">divitiae diuitiae</a>
+      <a href="http://lila-erc.eu/data/id/lemma/99899">divitiae</a>
       <a href="http://lila-erc.eu/data/id/lemma/99985">doctor</a>
       <a href="http://lila-erc.eu/data/id/lemma/99993">documentum</a>
       <a href="http://lila-erc.eu/data/id/lemma/100004">dogma</a>
       <a href="http://lila-erc.eu/data/id/lemma/100034">dolor</a>
       <a href="http://lila-erc.eu/data/id/lemma/100037">dolus</a>
       <a href="http://lila-erc.eu/data/id/lemma/100047">domestici</a>
-      <a href="http://lila-erc.eu/data/id/lemma/48017">domesticus</a>
       <a href="http://lila-erc.eu/data/id/lemma/98084">dominus</a>
       <a href="http://lila-erc.eu/data/id/lemma/5227">dominus</a>
       <a href="http://lila-erc.eu/data/id/lemma/100071">domus</a>
@@ -455,7 +454,7 @@ Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](http://lila-erc.eu/) rema
       <a href="http://lila-erc.eu/data/id/lemma/127912">terra</a>
       <a href="http://lila-erc.eu/data/id/lemma/127976">testamentum</a>
       <a href="http://lila-erc.eu/data/id/lemma/127993">testimonium</a>
-      <a href="http://lila-erc.eu/data/id/lemma/127994">testis2 testis1</a>
+      <a href="http://lila-erc.eu/data/id/lemma/127994">testis1</a>
       <a href="http://lila-erc.eu/data/id/lemma/129412">textus2</a>
       <a href="http://lila-erc.eu/data/id/lemma/128113">theologia</a>
       <a href="http://lila-erc.eu/data/id/lemma/128116">theologus</a>
@@ -1453,14 +1452,14 @@ Sine [LiLa URL](http://lila-erc.eu/) remanent verba **25**, lemmata **20**.
 + Ticinium (LiLa has ticinum, proper noun: http://lila-erc.eu/data/id/lemma/23667 )
 + Vicheria, proper noun (LiLa has uiceria, common noun: http://lila-erc.eu/data/id/lemma/84994)
 + Viterbiensis, adjective (LiLa has uiterbium, proper noun: http://lila-erc.eu/data/id/lemma/136052 )
-+ acute, adverb (from adjective acutus: http://lila-erc.eu/data/id/hypolemma/547 )
++ acute, adverb (from adjective acutus: http://lila-erc.eu/data/id/hypolemma/547 ); CroALa [18 occurrences](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=acute&start=0&end=0)
 + computum, common noun, neutrum (variant of computus: http://lila-erc.eu/data/id/lemma/95420 )
-+ floccipendo, verb (written as one word; composite of floccus, noun http://lila-erc.eu/data/id/lemma/103468 and pendo 3, verb https://lila-erc.eu/data/id/lemma/116474 )
-+ libenter, adverb (from adjective libens http://lila-erc.eu/data/id/hypolemma/25590 )
-+ nudiustertius, adverb (written as one word; there is an adverb nudius http://lila-erc.eu/data/id/lemma/113942 and adjective nudiustertianus http://lila-erc.eu/data/id/lemma/113943 )
-+ perraro, adverb (from adjective perrarus http://lila-erc.eu/data/id/lemma/117253 )
-+ quotannis, adverb (nothing similar in LiLa)
-+ repente, adverb (from base of repens https://lila-erc.eu/lodview/data/id/base/3609 )
-+ sancte, adverb (from sanctus https://lila-erc.eu/data/id/hypolemma/39324 )
++ floccipendo, verb (written as one word; composite of floccus, noun http://lila-erc.eu/data/id/lemma/103468 and pendo 3, verb https://lila-erc.eu/data/id/lemma/116474 ); CroALa [2 occurrences in Nikola Modruški](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=floccipend.*&start=0&end=0)
++ libenter, adverb (from adjective libens http://lila-erc.eu/data/id/hypolemma/25590 ); CroALa [218 occurrences](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=libenter&start=0&end=0)
++ nudiustertius, adverb (written as one word; there is an adverb nudius http://lila-erc.eu/data/id/lemma/113942 and adjective nudiustertianus http://lila-erc.eu/data/id/lemma/113943 ); CroALa [10 occurrences](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=nudiustertius&start=0&end=0)
++ perraro, adverb (from adjective perrarus http://lila-erc.eu/data/id/lemma/117253 ); CroALa [6 occurrences](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=perraro&start=0&end=0)
++ quotannis, adverb (LiLa 0); CroALa [182 occurrences](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=quotannis&start=0&end=0)
++ repente, adverb (from base of repens https://lila-erc.eu/lodview/data/id/base/3609 ); CroALa [512 occurrences](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=repente&start=0&end=0)
++ sancte, adverb (from sanctus https://lila-erc.eu/data/id/hypolemma/39324 ); CroALa [a significant part of 263 occurrences](http://solr.ffzg.hr/philo4/croala0/query?report=concordance&method=proxy&q=repente&start=0&end=0)
 
 
