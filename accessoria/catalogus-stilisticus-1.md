@@ -3,7 +3,7 @@
 Annotationes stilisticae sunt **565**.  In eis notae singulares **860**. Notarum genera sunt **59**.
 
 
-Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.xq) ex DB `modr-riar-lemm`, quam fecit XQuery [createModrRiarStilisticaDB.xq](scripta/createModrRiarStilisticaDB.xq).
+Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.xq) ex DB `modr-riar-stil`, factam per XQuery [createModrRiarStilisticaDB.xq](scripta/createModrRiarStilisticaDB.xq).
 
 
 <table>

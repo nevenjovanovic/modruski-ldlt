@@ -2,7 +2,7 @@
 
 Verba sunt **4128**, lemmata **1364**. Sine [LiLa URL](https://lila-erc.eu/) remanent verba **15**, lemmata **13**.
 
-Tabulam fecit XQuery programma [ListLemmataLiLaOcc](scripta/ListLemmataLiLaOcc.xq) ex DB `modr-riar-lemm`, quam fecit XQuery [createModrRiarLemmataDB.xq](scripta/createModrRiarLemmataDB.xq).
+Tabulam fecit XQuery programma [ListLemmataLiLaOcc.xq](scripta/ListLemmataLiLaOcc.xq) ex DB `modr-riar-lemm`, factam per XQuery [createModrRiarLemmataDB.xq](scripta/createModrRiarLemmataDB.xq).
 
 <table>
   <thead>
@@ -248,9 +248,9 @@ Tabulam fecit XQuery programma [ListLemmataLiLaOcc](scripta/ListLemmataLiLaOcc.x
   <td>
     <a href="https://logeion.uchicago.edu/tu">tu</a>
   </td>
-  <td>allogma</td>
+  <td>tu</td>
   <td>
-    <a href="https://lila-erc.eu/data/id/lemma/29131">lemma/29131</a>
+    <a href="https://lila-erc.eu/data/id/lemma/129131">lemma/129131</a>
   </td>
   <td>20</td>
 </tr>
