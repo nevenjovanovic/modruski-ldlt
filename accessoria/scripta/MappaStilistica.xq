@@ -2,16 +2,17 @@
 (: report how many have nested phr elements :)
 declare variable $dbrhet := "modr-riar-stil";
 declare variable $heatmap := map { 
-0: "#5bcc2a",
-1: "#56bd29",
-2: "#4ba126",
-3: "#408323",
-4: "#376d1f",
-5: "#33621e",
-6: "#2e561c",
-7: "#000000"
+0: "#9ef738",
+1: "#93e436",
+2: "#7ec231",
+3: "#689e2c",
+4: "#598527",
+5: "#527925",
+6: "#4b6e23",
+7: "#446221",
+8: "#3d571e"
 };
 let $nestvalues :=
 for $p in db:open($dbrhet)//*:text//*:s/*:phr
-return element tr { element td { attribute style { "background-color:" || map:get($heatmap , count($p/*:phr)) }, count($p/*:phr) } }
+return element tr { element td { attribute style { "background-color:" || map:get($heatmap , count($p//*:phr)) }, count($p//*:phr) } }
 return $nestvalues
