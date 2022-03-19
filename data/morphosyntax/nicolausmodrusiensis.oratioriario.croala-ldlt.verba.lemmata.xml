@@ -6876,7 +6876,9 @@
                      lemmaRef="https://lila-erc.eu/data/id/lemma/109942"
                      lemma="largitas"
                      ana="n-s---fa-">largitatem</w>
-                  <w n="6" lemma="quis1" ana="n-s---mn-">quis</w>
+                  <w n="6" lemma="quis1" 
+                     lemmaRef="https://lila-erc.eu/data/id/lemma/121165"
+                     ana="n-s---mn-">quis</w>
                   <w n="7"
                      lemma="sum1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/126689"
@@ -7650,7 +7652,9 @@
                      lemma="si"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/124676"
                      ana="c--------">si</w>
-                  <w n="3" lemma="quis1" ana="n-s---mn-">quis</w>
+                  <w n="3" lemma="quis1" 
+                     lemmaRef="https://lila-erc.eu/data/id/lemma/121165"
+                     ana="n-s---mn-">quis</w>
                   <w n="4"
                      lemma="diligenter"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/47414"
@@ -11362,7 +11366,9 @@
                      lemma="ducatus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/48383"
                      ana="n-p---mg-">ducatorum</w>
-                  <w n="23" lemma="quotannis" lemmaRef="https://lila-erc.eu/data/id/lemma/139997" ana="d-------p">quotannis</w>
+                  <w n="23" lemma="quotannis" 
+                     lemmaRef="https://lila-erc.eu/data/id/lemma/139997" 
+                     ana="d-------p">quotannis</w>
                   <w n="24"
                      lemma="capio"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/92686"
