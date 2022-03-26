@@ -1,9 +1,14 @@
 # Catalogus stilisticus I ad orationem in funere Riarii
 
-Annotationes stilisticae sunt **565**.  In eis notae singulares **860**. Notarum genera sunt **59**.
+Notarum stilisticarum numerus: 565  
+Verborum extra notis: 1027 de 4128  
+Termini in notis occurrentes: 860  
+Terminorum genera: 59  
+Notarum parentium: 166  
+Notarum liberorum: 268  
+Notarum sine liberis: 174
 
-
-Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.xq) ex DB `modr-riar-stil`, factam per XQuery [createModrRiarStilisticaDB.xq](scripta/createModrRiarStilisticaDB.xq).
+Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.xq) ex DB `modr-riar-stil` quae facta est per XQuery [createModrRiarStilisticaDB.xq](scripta/createModrRiarStilisticaDB.xq). Numeros nuntiavit programma [IndexStilisticusConspectusNumerorum.xq](scripta/IndexStilisticusConspectusNumerorum.xq).
 
 
 <table>
@@ -16,9 +21,9 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   </thead>
   <tbody>
   <tr>
-  <td>Phrasis bimembris, duo commata continens</td>
+  <td>Phrasis bimembris, duo commata (sive partes sententiae etiam minores) continens</td>
   <td>#bimembre</td>
-  <td>111</td>
+  <td>104</td>
 </tr>
 <tr>
   <td>Figura metaphora</td>
@@ -31,6 +36,11 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>62</td>
 </tr>
 <tr>
+  <td>Figura dicolon, duo phrases sive cola (partes sententiae longiores) continens</td>
+  <td>#dicolon</td>
+  <td>56</td>
+</tr>
+<tr>
   <td>Figura hyperbaton</td>
   <td>#hyperbaton</td>
   <td>53</td>
@@ -41,14 +51,9 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>52</td>
 </tr>
 <tr>
-  <td>Figura dicolon</td>
-  <td>#dicolon</td>
-  <td>51</td>
-</tr>
-<tr>
   <td>Comparatio (gradus)</td>
   <td>#comparatio</td>
-  <td>45</td>
+  <td>46</td>
 </tr>
 <tr>
   <td>Figura chiasmus</td>
@@ -73,7 +78,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 <tr>
   <td>Figura litotes</td>
   <td>#litotes</td>
-  <td>19</td>
+  <td>20</td>
 </tr>
 <tr>
   <td>Figura anaphora: verborum ordo praeposterus, in duobus verbis fit</td>
@@ -91,6 +96,11 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>14</td>
 </tr>
 <tr>
+  <td>Figura homoioteleuton</td>
+  <td>#homoioteleuton</td>
+  <td>14</td>
+</tr>
+<tr>
   <td>Modus poeticus</td>
   <td>#poetice</td>
   <td>14</td>
@@ -103,11 +113,6 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 <tr>
   <td>Figura antithesis</td>
   <td>#ANTITHESIS</td>
-  <td>13</td>
-</tr>
-<tr>
-  <td>Figura homoioteleuton</td>
-  <td>#homoioteleuton</td>
   <td>13</td>
 </tr>
 <tr>
@@ -246,11 +251,6 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>2</td>
 </tr>
 <tr>
-  <td>Figura epistrophe</td>
-  <td>#epistrophe</td>
-  <td>2</td>
-</tr>
-<tr>
   <td>Figura metaphora (apud Christianos in usu)</td>
   <td>#METAPHORA-CHRISTIANA</td>
   <td>2</td>
@@ -296,6 +296,11 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>1</td>
 </tr>
 <tr>
+  <td>Figura epistrophe: cola sive commata eodem verbo finiuntur</td>
+  <td>#epistrophe</td>
+  <td>1</td>
+</tr>
+<tr>
   <td>Deminutiva</td>
   <td>#deminutiva</td>
   <td>1</td>
@@ -310,6 +315,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>#distinctio</td>
   <td>1</td>
 </tr>
+  
   </tbody>
     </table>
 

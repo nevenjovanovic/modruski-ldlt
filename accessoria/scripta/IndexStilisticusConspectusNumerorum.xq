@@ -11,10 +11,10 @@ let $parents := db:open($dbrhet)//*:text//*:phr[*:phr]
 let $children := db:open($dbrhet)//*:text//*:phr[parent::*:phr]
 let $nochild := db:open($dbrhet)//*:text//*:s/*:phr[not(*:phr)]
 let $words := db:open($dbrhet)//*:text//*:w
-return "Notarum stilisticarum numerus: " || count($segs) || "
-Extra notis: " || count($nosegs) || " de " || count($words) || "
-Nomina in notis occurrentia: " || count(local:terms()) || "
-Nominum typi: " || count(distinct-values(local:terms())) || "
-Notarum parentium: " || count($parents) || "
-Notarum liberorum: " || count($children) || "
+return "Notarum stilisticarum numerus: " || count($segs) || "  
+Verborum extra notis: " || count($nosegs) || " de " || count($words) || "  
+Termini in notis occurrentes: " || count(local:terms()) || "  
+Terminorum genera: " || count(distinct-values(local:terms())) || "  
+Notarum parentium: " || count($parents) || "  
+Notarum liberorum: " || count($children) || "  
 Notarum sine liberis: " || count($nochild)
