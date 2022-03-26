@@ -1,12 +1,12 @@
 # Catalogus stilisticus I ad orationem in funere Riarii
 
-Notarum stilisticarum numerus: 565  
-Verborum extra notis: 1027 de 4128  
-Termini in notis occurrentes: 860  
+Notarum stilisticarum numerus: 564  
+Verborum extra notis: 1026 de 4128  
+Termini in notis occurrentes: 862  
 Terminorum genera: 59  
 Notarum parentium: 166  
-Notarum liberorum: 268  
-Notarum sine liberis: 174
+Notarum liberorum: 267  
+Notarum sine liberis: 175
 
 Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.xq) ex DB `modr-riar-stil` quae facta est per XQuery [createModrRiarStilisticaDB.xq](scripta/createModrRiarStilisticaDB.xq). Numeros nuntiavit programma [IndexStilisticusConspectusNumerorum.xq](scripta/IndexStilisticusConspectusNumerorum.xq).
 
@@ -27,18 +27,18 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura metaphora</td>
-  <td>#METAPHORA</td>
+  <td>#metaphora</td>
   <td>85</td>
 </tr>
 <tr>
   <td>Figura anaphora</td>
-  <td>#ANAPHORA</td>
+  <td>#anaphora</td>
   <td>62</td>
 </tr>
 <tr>
-  <td>Figura dicolon, duo phrases sive cola (partes sententiae longiores) continens</td>
+  <td>Figura dicolon, duo phrases sive cola, partes sententiae longiores, continens</td>
   <td>#dicolon</td>
-  <td>56</td>
+  <td>58</td>
 </tr>
 <tr>
   <td>Figura hyperbaton</td>
@@ -47,13 +47,13 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura alliteratio</td>
-  <td>#ALLITERATIO</td>
+  <td>#alliteratio</td>
   <td>52</td>
 </tr>
 <tr>
-  <td>Comparatio (gradus)</td>
-  <td>#comparatio</td>
-  <td>46</td>
+  <td>Figura incrementum: gradus gradu fortiore superatur (a minore ad maius)</td>
+  <td>#incrementum</td>
+  <td>40</td>
 </tr>
 <tr>
   <td>Figura chiasmus</td>
@@ -62,7 +62,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura synonymia (idem repetitur aliis verbis)</td>
-  <td>#SYNONYMIA</td>
+  <td>#synonymia</td>
   <td>28</td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura parallelismus</td>
-  <td>#PARALLELISMUS</td>
+  <td>#parallelismus</td>
   <td>25</td>
 </tr>
 <tr>
@@ -112,12 +112,12 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura antithesis</td>
-  <td>#ANTITHESIS</td>
+  <td>#antithesis</td>
   <td>13</td>
 </tr>
 <tr>
   <td>Figura metonymia</td>
-  <td>#METONYMIA</td>
+  <td>#metonymia</td>
   <td>12</td>
 </tr>
 <tr>
@@ -136,8 +136,13 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>12</td>
 </tr>
 <tr>
+  <td>Comparatio gradus sive rerum</td>
+  <td>#comparatio</td>
+  <td>12</td>
+</tr>
+<tr>
   <td>Figura tricolon crescens</td>
-  <td>#TRICOLON-CRESCENS</td>
+  <td>#tricolon-crescens</td>
   <td>12</td>
 </tr>
 <tr>
@@ -152,7 +157,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura polyptoton</td>
-  <td>#POLYPTOTON</td>
+  <td>#polyptoton</td>
   <td>8</td>
 </tr>
 <tr>
@@ -161,18 +166,13 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>7</td>
 </tr>
 <tr>
-  <td>Correctio (propositi)</td>
+  <td>Correctio propositi</td>
   <td>#correctio</td>
   <td>7</td>
 </tr>
 <tr>
   <td>Enthymema</td>
   <td>#enthymema</td>
-  <td>6</td>
-</tr>
-<tr>
-  <td>Figura gradatio</td>
-  <td>#GRADATIO</td>
   <td>6</td>
 </tr>
 <tr>
@@ -187,12 +187,12 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura hyperbole</td>
-  <td>#HYPERBOLE</td>
+  <td>#hyperbole</td>
   <td>4</td>
 </tr>
 <tr>
   <td>Figura exclamatio</td>
-  <td>#EXCLAMATIO</td>
+  <td>#exclamatio</td>
   <td>3</td>
 </tr>
 <tr>
@@ -222,12 +222,12 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura coacervatio</td>
-  <td>#COACERVATIO</td>
+  <td>#coacervatio</td>
   <td>3</td>
 </tr>
 <tr>
-  <td>Figura diacope (repetitio cum singulo verbo interposito)</td>
-  <td>#DIACOPE</td>
+  <td>Figura diacope: repetitio cum singulo verbo interposito</td>
+  <td>#diacope</td>
   <td>2</td>
 </tr>
 <tr>
@@ -242,7 +242,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura simile</td>
-  <td>#SIMILE</td>
+  <td>#simile</td>
   <td>2</td>
 </tr>
 <tr>
@@ -251,18 +251,18 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>2</td>
 </tr>
 <tr>
-  <td>Figura metaphora (apud Christianos in usu)</td>
-  <td>#METAPHORA-CHRISTIANA</td>
+  <td>Metaphora apud Christianos usitata</td>
+  <td>#metaphora-christiana</td>
   <td>2</td>
 </tr>
 <tr>
   <td>Figura merismus sive distributio, diaeresis, qua in inventione totum in partes dividitur</td>
-  <td>#MERISMUS</td>
+  <td>#merismus</td>
   <td>1</td>
 </tr>
 <tr>
   <td>Figura paronomasia: sonat similiter; addenda aut demenda aut mutanda littera aut syllaba fit</td>
-  <td>#PARONOMASIA</td>
+  <td>#paronomasia</td>
   <td>1</td>
 </tr>
 <tr>
@@ -272,12 +272,12 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura apostrophe</td>
-  <td>#APOSTROPHE</td>
+  <td>#apostrophe</td>
   <td>1</td>
 </tr>
 <tr>
   <td>Figura anadiplosis</td>
-  <td>#ANADIPLOSIS</td>
+  <td>#anadiplosis</td>
   <td>1</td>
 </tr>
 <tr>
@@ -292,7 +292,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
 </tr>
 <tr>
   <td>Figura tetracolon</td>
-  <td>#TETRACOLON</td>
+  <td>#tetracolon</td>
   <td>1</td>
 </tr>
 <tr>
@@ -314,8 +314,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</td>
   <td>#distinctio</td>
   <td>1</td>
-</tr>
-  
+</tr>  
   </tbody>
     </table>
 
