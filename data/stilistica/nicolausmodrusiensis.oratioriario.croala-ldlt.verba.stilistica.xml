@@ -17487,7 +17487,7 @@
            <interp n="interp1a" xml:id="anadiplosis">Figura anadiplosis</interp>
            <interp n="interp2" xml:id="anaphora">Figura anaphora</interp>
            <interp n="interp3" xml:id="anaphora-gradatio">Figura anaphora cum gradatione</interp>
-           <interp n="interp3a" xml:id="anastrophe">Figura anaphora: verborum ordo praeposterus, in duobus verbis fit</interp>
+           <interp n="interp3a" xml:id="anastrophe">Figura anastrophe: verborum ordo praeposterus, in duobus verbis fit</interp>
            <interp n="interp4" xml:id="antithesis">Figura antithesis</interp>
            <interp n="interp5" xml:id="alliteratio">Figura alliteratio</interp>
            <interp n="interp6" xml:id="apostrophe">Figura apostrophe</interp>
@@ -17501,7 +17501,7 @@
            <interp n="interp7b" xml:id="correctio">Correctio propositi</interp>
            <interp n="interp7c" xml:id="chiasmus">Figura chiasmus</interp>
            <interp n="interp8" xml:id="diacope">Figura diacope: repetitio cum singulo verbo interposito</interp>
-           <interp n="interp8a" xml:id="deminutiva">Deminutiva</interp>
+           <interp n="interp8a" xml:id="deminutiva">Deminutiva notabilia</interp>
            <interp n="interp8b" xml:id="dicolon">Figura dicolon, duo phrases sive cola, partes sententiae longiores, continens</interp>
            <interp n="interp8c" xml:id="distinctio">Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</interp>
            <interp n="interp8d" xml:id="enthymema">Enthymema</interp>
@@ -17523,7 +17523,7 @@
            <interp n="interp15" xml:id="simile">Figura simile</interp>
            <interp n="interp16" xml:id="tricolon-crescens">Figura tricolon crescens</interp>
            <interp n="interp17" xml:id="tricolon-crescens-gradatio">Figura tricolon crescens cum gradatione</interp>
-           <interp n="interp17a" xml:id="trimembre">Phrasis trimembris, tria commata contines</interp>
+           <interp n="interp17a" xml:id="trimembre">Phrasis trimembris, tria commata continens</interp>
            <interp n="interp18" xml:id="tetracolon">Figura tetracolon</interp>
            <interp n="interp19" xml:id="tetracolon-chiasmus">Figura tetracolon cum chiasmo</interp>
            <interp n="interp20" xml:id="tetracolon-crescens">Figura tetracolon crescens</interp>

@@ -19,8 +19,8 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
       <td>Quoties in opere</td>
     </tr>
   </thead>
-  <tbody>
-  <tr>
+<tbody>
+<tr>
   <td>Phrasis bimembris, duo commata (sive partes sententiae etiam minores) continens</td>
   <td>#bimembre</td>
   <td>104</td>
@@ -81,7 +81,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>20</td>
 </tr>
 <tr>
-  <td>Figura anaphora: verborum ordo praeposterus, in duobus verbis fit</td>
+  <td>Figura anastrophe: verborum ordo praeposterus, in duobus verbis fit</td>
   <td>#anastrophe</td>
   <td>19</td>
 </tr>
@@ -301,7 +301,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>1</td>
 </tr>
 <tr>
-  <td>Deminutiva</td>
+  <td>Deminutiva notabilia</td>
   <td>#deminutiva</td>
   <td>1</td>
 </tr>
@@ -314,8 +314,8 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</td>
   <td>#distinctio</td>
   <td>1</td>
-</tr>  
-  </tbody>
+</tr>
+</tbody>
     </table>
 
 EOF
