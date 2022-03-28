@@ -51,7 +51,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>52</td>
 </tr>
 <tr>
-  <td>Figura incrementum: gradus gradu fortiore superatur (a minore ad maius)</td>
+  <td>Figura incrementum: gradus gradu fortiore superatur (a minore ad maius; Lausberg § 403)</td>
   <td>#incrementum</td>
   <td>40</td>
 </tr>
@@ -246,7 +246,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>2</td>
 </tr>
 <tr>
-  <td>Phrasis trimembris, tria commata contines</td>
+  <td>Phrasis trimembris, tria commata continens</td>
   <td>#trimembre</td>
   <td>2</td>
 </tr>
@@ -256,8 +256,8 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>2</td>
 </tr>
 <tr>
-  <td>Figura merismus sive distributio, diaeresis, qua in inventione totum in partes dividitur</td>
-  <td>#merismus</td>
+  <td>Divisio sive distributio (diaeresis) qua res in genera distinguitur (Lausberg § 393)</td>
+  <td>#divisio</td>
   <td>1</td>
 </tr>
 <tr>
