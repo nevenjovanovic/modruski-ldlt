@@ -1,6 +1,8 @@
 # Catalogus annotationum ut occurrant
 
-Factus programmate XQuery [ConcordantiaAnnotationum.xq](scripta/ConcordantiaAnnotationum.xq). Numeri nodos in DB significant.
+Factus programmate XQuery [ConcordantiaAnnotationum.xq](scripta/ConcordantiaAnnotationum.xq). Numeris nodi in DB `modr-riar-stil` notantur. 
+
+Indiculus concordari potest, e. g. cum [AntConc](https://www.laurenceanthony.net/software/antconc/) sive [www.lextutor.ca/conc/text/](https://www.lextutor.ca/conc/text/).
 
 ---
 
