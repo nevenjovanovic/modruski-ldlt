@@ -567,7 +567,7 @@ Factus programmate XQuery [ConcordantiaAnnotationum.xq](scripta/ConcordantiaAnno
 32751: #anaphora #antithesis \
 32789: #comparatio \
 32841: #hyperbaton \
-32850: #synecdocha \
+32850: #synecdocha
 
 
 ---
