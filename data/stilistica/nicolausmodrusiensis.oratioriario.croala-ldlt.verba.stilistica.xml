@@ -173,7 +173,7 @@
             </head>
             <p n="p1" xml:id="modrusiensis-riario01morphlemma">
                <s n="s1">
-                  <phr ana="#merismus"><w n="1"
+                  <phr ana="#divisio"><w n="1"
                      lemma="cum"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/97202"
                      ana="c--------">Cum</w>
@@ -17484,75 +17484,64 @@
      <back n="back1">
         <interpGrp n="interpGrp1">
            <interp n="interp1" xml:id="abstractum">Abstractum pro concreto</interp>
-           <interp n="interp1a" xml:id="anadiplosis">Figura anadiplosis</interp>
-           <interp n="interp2" xml:id="anaphora">Figura anaphora</interp>
-           <interp n="interp3" xml:id="anaphora-gradatio">Figura anaphora cum gradatione</interp>
-           <interp n="interp3a" xml:id="anastrophe">Figura anastrophe: verborum ordo praeposterus, in duobus verbis fit</interp>
-           <interp n="interp4" xml:id="antithesis">Figura antithesis</interp>
-           <interp n="interp5" xml:id="alliteratio">Figura alliteratio</interp>
-           <interp n="interp6" xml:id="apostrophe">Figura apostrophe</interp>
-           <interp n="interp6a" xml:id="argumentum">Argumentum (quod probatione non eget)</interp>
-           <interp n="interp6b" xml:id="asyndeton">Figura asyndeton</interp>
-           <interp n="interp6c" xml:id="auctoritas">Exemplum auctoritatis</interp>
-           <interp n="interp6d" xml:id="aversio">Aversio a proposito abducit audientem</interp>
-           <interp n="interp6e" xml:id="bimembre">Phrasis bimembris, duo commata (sive partes sententiae etiam minores) continens</interp>
-           <interp n="interp7" xml:id="coacervatio">Figura coacervatio</interp>
-           <interp n="interp7a" xml:id="comparatio">Comparatio gradus sive rerum</interp>
-           <interp n="interp7b" xml:id="correctio">Correctio propositi</interp>
-           <interp n="interp7c" xml:id="chiasmus">Figura chiasmus</interp>
-           <interp n="interp8" xml:id="diacope">Figura diacope: repetitio cum singulo verbo interposito</interp>
-           <interp n="interp8a" xml:id="deminutiva">Deminutiva notabilia</interp>
-           <interp n="interp8b" xml:id="dicolon">Figura dicolon, duo phrases sive cola, partes sententiae longiores, continens</interp>
-           <interp n="interp8c" xml:id="distinctio">Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</interp>
-           <interp n="interp8d" xml:id="enthymema">Enthymema</interp>
-           <interp n="interp8e" xml:id="epanalepsis">Figura epanalepsis</interp>
-           <interp n="interp8f" xml:id="epistrophe">Figura epistrophe: cola sive commata eodem verbo finiuntur</interp>
-           <interp n="interp9" xml:id="epitheton-ornans">Figura epitheton ornans</interp>
-           <interp n="interp10" xml:id="exclamatio">Figura exclamatio</interp>
-           <interp n="interp10a" xml:id="exemplum">Figura exemplum</interp>
-           <interp n="interp11" xml:id="hendiadyoin">Figura hendiadyoin</interp>
-           <interp n="interp11a" xml:id="gradatio">Figura gradatio</interp>
-           <interp n="interp11b" xml:id="homoioteleuton">Figura homoioteleuton</interp>
-           <interp n="interp12" xml:id="hyperbole">Figura hyperbole</interp>
-           <interp n="interp12a" xml:id="hyperbaton">Figura hyperbaton</interp>
-           <interp n="interp12aa" xml:id="incrementum">Figura incrementum: gradus gradu fortiore superatur (a minore ad maius)</interp>
-           <interp n="interp12b" xml:id="interrogatio">Figura interrogatio; non sciscitandi gratia assumitur, sed instandi</interp>
-           <interp n="interp12c" xml:id="litotes">Figura litotes</interp>
-           <interp n="interp13" xml:id="paronomasia">Figura paronomasia: sonat similiter; addenda aut demenda aut mutanda littera aut syllaba fit</interp>
-           <interp n="interp14" xml:id="polyptoton">Figura polyptoton</interp>
-           <interp n="interp15" xml:id="simile">Figura simile</interp>
-           <interp n="interp16" xml:id="tricolon-crescens">Figura tricolon crescens</interp>
-           <interp n="interp17" xml:id="tricolon-crescens-gradatio">Figura tricolon crescens cum gradatione</interp>
-           <interp n="interp17a" xml:id="trimembre">Phrasis trimembris, tria commata continens</interp>
-           <interp n="interp18" xml:id="tetracolon">Figura tetracolon</interp>
-           <interp n="interp19" xml:id="tetracolon-chiasmus">Figura tetracolon cum chiasmo</interp>
-           <interp n="interp20" xml:id="tetracolon-crescens">Figura tetracolon crescens</interp>
-           <interp n="interp20a" xml:id="merismus">Figura merismus sive distributio, diaeresis, qua in inventione totum in partes dividitur</interp>
-           <interp n="interp21" xml:id="metaphora">Figura metaphora</interp>
-           <interp n="interp22" xml:id="metaphora-christiana">Metaphora apud Christianos usitata</interp>
-           <interp n="interp23" xml:id="metonymia">Figura metonymia</interp>
-           <interp n="interp24" xml:id="pathos">Pathos</interp>
-           <interp n="interp24a" xml:id="paradoxon">Figura paradoxon</interp>
-           <interp n="interp25" xml:id="parallelismus">Figura parallelismus</interp>
-           <interp n="interp26" xml:id="parallelismus-chiasmus">Figura parallelismus cum chiasmo</interp>
-           <interp n="interp27" xml:id="parallelismus-crescens">Figura parallelismus crescens</interp>
-           <interp n="interp28" xml:id="parallelismus-polyptoton">Figura parallelismus cum polyptoto</interp>
-           <interp n="interp28a" xml:id="parenthesis">Figura parenthesis</interp>
-           <interp n="interp28b" xml:id="percursio">Percursio: paucis comprehensa brevitas, multarum rerum expeditio</interp>
-           <interp n="interp28c" xml:id="personificatio">Figura personificatio</interp>
-           <interp n="interp28d" xml:id="pleonasmus">Figura pleonasmus</interp>
-           <interp n="interp28e" xml:id="poetice">Modus poeticus</interp>
-           <interp n="interp28f" xml:id="praeteritio">Figura praeteritio</interp>
-           <interp n="interp28f" xml:id="probatio-signum">Probatio per signa</interp>
-           <interp n="interp28g" xml:id="probatio-testes">Probatio per testes</interp>
-           <interp n="interp28h" xml:id="refutatio">Refutatio</interp>
-           <interp n="interp28i" xml:id="refutatio-testes">Refutatio per testes</interp>
-           <interp n="interp28j" xml:id="sonus">Verba simile sonantia (Klangfiguren)</interp>
-           <interp n="interp29" xml:id="synonymia">Figura synonymia (idem repetitur aliis verbis)</interp>
-           <interp n="interp30" xml:id="synonymia-parallelismus">Figura synonymia cum parallelismo ordinis verborum</interp>
-           <interp n="interp30" xml:id="synecdocha">Figura synecdocha: a parte totum vel a toto pars intellegitur; pro verbo proprio subicitur aliud quod idem significat sumptum ex re aliqua consequenti</interp>
-           <interp n="interp30a" xml:id="synecdocha-specie-genus">Figura synecdocha: specie genus intellegimus</interp>
-           <interp n="interp31" xml:id="transitio">Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur</interp>
+           <interp n="interp2" xml:id="anadiplosis">Figura anadiplosis</interp>
+           <interp n="interp3" xml:id="anaphora">Figura anaphora</interp>
+           <interp n="interp4" xml:id="anastrophe">Figura anastrophe: verborum ordo praeposterus, in duobus verbis fit</interp>
+           <interp n="interp5" xml:id="antithesis">Figura antithesis</interp>
+           <interp n="interp6" xml:id="alliteratio">Figura alliteratio</interp>
+           <interp n="interp7" xml:id="apostrophe">Figura apostrophe</interp>
+           <interp n="interp8" xml:id="argumentum">Argumentum (quod probatione non eget)</interp>
+           <interp n="interp9" xml:id="asyndeton">Figura asyndeton</interp>
+           <interp n="interp10" xml:id="auctoritas">Exemplum auctoritatis</interp>
+           <interp n="interp11" xml:id="aversio">Aversio a proposito abducit audientem</interp>
+           <interp n="interp12" xml:id="bimembre">Phrasis bimembris, duo commata (sive partes sententiae etiam minores) continens</interp>
+           <interp n="interp13" xml:id="coacervatio">Figura coacervatio</interp>
+           <interp n="interp14" xml:id="comparatio">Comparatio gradus sive rerum</interp>
+           <interp n="interp15" xml:id="correctio">Correctio propositi</interp>
+           <interp n="interp16" xml:id="chiasmus">Figura chiasmus</interp>
+           <interp n="interp17" xml:id="diacope">Figura diacope: repetitio cum singulo verbo interposito</interp>
+           <interp n="interp18" xml:id="deminutiva">Deminutiva notabilia</interp>
+           <interp n="interp19" xml:id="dicolon">Figura dicolon, duo phrases sive cola, partes sententiae longiores, continens</interp>
+           <interp n="interp20" xml:id="distinctio">Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</interp>
+           <interp n="interp21" xml:id="enthymema">Enthymema</interp>
+           <interp n="interp22" xml:id="epanalepsis">Figura epanalepsis</interp>
+           <interp n="interp23" xml:id="epistrophe">Figura epistrophe: cola sive commata eodem verbo finiuntur</interp>
+           <interp n="interp24" xml:id="exclamatio">Figura exclamatio</interp>
+           <interp n="interp25" xml:id="exemplum">Figura exemplum</interp>
+           <interp n="interp26" xml:id="hendiadyoin">Figura hendiadyoin</interp>
+           <interp n="interp27" xml:id="homoioteleuton">Figura homoioteleuton</interp>
+           <interp n="interp28" xml:id="hyperbole">Figura hyperbole</interp>
+           <interp n="interp29" xml:id="hyperbaton">Figura hyperbaton</interp>
+           <interp n="interp30" xml:id="incrementum">Figura incrementum: gradus gradu fortiore superatur (a minore ad maius; Lausberg § 403)</interp>
+           <interp n="interp31" xml:id="interrogatio">Figura interrogatio; non sciscitandi gratia assumitur, sed instandi</interp>
+           <interp n="interp32" xml:id="litotes">Figura litotes</interp>
+           <interp n="interp33" xml:id="paronomasia">Figura paronomasia: sonat similiter; addenda aut demenda aut mutanda littera aut syllaba fit</interp>
+           <interp n="interp34" xml:id="polyptoton">Figura polyptoton</interp>
+           <interp n="interp35" xml:id="simile">Figura simile</interp>
+           <interp n="interp36" xml:id="tricolon-crescens">Figura tricolon crescens</interp>
+           <interp n="interp37" xml:id="trimembre">Phrasis trimembris, tria commata continens</interp>
+           <interp n="interp38" xml:id="tetracolon">Figura tetracolon</interp>
+           <interp n="interp39" xml:id="divisio">Divisio sive distributio (diaeresis) qua res in genera distinguitur (Lausberg § 393)</interp>
+           <interp n="interp40" xml:id="metaphora">Figura metaphora</interp>
+           <interp n="interp41" xml:id="metaphora-christiana">Metaphora apud Christianos usitata</interp>
+           <interp n="interp42" xml:id="metonymia">Figura metonymia</interp>
+           <interp n="interp43" xml:id="paradoxon">Figura paradoxon</interp>
+           <interp n="interp44" xml:id="parallelismus">Figura parallelismus</interp>
+           <interp n="interp45" xml:id="parenthesis">Figura parenthesis</interp>
+           <interp n="interp46" xml:id="percursio">Percursio: paucis comprehensa brevitas, multarum rerum expeditio</interp>
+           <interp n="interp47" xml:id="personificatio">Figura personificatio</interp>
+           <interp n="interp48" xml:id="pleonasmus">Figura pleonasmus</interp>
+           <interp n="interp49" xml:id="poetice">Modus poeticus</interp>
+           <interp n="interp50" xml:id="praeteritio">Figura praeteritio</interp>
+           <interp n="interp51" xml:id="probatio-signum">Probatio per signa</interp>
+           <interp n="interp52" xml:id="probatio-testes">Probatio per testes</interp>
+           <interp n="interp53" xml:id="refutatio">Refutatio</interp>
+           <interp n="interp54" xml:id="refutatio-testes">Refutatio per testes</interp>
+           <interp n="interp55" xml:id="sonus">Verba simile sonantia (Klangfiguren)</interp>
+           <interp n="interp56" xml:id="synonymia">Figura synonymia (idem repetitur aliis verbis)</interp>
+           <interp n="interp57" xml:id="synecdocha">Figura synecdocha: a parte totum vel a toto pars intellegitur; pro verbo proprio subicitur aliud quod idem significat sumptum ex re aliqua consequenti</interp>
+           <interp n="interp58" xml:id="synecdocha-specie-genus">Figura synecdocha: specie genus intellegimus</interp>
+           <interp n="interp59" xml:id="transitio">Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur</interp>
         </interpGrp>
      </back>
   </text>
