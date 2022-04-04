@@ -1,6 +1,6 @@
 # Annotationes stilisticae nidos habentes
 
-Nidus = nest; annotatio `phr` cum annotatione stilistica alias annotationes cum annotationibus continet.
+Nidus = nest; nota `phr` cum annotatione stilistica alias notas `phr` cum annotationibus continet.
 
 Quaestio posita est programmate XQuery [NidiStilistici.xq](scripta/NidiStilistici.xq).
 

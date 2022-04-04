@@ -62,3 +62,15 @@ The test run is live at our CroALa server:  [croala.ffzg.unizg.hr/modrusiensis-o
 ## License
 
 [CC-BY](LICENSE.md)
+
+## Stylistic analysis of the oration
+
+Stylistic features are annotated as `phr` TEI XML elements. Annotations are in `@ana` attributes.
+
+The annotated versions are in files [nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica.xml](data/stilistica/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica.xml) (preserving word segmentation) and [nicolausmodrusiensis.oratioriario.croala-ldlt.phr.stilistica.xml](data/stilistica/nicolausmodrusiensis.oratioriario.croala-ldlt.phr.stilistica.xml) (without word segmentation).
+
+* [A catalogue of annotation values in phr elements](accessoria/catalogus-annotationum.md)
+* [A report on occurrences of stylistic annotation values](accessoria/catalogus-stilisticus-1.md)
+* [Alphabetical index of stylistic annotation values with frequencies](accessoria/catalogus-stilisticus-alphabetice.md)
+* [Annotation values by nesting (parent or children elements)](accessoria/annotationes-singulares.md)
+* [Number of nested phr elements](accessoria/nidi-stilistici.md)
