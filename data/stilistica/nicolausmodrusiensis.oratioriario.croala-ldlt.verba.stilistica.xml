@@ -8,7 +8,7 @@
                <persName xml:lang="hr">Nikola Modruški</persName>
                <date>c. 1427-1480</date>
             </author>
-            <editor>
+            <editor xml:id="v6913774">
                <persName>
                   <ref type="viaf" target="6913774">Neven Jovanović</ref>
                </persName>
@@ -69,6 +69,14 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2022-04-09</date> 
+            Added topical annotation to p and s elements, described the annotation in interpGrp 2.
+            Corrections to annotations (change of names, transferred some from s to phr).
+         </change>
          <change>
             <persName>
                <ref type="viaf" target="6913774">Neven Jovanović</ref>
@@ -171,7 +179,7 @@
                   <pc n="1">.</pc>
                </s>
             </head>
-            <p n="p1" xml:id="modrusiensis-riario01morphlemma">
+            <p n="p1" xml:id="modrusiensis-riario01stilistica" ana="#arg-exordium">
                <s n="s1">
                   <phr ana="#divisio"><w n="1"
                      lemma="cum"
@@ -673,7 +681,7 @@
                   <pc n="4">.</pc></phr>
                </s>
             </p>
-            <p n="p2" xml:id="modrusiensis-riario02morphlemma">
+            <p n="p2" xml:id="modrusiensis-riario02stilistica" ana="#arg-exordium">
                <s n="s1">
                   <w n="1"
                      lemma="perdo"
@@ -1646,8 +1654,8 @@
                   <pc n="3">.</pc></phr>
                </s>
             </p>
-            <p n="p3" xml:id="modrusiensis-riario03morphlemma">
-               <s n="s1">
+            <p n="p3" xml:id="modrusiensis-riario03stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-genus">
                   <w n="1"
                      lemma="dico2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/99302"
@@ -2029,7 +2037,7 @@
                      ana="v--pnp---">celebrari</w></phr></phr></phr>
                   <pc n="8">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-virtutes">
                   <phr ana="#aversio"><w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -2281,8 +2289,8 @@
                   <pc n="13">.</pc>
                </s>
             </p>
-            <p n="p4" xml:id="modrusiensis-riario04morphlemma">
-               <s n="s1">
+            <p n="p4" xml:id="modrusiensis-riario04stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-pueritia">
                   <phr ana="#dicolon"><w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -2382,7 +2390,7 @@
                      ana="v3sria---">demonstrauit</w>
                   <pc n="4">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-pueritia">
                   <w n="1"
                      lemma="annus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/89129"
@@ -2501,7 +2509,7 @@
                      ana="v--pna---">feruescere</w></phr></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-pueritia">
                   <w n="1"
                      lemma="claresco"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/94423"
@@ -2629,7 +2637,7 @@
                      ana="v3siip---">interpretabatur</w>
                   <pc n="4">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-pueritia">
                   <phr ana="#polyptoton #parallelismus #dicolon"><w n="1"
                      lemma="hic"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105455"
@@ -2820,7 +2828,7 @@
                      ana="n-s---ma-">antistitem</w></phr></phr>
                   <pc n="9">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-pueritia">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -3018,7 +3026,7 @@
                      ana="v3sisa---">posset</w>
                   <pc n="6">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-pueritia">
                   <w n="1"
                      lemma="sed"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/123994"
@@ -3183,7 +3191,7 @@
                      ana="v3sria---">induit</w></phr></phr>
                   <pc n="9">.</pc>
                </s>
-               <s n="s7">
+               <s n="s7" ana="#arg-pueritia">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -3296,7 +3304,7 @@
                      ana="v--pnp---">subministrari</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s8">
+               <s n="s8" ana="#arg-pueritia">
                   <phr ana="#anastrophe"><w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -3410,7 +3418,7 @@
                      ana="n-s---mb-">affectu</w></phr></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s9">
+               <s n="s9" ana="#arg-pueritia">
                   <w n="1"
                      lemma="unde"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130603"
@@ -3461,7 +3469,7 @@
                      ana="v3sisp---">excoleretur</w>
                   <pc n="1">.</pc>
                </s>
-               <s n="s10">
+               <s n="s10" ana="#arg-pueritia">
                   <w n="1"
                      lemma="itaque"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/109129"
@@ -3687,7 +3695,7 @@
                      ana="v3sisa---">reconderet</w></phr>
                   <pc n="10">.</pc>
                </s>
-               <s n="s11">
+               <s n="s11" ana="#arg-pueritia">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -3802,7 +3810,7 @@
                      ana="v--rna---">potuisse</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s12">
+               <s n="s12" ana="#arg-pueritia">
                   <phr ana="#probatio-testes"><phr ana="#alliteratio"><w n="1"
                      lemma="habeo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105044"
@@ -3999,7 +4007,7 @@
                      ana="v--pna---">uacare</w></phr></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s13">
+               <s n="s13" ana="#arg-pueritia">
                   <w n="1"
                      lemma="teneo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127822"
@@ -4042,7 +4050,7 @@
                      ana="v3slia---">audierat</w>
                   <pc n="1">.</pc>
                </s>
-               <s n="s14">
+               <s n="s14" ana="#arg-pueritia">
                   <phr ana="#metaphora"><w n="1"
                      lemma="vigeo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130174"
@@ -4261,8 +4269,8 @@
                   <pc n="4">.</pc>
                </s>
             </p>
-            <p n="p5" xml:id="modrusiensis-riario05morphlemma">
-               <s n="s1">
+            <p n="p5" xml:id="modrusiensis-riario05stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-pueritia">
                   <w n="1"
                      lemma="perficio"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/116821"
@@ -4345,7 +4353,7 @@
                      ana="v-sfpamn-">impleturus</w>
                   <pc n="5">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-pueritia">
                   <w n="1"
                      lemma="insum"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/108325"
@@ -4457,7 +4465,7 @@
                      ana="n-p---nn-">oracula</w></phr></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-pueritia">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -4660,7 +4668,7 @@
                      ana="v3siia---">praedicebat</w>
                   <pc n="5">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-pueritia">
                   <phr ana="#probatio-testes"><w n="1"
                      lemma="cerno"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/93546"
@@ -4773,7 +4781,7 @@
                      ana="v--rna---">fuisse</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-pueritia">
                   <w n="1"
                      lemma="itaque"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/109129"
@@ -5374,8 +5382,8 @@
                   <pc n="9">.</pc>
                </s>
             </p>
-            <p n="p6" xml:id="modrusiensis-riario06morphlemma">
-               <s n="s1">
+            <p n="p6" xml:id="modrusiensis-riario06stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="Petrus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/18207"
@@ -5465,7 +5473,7 @@
                      ana="v--pna---">sperare</w></phr></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="assumo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/90386"
@@ -5740,7 +5748,7 @@
                      ana="a-s---fn-">digna</w></phr>
                   <pc n="11">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-cardinalatus">
                   <phr ana="#synonymia #bimembre"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/129288"
                      lemma="turpis"
@@ -5966,7 +5974,7 @@
                      ana="v--pna---">honorare</w></phr></phr>
                   <pc n="8">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-cardinalatus">
                   <phr ana="#probatio-signum"><w n="1"
                      lemma="unde"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130603"
@@ -6045,7 +6053,7 @@
                      ana="v--pna---">componere</w></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-cardinalatus">
                   <phr ana="#dicolon #chiasmus"><phr ana="#metaphora"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/88030"
                      lemma="affluo"
@@ -6196,7 +6204,7 @@
                      ana="n-s---mb-">affectu</w></phr></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="hinc"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105454"
@@ -6299,7 +6307,7 @@
                      ana="v3siia---">uolebat</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s7">
+               <s n="s7" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="iactura"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/109476"
@@ -6356,8 +6364,8 @@
                   <pc n="2">.</pc>
                </s>
             </p>
-            <p n="p7" xml:id="modrusiensis-riario07morphlemma">
-               <s n="s1">
+            <p n="p7" xml:id="modrusiensis-riario07stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="ab"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/86824"
@@ -6405,7 +6413,7 @@
                      ana="v--pnp---">depelli</w></phr>
                   <pc n="2">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-cardinalatus">
                   <phr ana="#chiasmus #dicolon #asyndeton">
                      <phr ana="#poetice"><w n="1"
                      lemma="verax"
@@ -6486,7 +6494,7 @@
                      ana="n-s---mn-">obseruator</w>
                   <pc n="6">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="insignis"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/108151"
@@ -6513,7 +6521,7 @@
                      ana="n-p---nn-">testimonia</w>
                   <pc n="1">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="sed"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/123994"
@@ -6607,7 +6615,7 @@
                      ana="v3siip---">obliuiscebatur</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-cardinalatus">
                   <phr ana="#poetice">
                      <w n="1" lemma="floccipendo" ana="v3siia---">Floccipendebat</w></phr>
                   <w n="2"
@@ -6713,8 +6721,8 @@
                   <pc n="2">.</pc>
                </s>
             </p>
-            <p n="p8" xml:id="modrusiensis-riario08morphlemma">
-               <s n="s1">
+            <p n="p8" xml:id="modrusiensis-riario08stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
                   <phr ana="#anaphora #dicolon #incrementum #asyndeton"><w n="1"
                      lemma="nihil"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/114071"
@@ -6787,7 +6795,7 @@
                      ana="n-s---fa-">probitatem</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-cardinalatus">
                   <phr ana="#probatio-signum #antithesis">
                      <phr ana="#synonymia #bimembre"><w n="1"
                      lemma="malus1"
@@ -6889,7 +6897,7 @@
                      ana="v--pna---">superare</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-cardinalatus">
                   <phr ana="#interrogatio #probatio-testes"><w n="1"
                      lemma="sane"
                      lemmaRef="https://lila-erc.eu/data/id/hypolemma/39381"
@@ -6966,7 +6974,7 @@
                      ana="v3srsa---">nescierit</w></phr></phr>
                   <pc n="1">?</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-cardinalatus">
                   <phr ana="#metaphora"><w n="1"
                      lemma="is"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/109083"
@@ -7043,7 +7051,7 @@
                      ana="v3sisa---">cessaret</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-cardinalatus">
                   <phr ana="#probatio-testes">
                      <phr ana="#litotes #bimembre"><w n="1"
                      lemma="non"
@@ -7108,7 +7116,7 @@
                      ana="v3sria---">donauit</w></phr>
                   <pc n="2">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-cardinalatus">
                   <w n="1"
                      lemma="et"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/101542"
@@ -7339,7 +7347,7 @@
                      ana="v3sfia---">erit</w></phr>
                   <pc n="7">.</pc>
                </s>
-               <s n="s7">
+               <s n="s7" ana="#arg-cardinalatus">
                   <phr ana="#asyndeton #chiasmus #anaphora #dicolon #exclamatio">
                      <w n="1"
                      lemma="o"
@@ -7434,7 +7442,8 @@
                      ana="v3spia---">est</w></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s8" ana="#exclamatio #antithesis #dicolon #parallelismus">
+               <s n="s8" ana="#arg-cardinalatus">
+                  <phr ana="#exclamatio #antithesis #dicolon #parallelismus">
                   <w n="1"
                      lemma="felix1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/103068"
@@ -7497,10 +7506,11 @@
                      lemmaRef="https://lila-erc.eu/data/id/lemma/126689"
                      ana="v3spia---">est</w></phr>
                   <pc n="2">!</pc>
+                  </phr>
                </s>
             </p>
-            <p n="p9" xml:id="modrusiensis-riario09morphlemma">
-               <s n="s1">
+            <p n="p9" xml:id="modrusiensis-riario09stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
                   <phr ana="#hyperbaton #metaphora"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121208"
                      lemma="quingenti"
@@ -7631,7 +7641,7 @@
                      ana="n-p---fb-">impensis</w></phr></phr>
                   <pc n="12">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-cardinalatus">
                   <phr ana="#metaphora #probatio-signum"><w n="1"
                      lemma="hospes"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105736"
@@ -7687,7 +7697,7 @@
                      ana="a-s---nnc">uerius</w></phr>
                   <pc n="2">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-cardinalatus">
                   <phr ana="#enthymema"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/113344"
                      lemma="nam"
@@ -7820,8 +7830,8 @@
                   <pc n="3">.</pc>
                </s>
             </p>
-            <p n="p10" xml:id="modrusiensis-riario10morphlemma">
-               <s n="s1">
+            <p n="p10" xml:id="modrusiensis-riario10stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
                   <phr ana="#anastrophe"><w n="1"
                      lemma="accipio"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/87119"
@@ -7925,7 +7935,7 @@
                      ana="v3sisa---">acciperet</w></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-cardinalatus">
                   <phr ana="#probatio-testes"><w n="1"
                      lemma="testis1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127994"
@@ -7972,7 +7982,7 @@
                      ana="v3pria---">uoluerunt</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-cardinalatus">
                   <phr ana="#probatio-testes"><w n="1"
                      lemma="complures"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/95359"
@@ -8076,8 +8086,8 @@
                   <pc n="1">.</pc>
                </s>
             </p>
-            <p n="p11" xml:id="modrusiensis-riario11morphlemma">
-               <s n="s1">
+            <p n="p11" xml:id="modrusiensis-riario11stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-cardinalatus">
                   <phr ana="#probatio-testes"><w n="1"
                      lemma="video"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130163"
@@ -8384,7 +8394,7 @@
                      ana="v3siia---">iurabat</w></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-cardinalatus">
                   <phr ana="#probatio-signum">
                      <phr ana="#metaphora #chiasmus #dicolon"><w n="1"
                      lemma="ango"
@@ -8495,8 +8505,8 @@
                   <pc n="3">.</pc>
                </s>
             </p>
-            <p n="p12" xml:id="modrusiensis-riario12morphlemma">
-               <s n="s1">
+            <p n="p12" xml:id="modrusiensis-riario12stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-excursus-in-invidos">
                   <phr ana="#interrogatio">
                      <phr ana="#tricolon-crescens #anaphora #asyndeton"><w n="1"
                      lemma="ubi"
@@ -8765,9 +8775,9 @@
                      ana="v--pna---">lacerare</w></phr></phr></phr>
                   <pc n="11">?</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-excursus-in-invidos">
                   <phr ana="#apostrophe">
-                     <phr ana="#anadiplosis">
+                     <phr ana="#geminatio">
                         <w n="1"
                      lemma="caveo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/93200"
@@ -8876,7 +8886,8 @@
                      ana="v-ppp-mg-">uiuentium</w></phr></phr></phr>
                   <pc n="7">!</pc>
                </s>
-               <s n="s3" ana="#anaphora #aversio">
+               <s n="s3" ana="#arg-hypostrophe">
+                  <phr ana="#anaphora #aversio">
                   <w n="1"
                      lemma="sed"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/123994"
@@ -8954,8 +8965,10 @@
                      lemmaRef="https://lila-erc.eu/data/id/lemma/100037"
                      ana="n-p---ma-">dolos</w></phr>
                   <pc n="1">.</pc>
+                  </phr>
                </s>
-               <s n="s4" ana="#anaphora #aversio #antithesis">
+               <s n="s4" ana="#arg-hypostrophe">
+                  <phr ana="#anaphora #aversio #antithesis">
                   <w n="1"
                      lemma="sed"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/123994"
@@ -9029,10 +9042,11 @@
                      lemmaRef="https://lila-erc.eu/data/id/lemma/120069"
                      ana="v1ppsp---">prosequamur</w></phr></phr>
                   <pc n="5">.</pc>
+                  </phr>
                </s>
             </p>
-            <p n="p13" xml:id="modrusiensis-riario13morphlemma">
-               <s n="s1">
+            <p n="p13" xml:id="modrusiensis-riario13stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-prudentia">
                   <w n="1"
                      lemma="itaque"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/109129"
@@ -9132,7 +9146,7 @@
                      ana="a-p---nn-">manifesta</w>
                   <pc n="6">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-prudentia">
                   <w n="1"
                      lemma="quamobrem"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/138601"
@@ -9233,7 +9247,7 @@
                      ana="a-s---ma-">dilectum</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-prudentia">
                   <phr ana="#argumentum #enthymema">
                      <phr ana="#metaphora"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/110351"
@@ -9392,7 +9406,7 @@
                      ana="v3sisa---">foueret</w></phr></phr></phr></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-prudentia">
                   <phr ana="#probatio-signum"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/115363"
                      lemma="ostendo"
@@ -9545,7 +9559,7 @@
                      ana="v3slsa---">contulisset</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-prudentia">
                   <w n="1"
                      lemma="in"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/106748"
@@ -9626,7 +9640,7 @@
                      ana="v3piia---">putabant</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-prudentia">
                   <w n="1"
                      lemma="unde"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130603"
@@ -9682,7 +9696,7 @@
                      ana="v3piia---">committebant</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s7">
+               <s n="s7" ana="#arg-prudentia">
                   <w n="1"
                      lemma="fallo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/102847"
@@ -9728,8 +9742,8 @@
                   <pc n="3">.</pc>
                </s>
             </p>
-            <p n="p14" xml:id="modrusiensis-riario14morphlemma">
-               <s n="s1">
+            <p n="p14" xml:id="modrusiensis-riario14stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-prudentia">
                   <w n="1"
                      lemma="secedo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/123945"
@@ -10016,7 +10030,7 @@
                      ana="v3slsa---">praeripuisset</w></phr>
                   <pc n="9">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-prudentia">
                   <phr ana="#dicolon #chiasmus">
                      <phr ana="#metaphora"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130232"
@@ -10144,7 +10158,7 @@
                      ana="v3siid---">pascebatur</w></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-prudentia">
                   <phr ana="#refutatio">
                      <phr ana="#metaphora #hyperbole"><w n="1"
                      lemma="omnis"
@@ -10259,7 +10273,7 @@
                      ana="a-s---mns">facillimus</w></phr></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-prudentia">
                   <phr ana="#refutatio-testes">
                      <phr ana="#dicolon #polyptoton #asyndeton"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/113840"
@@ -10410,8 +10424,8 @@
                   <pc n="11">.</pc>
                </s>
             </p>
-            <p n="p15" xml:id="modrusiensis-riario15morphlemma">
-               <s n="s1">
+            <p n="p15" xml:id="modrusiensis-riario15stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-moderatio">
                   <phr ana="#incrementum"><w n="1"
                      lemma="tantus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127630"
@@ -10475,7 +10489,7 @@
                      ana="v3sisa---">reuocaret</w></phr></phr></phr>
                   <pc n="2">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-moderatio">
                   <phr ana="#chiasmus #asyndeton #bimembre"><w n="1"
                      lemma="de"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/97932"
@@ -10538,7 +10552,7 @@
                      ana="a-s---mn-">curiosus</w></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-moderatio">
                   <w n="1"
                      lemma="magnus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/111319"
@@ -10608,8 +10622,8 @@
                   <pc n="3">.</pc>
                </s>
             </p>
-            <p n="p16" xml:id="modrusiensis-riario16morphlemma">
-               <s n="s1">
+            <p n="p16" xml:id="modrusiensis-riario16stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-moderatio">
                   <phr ana="#bimembre"><w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/93926"
                      lemma="cibus"
@@ -10790,7 +10804,7 @@
                      ana="v2sisa---">putares</w></phr></phr></phr></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-moderatio">
                   <w n="1"
                      lemma="in"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/106748"
@@ -10917,7 +10931,7 @@
                      ana="v--pna---">illustrare</w>
                   <pc n="5">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-moderatio">
                   <phr ana="#anastrophe"><w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -10985,7 +10999,7 @@
                      ana="v3sisa---">contingeret</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-moderatio">
                   <w n="1"
                      lemma="urbs"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130822"
@@ -11071,7 +11085,7 @@
                      ana="v3sria---">restituit</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-moderatio">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -11126,7 +11140,7 @@
                      ana="v3sisd---">pateretur</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-moderatio">
                   <w n="1"
                      lemma="unde"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130603"
@@ -11170,8 +11184,8 @@
                   <pc n="1">.</pc>
                </s>
             </p>
-            <p n="p17" xml:id="modrusiensis-riario17morphlemma">
-               <s n="s1">
+            <p n="p17" xml:id="modrusiensis-riario17stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-iustitia">
                   <w n="1"
                      lemma="porro"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/118505"
@@ -11251,7 +11265,7 @@
                      ana="v3sria---">oppressit</w></phr></phr>
                   <pc n="2">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-iustitia">
                   <phr ana="#probatio-signum #exemplum"><w n="1"
                      lemma="unde"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130603"
@@ -11334,7 +11348,7 @@
                      ana="v3sria---">curauit</w></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-iustitia">
                   <w n="1"
                      lemma="quattuordecim"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121134"
@@ -11460,7 +11474,7 @@
                      ana="v3sria---">uoluit</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-iustitia">
                   <phr ana="#probatio-signum"><w n="1"
                      lemma="magistratus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/111283"
@@ -11499,7 +11513,7 @@
                      ana="v--pna---">administrare</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-iustitia">
                   <w n="1"
                      lemma="et"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/101542"
@@ -11595,7 +11609,7 @@
                      ana="v3siia---">uolebat</w>
                   <pc n="4">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-iustitia">
                   <phr ana="#probatio-testes #exemplum"><w n="1"
                      lemma="unde"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130603"
@@ -11774,7 +11788,7 @@
                      ana="v3sfid---">precabitur</w></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s7">
+               <s n="s7" ana="#arg-iustitia">
                   <phr ana="#probatio-testes #anaphora #dicolon"><w n="1"
                      lemma="hic"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105455"
@@ -11852,7 +11866,7 @@
                      ana="v3siia---">mandabat</w></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s8">
+               <s n="s8" ana="#arg-iustitia">
                   <phr ana="#probatio-signum"><w n="1"
                      lemma="dico2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/99302"
@@ -11942,7 +11956,7 @@
                      ana="v--pna---">uelle</w></phr>
                   <pc n="2">.</pc>
                </s>
-               <s n="s9">
+               <s n="s9" ana="#arg-iustitia">
                   <phr ana="#probatio-signum"><w n="1"
                      lemma="hinc"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105454"
@@ -12050,7 +12064,7 @@
                      ana="v3slia---">iusserat</w></phr>
                   <pc n="6">.</pc>
                </s>
-               <s n="s10">
+               <s n="s10" ana="#arg-iustitia">
                   <w n="1"
                      lemma="hic"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105455"
@@ -12143,7 +12157,7 @@
                      ana="n-s---fg-">ecclesiae</w></phr>
                   <pc n="7">.</pc>
                </s>
-               <s n="s11">
+               <s n="s11" ana="#arg-iustitia">
                   <w n="1"
                      lemma="supplico"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127037"
@@ -12233,8 +12247,8 @@
                   <pc n="3">.</pc>
                </s>
             </p>
-            <p n="p18" xml:id="modrusiensis-riario18morphlemma">
-               <s n="s1">
+            <p n="p18" xml:id="modrusiensis-riario18stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-praetermissio">
                   <phr ana="#aversio #praeteritio"><w n="1"
                      lemma="cogo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/94739"
@@ -12303,7 +12317,7 @@
                      ana="v-srppmn-">superatus</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-praetermissio">
                   <phr ana="#anaphora #tricolon-crescens #percursio"><w n="1"
                      lemma="qualis"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121068"
@@ -12433,7 +12447,7 @@
                      ana="v--pna---">uitiare</w></phr></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-pietas">
                   <w n="1"
                      lemma="ille"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/106221"
@@ -12860,8 +12874,8 @@
                   <pc n="23">.</pc>
                </s>
             </p>
-            <p n="p19" xml:id="modrusiensis-riario19morphlemma">
-               <s n="s1">
+            <p n="p19" xml:id="modrusiensis-riario19stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-pietas">
                   <phr ana="#aversio"><w n="1"
                      lemma="finis"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/103321"
@@ -12912,7 +12926,7 @@
                      ana="v1stia---">explicauero</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-pietas">
                   <w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/95367"
                      lemma="compono"
@@ -13009,7 +13023,7 @@
                      ana="a-s---fg-">tuae</w></phr></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-pietas">
                   <w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/119776"
                      lemma="proinde"
@@ -13189,7 +13203,7 @@
                      ana="v--pna---">comparare</w></phr></phr>
                   <pc n="10">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-pietas">
                   <phr ana="#personificatio #probatio-testes"><w n="1"
                      lemma="testor"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127996"
@@ -13451,7 +13465,7 @@
                      ana="a-p---na-">uniuersa</w></phr></phr></phr>
                   <pc n="7">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-pietas">
                   <phr ana="#personificatio #probatio-testes"><w n="1"
                      lemma="testor"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127996"
@@ -13684,7 +13698,7 @@
                      ana="v3ppsa---">accipiant</w></phr></phr>
                   <pc n="10">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-pietas">
                   <w n="1"
                      lemma="hic"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105455"
@@ -13793,7 +13807,7 @@
                      ana="v3sria---">exposuit</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s7">
+               <s n="s7" ana="#arg-pietas">
                   <phr ana="#personificatio #homoioteleuton #probatio-testes"><w n="1"
                      lemma="hic"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105455"
@@ -13856,7 +13870,7 @@
                      ana="v3slsa---">uidisset</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s8">
+               <s n="s8" ana="#arg-pietas">
                   <w n="1"
                      lemma="jam"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/106025"
@@ -13959,7 +13973,7 @@
                      ana="v3sisa---">posset</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s9">
+               <s n="s9" ana="#arg-pietas">
                   <w n="1"
                      lemma="insuper"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/108331"
@@ -14018,7 +14032,7 @@
                      ana="v-srppfa-">refertam</w>
                   <pc n="1">.</pc>
                </s>
-               <s n="s10">
+               <s n="s10" ana="#arg-mors">
                   <w n="1"
                      lemma="sed"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/123994"
@@ -14214,8 +14228,8 @@
                   <pc n="9">.</pc>
                </s>
             </p>
-            <p n="p20" xml:id="modrusiensis-riario20morphlemma">
-               <s n="s1">
+            <p n="p20" xml:id="modrusiensis-riario20stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-mors">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -14302,7 +14316,7 @@
                      ana="v3sria---">exspectauit</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-mors">
                   <w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/109838"
                      lemma="languor"
@@ -14325,7 +14339,7 @@
                      ana="v3sria---">pertulit</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-mors">
                   <w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/98480"
                      lemma="delinquo"
@@ -14454,7 +14468,7 @@
                      ana="v3siid---">praestolabatur</w></phr>
                   <pc n="5">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-mors">
                   <w n="1" ana="compositum">
                      <w n="1a"
                         lemma="jam"
@@ -14792,7 +14806,7 @@
                      ana="v1spia---">scio</w>
                   <pc n="11">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-mors">
                   <phr ana="#incrementum"><phr ana="#hyperbaton #metaphora"><w n="1"
                      lemma="capio"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/92686"
@@ -14847,7 +14861,7 @@
                      ana="v3sria---">potuit</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-mors">
                   <phr ana="#hyperbaton"><w n="1"
                      lemma="magnus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/111319"
@@ -14898,7 +14912,7 @@
                      ana="v3slsa---">fuisset</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s7">
+               <s n="s7" ana="#arg-mors">
                   <w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/119776"
                      lemma="proinde"
@@ -14958,7 +14972,7 @@
                      ana="n-s---fb-">cura</w></phr>
                   <pc n="2">.</pc>
                </s>
-               <s n="s8">
+               <s n="s8" ana="#arg-mors">
                   <w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/94738"
                      lemma="cognosco"
@@ -15027,7 +15041,7 @@
                      ana="n-s---fn-">facultas</w></phr>
                   <pc n="3">.</pc>
                </s>
-               <s n="s9">
+               <s n="s9" ana="#arg-mors">
                   <w n="1"
                      lemma="et"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/101542"
@@ -15083,7 +15097,7 @@
                      ana="v3sisa---">doleret</w>
                   <pc n="2">.</pc>
                </s>
-               <s n="s10">
+               <s n="s10" ana="#arg-mors">
                   <w n="1"
                      lemma="meritum"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/112092"
@@ -15112,7 +15126,7 @@
                      ana="v1sria---">persolui</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s11">
+               <s n="s11" ana="#arg-mors">
                   <phr ana="#alliteratio"><w n="1"
                      lemma="supplico"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/127037"
@@ -15222,7 +15236,7 @@
                      ana="v3spsa---">paeniteat</w>
                   <pc n="4">.</pc>
                </s>
-               <s n="s12">
+               <s n="s12" ana="#arg-mors">
                   <w n="1"
                      lemma="ad"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/87344"
@@ -15436,7 +15450,7 @@
                      ana="n-s---nb-">documento</w></phr>
                   <pc n="4">.</pc>
                </s>
-               <s n="s13">
+               <s n="s13" ana="#arg-mors">
                   <w n="1"
                      lemma="credo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/96881"
@@ -15549,7 +15563,7 @@
                      ana="a-p---nn-">sempiterna</w></phr></phr>
                   <pc n="6">.</pc>
                </s>
-               <s n="s14">
+               <s n="s14" ana="#arg-mors">
                   <w n="1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/119776"
                      lemma="proinde"
@@ -15588,7 +15602,7 @@
                      ana="v2ppma---">incumbite</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s15">
+               <s n="s15" ana="#arg-mors">
                   <phr ana="#chiasmus #dicolon"><w n="1"
                      lemma="colo1"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/94916"
@@ -15780,8 +15794,8 @@
                   <pc n="5">.</pc>
                </s>
             </p>
-            <p n="p21" xml:id="modrusiensis-riario21morphlemma">
-               <s n="s1">
+            <p n="p21" xml:id="modrusiensis-riario21stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-mors">
                   <w n="1"
                      lemma="reliquus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121488"
@@ -15862,7 +15876,7 @@
                      ana="v2ppsd---">dignemini</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-mors">
                   <phr ana="#litotes"><w n="1"
                      lemma="parve"
                      lemmaRef="https://lila-erc.eu/data/id/hypolemma/31133"
@@ -15930,7 +15944,7 @@
                      ana="v1sria---">offendi</w>
                   <pc n="2">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-mors">
                   <w n="1"
                      lemma="sed"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/123994"
@@ -16005,7 +16019,7 @@
                      ana="v2pfid---">deprecabimini</w></phr></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-mors">
                   <w n="1"
                      lemma="ego"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/100712"
@@ -16058,7 +16072,7 @@
                      ana="v-sfpama-">facturum</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-mors">
                   <w n="1"
                      lemma="vivo"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/130476"
@@ -16120,8 +16134,8 @@
                   <pc n="3">.</pc>
                </s>
             </p>
-            <p n="p22" xml:id="modrusiensis-riario22morphlemma">
-               <s n="s1">
+            <p n="p22" xml:id="modrusiensis-riario22stilistica" ana="#arg-narratio">
+               <s n="s1" ana="#arg-mors">
                   <phr ana="#bimembre #pleonasmus"><w n="1"
                      lemma="hic"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/105455"
@@ -16190,7 +16204,7 @@
                      ana="v3sria---">dimisit</w></phr>
                   <pc n="1">.</pc>
                </s>
-               <s n="s2">
+               <s n="s2" ana="#arg-mors">
                   <w n="1"
                      lemma="sui"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/131255"
@@ -16263,7 +16277,7 @@
                      ana="v3siid---">precabatur</w>
                   <pc n="3">.</pc>
                </s>
-               <s n="s3">
+               <s n="s3" ana="#arg-mors">
                   <w n="1" ana="compositum">
                      <w n="1a"
                         lemma="cum"
@@ -16357,7 +16371,7 @@
                      ana="n-s---na-">oleum</w>
                   <pc n="5">.</pc>
                </s>
-               <s n="s4">
+               <s n="s4" ana="#arg-mors">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -16511,7 +16525,7 @@
                      ana="v2ppma---">recitate</w>
                   <pc n="8">.</pc>
                </s>
-               <s n="s5">
+               <s n="s5" ana="#arg-mors">
                   <w n="1"
                      lemma="qui2"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121354"
@@ -16694,7 +16708,7 @@
                      ana="n-s---ma-">spiritum</w>
                   <pc n="6">.</pc>
                </s>
-               <s n="s6">
+               <s n="s6" ana="#arg-mors">
                   <w n="1"
                      lemma="ad"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/87344"
@@ -16762,7 +16776,7 @@
                   <pc n="1">.</pc>
                </s>
             </p>
-            <p n="p23" xml:id="modrusiensis-riario23morphlemma">
+            <p n="p23" xml:id="modrusiensis-riario23stilistica" ana="#arg-peroratio">
                <s n="s1">
                   <phr ana="#exclamatio"><w n="1"
                      lemma="o"
@@ -16876,7 +16890,7 @@
                      lemma="quoniam"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/121289"
                      ana="c--------">quoniam</w>
-                  <phr ana="#antithesis #paradoxon"><w n="10"
+                  <phr ana="#antithesis #antitheton-bina-binis"><w n="10"
                      lemma="in"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/106748"
                      ana="r--------">in</w>
@@ -17223,8 +17237,8 @@
          </div>
          <div type="textpart"
               n="2"
-              xml:id="modrusiensis-riario-epigrammata-lemmata">
-            <div n="e1" xml:id="modrusiensis-riario-epigr1morphlemma">
+              xml:id="modrusiensis-riario-epigrammata-stilistica">
+            <div n="e1" xml:id="modrusiensis-riario-epigr1stilistica">
                <head>
                   <w n="w1"
                      lemma="in"
@@ -17296,7 +17310,7 @@
                   </s>
                </p>
             </div>
-            <div n="e2" xml:id="modrusiensis-riario-epigr2morphlemma">
+            <div n="e2" xml:id="modrusiensis-riario-epigr2stilistica">
                <head>
                   <w n="w1"
                      lemma="epitaphium"
@@ -17357,7 +17371,7 @@
                   </s>
                </p>
             </div>
-            <div n="e3" xml:id="modrusiensis-riario-epigr3morphlemma">
+            <div n="e3" xml:id="modrusiensis-riario-epigr3stilistica">
                <head>
                   <w n="w1"
                      lemma="alius"
@@ -17418,7 +17432,7 @@
                   </s>
                </p>
             </div>
-            <div n="e4" xml:id="modrusiensis-riario-epigr4morphlemma">
+            <div n="e4" xml:id="modrusiensis-riario-epigr4stilistica">
                <head>
                   <w n="w1"
                      lemma="alius"
@@ -17482,10 +17496,11 @@
          </div>
       </body>
      <back n="back1">
-        <interpGrp n="interpGrp1">
+        <interpGrp resp="#v6913774" n="interpGrp1" type="stilistica">
+           <desc>Categoriae stilisticae in annotationibus</desc>
            <interp n="interp1" xml:id="abstractum">Abstractum pro concreto</interp>
-           <interp n="interp2" xml:id="anadiplosis">Figura anadiplosis</interp>
-           <interp n="interp3" xml:id="anaphora">Figura anaphora</interp>
+           <interp n="interp2" xml:id="geminatio">Geminatio: verbum repetitur eodem loco, saepe initiali in sententia (Lausberg § 616)</interp>
+           <interp n="interp3" xml:id="anaphora">Figura anaphora: initium coli sive commatis in sequenti repetitur (Lausberg § 629)</interp>
            <interp n="interp4" xml:id="anastrophe">Figura anastrophe: verborum ordo praeposterus, in duobus verbis fit</interp>
            <interp n="interp5" xml:id="antithesis">Figura antithesis</interp>
            <interp n="interp6" xml:id="alliteratio">Figura alliteratio</interp>
@@ -17494,15 +17509,15 @@
            <interp n="interp9" xml:id="asyndeton">Figura asyndeton</interp>
            <interp n="interp10" xml:id="auctoritas">Exemplum auctoritatis</interp>
            <interp n="interp11" xml:id="aversio">Aversio a proposito abducit audientem</interp>
-           <interp n="interp12" xml:id="bimembre">Phrasis bimembris, duo commata (sive partes sententiae etiam minores) continens</interp>
+           <interp n="interp12" xml:id="bimembre">Phrasis bimembris, duo commata, id est membra sententiae colis minora continens (Lausberg § 734)</interp>
            <interp n="interp13" xml:id="coacervatio">Figura coacervatio</interp>
            <interp n="interp14" xml:id="comparatio">Comparatio gradus sive rerum</interp>
            <interp n="interp15" xml:id="correctio">Correctio propositi</interp>
            <interp n="interp16" xml:id="chiasmus">Figura chiasmus</interp>
            <interp n="interp17" xml:id="diacope">Figura diacope: repetitio cum singulo verbo interposito</interp>
-           <interp n="interp18" xml:id="deminutiva">Deminutiva notabilia</interp>
+           <interp n="interp18" xml:id="deminutiva">Deminutiva notabilia, expressiva</interp>
            <interp n="interp19" xml:id="dicolon">Figura dicolon, duo phrases sive cola, partes sententiae longiores, continens</interp>
-           <interp n="interp20" xml:id="distinctio">Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</interp>
+           <interp n="interp20" xml:id="distinctio">Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum (Lausberg § 660)</interp>
            <interp n="interp21" xml:id="enthymema">Enthymema</interp>
            <interp n="interp22" xml:id="epanalepsis">Figura epanalepsis</interp>
            <interp n="interp23" xml:id="epistrophe">Figura epistrophe: cola sive commata eodem verbo finiuntur</interp>
@@ -17510,8 +17525,8 @@
            <interp n="interp25" xml:id="exemplum">Figura exemplum</interp>
            <interp n="interp26" xml:id="hendiadyoin">Figura hendiadyoin</interp>
            <interp n="interp27" xml:id="homoioteleuton">Figura homoioteleuton</interp>
-           <interp n="interp28" xml:id="hyperbole">Figura hyperbole</interp>
-           <interp n="interp29" xml:id="hyperbaton">Figura hyperbaton</interp>
+           <interp n="interp28" xml:id="hyperbole">Figura hyperbole: oratio superans veritatem alicuius augendi minuendive causa (Lausberg § 579)</interp>
+           <interp n="interp29" xml:id="hyperbaton">Figura hyperbaton (Lausberg § 716)</interp>
            <interp n="interp30" xml:id="incrementum">Figura incrementum: gradus gradu fortiore superatur (a minore ad maius; Lausberg § 403)</interp>
            <interp n="interp31" xml:id="interrogatio">Figura interrogatio; non sciscitandi gratia assumitur, sed instandi</interp>
            <interp n="interp32" xml:id="litotes">Figura litotes</interp>
@@ -17525,8 +17540,8 @@
            <interp n="interp40" xml:id="metaphora">Figura metaphora</interp>
            <interp n="interp41" xml:id="metaphora-christiana">Metaphora apud Christianos usitata</interp>
            <interp n="interp42" xml:id="metonymia">Figura metonymia</interp>
-           <interp n="interp43" xml:id="paradoxon">Figura paradoxon</interp>
-           <interp n="interp44" xml:id="parallelismus">Figura parallelismus</interp>
+           <interp n="interp43" xml:id="antitheton-bina-binis">Figura antitheton ubi bina binis opponuntur (Lausberg § 787)</interp>
+           <interp n="interp44" xml:id="parallelismus">Figura parallelismus sive isocolon (Lausberg § 719)</interp>
            <interp n="interp45" xml:id="parenthesis">Figura parenthesis</interp>
            <interp n="interp46" xml:id="percursio">Percursio: paucis comprehensa brevitas, multarum rerum expeditio</interp>
            <interp n="interp47" xml:id="personificatio">Figura personificatio</interp>
@@ -17535,13 +17550,31 @@
            <interp n="interp50" xml:id="praeteritio">Figura praeteritio</interp>
            <interp n="interp51" xml:id="probatio-signum">Probatio per signa</interp>
            <interp n="interp52" xml:id="probatio-testes">Probatio per testes</interp>
-           <interp n="interp53" xml:id="refutatio">Refutatio</interp>
-           <interp n="interp54" xml:id="refutatio-testes">Refutatio per testes</interp>
+           <interp n="interp53" xml:id="refutatio">Refutatio, pars argumentationis: non fecit (Lausberg § 154, animi coniectura).</interp>
+           <interp n="interp54" xml:id="refutatio-testes">Refutatio per testes, pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354).</interp>
            <interp n="interp55" xml:id="sonus">Verba simile sonantia (Klangfiguren)</interp>
            <interp n="interp56" xml:id="synonymia">Figura synonymia (idem repetitur aliis verbis)</interp>
            <interp n="interp57" xml:id="synecdocha">Figura synecdocha: a parte totum vel a toto pars intellegitur; pro verbo proprio subicitur aliud quod idem significat sumptum ex re aliqua consequenti</interp>
            <interp n="interp58" xml:id="synecdocha-specie-genus">Figura synecdocha: specie genus intellegimus</interp>
            <interp n="interp59" xml:id="transitio">Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur</interp>
+        </interpGrp>
+        <interpGrp resp="#v6913774" type="argumentum">
+           <desc>Orationes partes et argumenta</desc>
+           <interp xml:id="arg-exordium">exordium: luctus et modestia</interp>
+           <interp xml:id="arg-narratio">narratio: vita, virtutes, mors</interp>
+           <interp xml:id="arg-peroratio">peroratio: laudatio et consolatio</interp>
+           <interp xml:id="arg-genus">genus</interp>
+           <interp xml:id="arg-virtutes">virtutes</interp>
+           <interp xml:id="arg-pueritia">pueritia</interp>
+           <interp xml:id="arg-cardinalatus">cardinalatus</interp>
+           <interp xml:id="arg-excursus-in-invidos">excursus in invidos</interp>
+           <interp xml:id="arg-hypostrophe">hypostrophe, ad argumentum revertitur</interp>
+           <interp xml:id="arg-prudentia">prudentia in officio</interp>
+           <interp xml:id="arg-moderatio">moderatio</interp>
+           <interp xml:id="arg-iustitia">iustitia</interp>
+           <interp xml:id="arg-praetermissio">praetermissio</interp>
+           <interp xml:id="arg-pietas">pietas</interp>
+           <interp xml:id="arg-mors">mors, in morte virtutes</interp>
         </interpGrp>
      </back>
   </text>
