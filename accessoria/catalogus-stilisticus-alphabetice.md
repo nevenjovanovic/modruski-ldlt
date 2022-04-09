@@ -1,12 +1,13 @@
 # Catalogus stilisticus ad orationem in funere Riarii, alphabetice
 
-Notarum stilisticarum numerus: 564  
-Verborum extra notis: 1026 de 4128  
-Termini in notis occurrentes: 862  
+Notarum stilisticarum numerus: 567  
+Verborum extra notis: 999 de 4128  
+Termini in notis occurrentes: 871  
 Terminorum genera: 59  
-Notarum parentium: 166  
-Notarum liberorum: 267  
-Notarum sine liberis: 175
+Notarum parentium: 169  
+Notarum liberorum: 272  
+Notarum sine liberis: 171
+
 
 Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticus3abc.xq) ex DB `modr-riar-stil` quae facta est per XQuery [createModrRiarStilisticaDB.xq](scripta/createModrRiarStilisticaDB.xq). Numeros nuntiavit programma [IndexStilisticusConspectusNumerorum.xq](scripta/IndexStilisticusConspectusNumerorum.xq).
 
@@ -31,14 +32,9 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
   <td>52</td>
 </tr>
 <tr>
-  <td>#anadiplosis</td>
-  <td>Figura anadiplosis</td>
-  <td>1</td>
-</tr>
-<tr>
   <td>#anaphora</td>
-  <td>Figura anaphora</td>
-  <td>62</td>
+  <td>Figura anaphora: initium coli sive commatis in sequenti repetitur (Lausberg § 629)</td>
+  <td>64</td>
 </tr>
 <tr>
   <td>#anastrophe</td>
@@ -48,7 +44,12 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
 <tr>
   <td>#antithesis</td>
   <td>Figura antithesis</td>
-  <td>13</td>
+  <td>15</td>
+</tr>
+<tr>
+  <td>#antitheton-bina-binis</td>
+  <td>Figura antitheton ubi bina binis opponuntur (Lausberg § 787)</td>
+  <td>1</td>
 </tr>
 <tr>
   <td>#apostrophe</td>
@@ -73,11 +74,11 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
 <tr>
   <td>#aversio</td>
   <td>Aversio a proposito abducit audientem</td>
-  <td>3</td>
+  <td>5</td>
 </tr>
 <tr>
   <td>#bimembre</td>
-  <td>Phrasis bimembris, duo commata (sive partes sententiae etiam minores) continens</td>
+  <td>Phrasis bimembris, duo commata, id est membra sententiae colis minora continens (Lausberg § 734)</td>
   <td>104</td>
 </tr>
 <tr>
@@ -102,7 +103,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
 </tr>
 <tr>
   <td>#deminutiva</td>
-  <td>Deminutiva notabilia</td>
+  <td>Deminutiva notabilia, expressiva</td>
   <td>1</td>
 </tr>
 <tr>
@@ -113,11 +114,16 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
 <tr>
   <td>#dicolon</td>
   <td>Figura dicolon, duo phrases sive cola, partes sententiae longiores, continens</td>
-  <td>58</td>
+  <td>59</td>
 </tr>
 <tr>
   <td>#distinctio</td>
-  <td>Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</td>
+  <td>Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum (Lausberg § 660)</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>#divisio</td>
+  <td>Divisio sive distributio (diaeresis) qua res in genera distinguitur (Lausberg § 393)</td>
   <td>1</td>
 </tr>
 <tr>
@@ -138,12 +144,17 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
 <tr>
   <td>#exclamatio</td>
   <td>Figura exclamatio</td>
-  <td>3</td>
+  <td>4</td>
 </tr>
 <tr>
   <td>#exemplum</td>
   <td>Figura exemplum</td>
   <td>3</td>
+</tr>
+<tr>
+  <td>#geminatio</td>
+  <td>Geminatio: verbum repetitur eodem loco, saepe initiali in sententia (Lausberg § 616)</td>
+  <td>1</td>
 </tr>
 <tr>
   <td>#hendiadyoin</td>
@@ -157,17 +168,17 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
 </tr>
 <tr>
   <td>#hyperbaton</td>
-  <td>Figura hyperbaton</td>
+  <td>Figura hyperbaton (Lausberg § 716)</td>
   <td>53</td>
 </tr>
 <tr>
   <td>#hyperbole</td>
-  <td>Figura hyperbole</td>
+  <td>Figura hyperbole: oratio superans veritatem alicuius augendi minuendive causa (Lausberg § 579)</td>
   <td>4</td>
 </tr>
 <tr>
   <td>#incrementum</td>
-  <td>Figura incrementum: gradus gradu fortiore superatur (a minore ad maius)</td>
+  <td>Figura incrementum: gradus gradu fortiore superatur (a minore ad maius; Lausberg § 403)</td>
   <td>40</td>
 </tr>
 <tr>
@@ -179,11 +190,6 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
   <td>#litotes</td>
   <td>Figura litotes</td>
   <td>20</td>
-</tr>
-<tr>
-  <td>#merismus</td>
-  <td>Figura merismus sive distributio, diaeresis, qua in inventione totum in partes dividitur</td>
-  <td>1</td>
 </tr>
 <tr>
   <td>#metaphora</td>
@@ -201,14 +207,9 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
   <td>12</td>
 </tr>
 <tr>
-  <td>#paradoxon</td>
-  <td>Figura paradoxon</td>
-  <td>1</td>
-</tr>
-<tr>
   <td>#parallelismus</td>
-  <td>Figura parallelismus</td>
-  <td>25</td>
+  <td>Figura parallelismus sive isocolon (Lausberg § 719)</td>
+  <td>26</td>
 </tr>
 <tr>
   <td>#parenthesis</td>
@@ -262,12 +263,12 @@ Tabulam fecit XQuery programma [IndexStilisticus3abc.xq](scripta/IndexStilisticu
 </tr>
 <tr>
   <td>#refutatio</td>
-  <td>Refutatio</td>
+  <td>Refutatio, pars argumentationis: non fecit (Lausberg § 154, animi coniectura).</td>
   <td>1</td>
 </tr>
 <tr>
   <td>#refutatio-testes</td>
-  <td>Refutatio per testes</td>
+  <td>Refutatio per testes, pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354).</td>
   <td>1</td>
 </tr>
 <tr>

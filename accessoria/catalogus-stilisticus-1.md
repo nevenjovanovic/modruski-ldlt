@@ -1,12 +1,12 @@
 # Catalogus stilisticus I ad orationem in funere Riarii
 
-Notarum stilisticarum numerus: 564  
-Verborum extra notis: 1026 de 4128  
-Termini in notis occurrentes: 862  
+Notarum stilisticarum numerus: 567  
+Verborum extra notis: 999 de 4128  
+Termini in notis occurrentes: 871  
 Terminorum genera: 59  
-Notarum parentium: 166  
-Notarum liberorum: 267  
-Notarum sine liberis: 175
+Notarum parentium: 169  
+Notarum liberorum: 272  
+Notarum sine liberis: 171
 
 Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.xq) ex DB `modr-riar-stil` quae facta est per XQuery [createModrRiarStilisticaDB.xq](scripta/createModrRiarStilisticaDB.xq). Numeros nuntiavit programma [IndexStilisticusConspectusNumerorum.xq](scripta/IndexStilisticusConspectusNumerorum.xq).
 
@@ -21,7 +21,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   </thead>
 <tbody>
 <tr>
-  <td>Phrasis bimembris, duo commata (sive partes sententiae etiam minores) continens</td>
+  <td>Phrasis bimembris, duo commata, id est membra sententiae colis minora continens (Lausberg § 734)</td>
   <td>#bimembre</td>
   <td>104</td>
 </tr>
@@ -31,17 +31,17 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>85</td>
 </tr>
 <tr>
-  <td>Figura anaphora</td>
+  <td>Figura anaphora: initium coli sive commatis in sequenti repetitur (Lausberg § 629)</td>
   <td>#anaphora</td>
-  <td>62</td>
+  <td>64</td>
 </tr>
 <tr>
   <td>Figura dicolon, duo phrases sive cola, partes sententiae longiores, continens</td>
   <td>#dicolon</td>
-  <td>58</td>
+  <td>59</td>
 </tr>
 <tr>
-  <td>Figura hyperbaton</td>
+  <td>Figura hyperbaton (Lausberg § 716)</td>
   <td>#hyperbaton</td>
   <td>53</td>
 </tr>
@@ -66,14 +66,14 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>28</td>
 </tr>
 <tr>
-  <td>Figura asyndeton</td>
-  <td>#asyndeton</td>
+  <td>Figura parallelismus sive isocolon (Lausberg § 719)</td>
+  <td>#parallelismus</td>
   <td>26</td>
 </tr>
 <tr>
-  <td>Figura parallelismus</td>
-  <td>#parallelismus</td>
-  <td>25</td>
+  <td>Figura asyndeton</td>
+  <td>#asyndeton</td>
+  <td>26</td>
 </tr>
 <tr>
   <td>Figura litotes</td>
@@ -84,6 +84,11 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>Figura anastrophe: verborum ordo praeposterus, in duobus verbis fit</td>
   <td>#anastrophe</td>
   <td>19</td>
+</tr>
+<tr>
+  <td>Figura antithesis</td>
+  <td>#antithesis</td>
+  <td>15</td>
 </tr>
 <tr>
   <td>Probatio per testes</td>
@@ -109,11 +114,6 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>Probatio per signa</td>
   <td>#probatio-signum</td>
   <td>14</td>
-</tr>
-<tr>
-  <td>Figura antithesis</td>
-  <td>#antithesis</td>
-  <td>13</td>
 </tr>
 <tr>
   <td>Figura metonymia</td>
@@ -181,24 +181,24 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>5</td>
 </tr>
 <tr>
+  <td>Aversio a proposito abducit audientem</td>
+  <td>#aversio</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Figura exclamatio</td>
+  <td>#exclamatio</td>
+  <td>4</td>
+</tr>
+<tr>
   <td>Argumentum (quod probatione non eget)</td>
   <td>#argumentum</td>
   <td>4</td>
 </tr>
 <tr>
-  <td>Figura hyperbole</td>
+  <td>Figura hyperbole: oratio superans veritatem alicuius augendi minuendive causa (Lausberg § 579)</td>
   <td>#hyperbole</td>
   <td>4</td>
-</tr>
-<tr>
-  <td>Figura exclamatio</td>
-  <td>#exclamatio</td>
-  <td>3</td>
-</tr>
-<tr>
-  <td>Aversio a proposito abducit audientem</td>
-  <td>#aversio</td>
-  <td>3</td>
 </tr>
 <tr>
   <td>Figura praeteritio</td>
@@ -276,17 +276,17 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>1</td>
 </tr>
 <tr>
-  <td>Figura anadiplosis</td>
-  <td>#anadiplosis</td>
+  <td>Geminatio: verbum repetitur eodem loco, saepe initiali in sententia (Lausberg § 616)</td>
+  <td>#geminatio</td>
   <td>1</td>
 </tr>
 <tr>
-  <td>Refutatio</td>
+  <td>Refutatio, pars argumentationis: non fecit (Lausberg § 154, animi coniectura).</td>
   <td>#refutatio</td>
   <td>1</td>
 </tr>
 <tr>
-  <td>Refutatio per testes</td>
+  <td>Refutatio per testes, pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354).</td>
   <td>#refutatio-testes</td>
   <td>1</td>
 </tr>
@@ -301,17 +301,17 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>1</td>
 </tr>
 <tr>
-  <td>Deminutiva notabilia</td>
+  <td>Deminutiva notabilia, expressiva</td>
   <td>#deminutiva</td>
   <td>1</td>
 </tr>
 <tr>
-  <td>Figura paradoxon</td>
-  <td>#paradoxon</td>
+  <td>Figura antitheton ubi bina binis opponuntur (Lausberg § 787)</td>
+  <td>#antitheton-bina-binis</td>
   <td>1</td>
 </tr>
 <tr>
-  <td>Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum</td>
+  <td>Figura distinctio: verbum iteratum aliam sententiam significat ac significavit primo dictum (Lausberg § 660)</td>
   <td>#distinctio</td>
   <td>1</td>
 </tr>
