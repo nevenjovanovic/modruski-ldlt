@@ -5832,7 +5832,7 @@
                      lemmaRef="https://lila-erc.eu/data/id/lemma/87634"
                      lemma="adoro"
                      ana="v-s-g-fa-">adorandam</w>
-                  <phr ana="#trimembre"><w n="21"
+                  <phr ana="#tricolon-crescens"><w n="21"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/106515"
                      lemma="imperator"
                      ana="n-p---mn-">imperatores</w>
@@ -13621,7 +13621,7 @@
                      lemma="praecipue"
                      lemmaRef="https://lila-erc.eu/data/id/hypolemma/34255"
                      ana="d-------p">praecipue</w>
-                  <phr ana="#trimembre"><w n="39"
+                  <phr ana="#tricolon-crescens"><w n="39"
                      lemma="libellus"
                      lemmaRef="https://lila-erc.eu/data/id/lemma/110379"
                      ana="n-p---mg-">libellorum</w>
@@ -17508,11 +17508,11 @@
            <interp n="interp8" xml:id="argumentum">Argumentum (quod probatione non eget)</interp>
            <interp n="interp9" xml:id="asyndeton">Figura asyndeton</interp>
            <interp n="interp10" xml:id="auctoritas">Exemplum auctoritatis</interp>
-           <interp n="interp11" xml:id="aversio">Aversio a proposito abducit audientem</interp>
+           <interp n="interp11" xml:id="aversio">Aversio a proposito abducit audientem.  Figura sententiae, ad auditores.</interp>
            <interp n="interp12" xml:id="bimembre">Phrasis bimembris, duo commata, id est membra sententiae colis minora continens (Lausberg § 734)</interp>
            <interp n="interp13" xml:id="coacervatio">Figura coacervatio</interp>
            <interp n="interp14" xml:id="comparatio">Comparatio gradus sive rerum</interp>
-           <interp n="interp15" xml:id="correctio">Correctio propositi</interp>
+           <interp n="interp15" xml:id="correctio">Correctio propositi. Figura sententiae, ad rem.</interp>
            <interp n="interp16" xml:id="chiasmus">Figura chiasmus</interp>
            <interp n="interp17" xml:id="diacope">Figura diacope: repetitio cum singulo verbo interposito</interp>
            <interp n="interp18" xml:id="deminutiva">Deminutiva notabilia, expressiva</interp>
@@ -17521,22 +17521,21 @@
            <interp n="interp21" xml:id="enthymema">Enthymema</interp>
            <interp n="interp22" xml:id="epanalepsis">Figura epanalepsis</interp>
            <interp n="interp23" xml:id="epistrophe">Figura epistrophe: cola sive commata eodem verbo finiuntur</interp>
-           <interp n="interp24" xml:id="exclamatio">Figura exclamatio</interp>
-           <interp n="interp25" xml:id="exemplum">Figura exemplum</interp>
+           <interp n="interp24" xml:id="exclamatio">Figura exclamatio. Figura sententiae, ad affectum.</interp>
+           <interp n="interp25" xml:id="exemplum">Figura exemplum.  Figura sententiae, ad rem.</interp>
            <interp n="interp26" xml:id="hendiadyoin">Figura hendiadyoin</interp>
            <interp n="interp27" xml:id="homoioteleuton">Figura homoioteleuton</interp>
            <interp n="interp28" xml:id="hyperbole">Figura hyperbole: oratio superans veritatem alicuius augendi minuendive causa (Lausberg § 579)</interp>
            <interp n="interp29" xml:id="hyperbaton">Figura hyperbaton (Lausberg § 716)</interp>
            <interp n="interp30" xml:id="incrementum">Figura incrementum: gradus gradu fortiore superatur (a minore ad maius; Lausberg § 403)</interp>
-           <interp n="interp31" xml:id="interrogatio">Figura interrogatio; non sciscitandi gratia assumitur, sed instandi</interp>
+           <interp n="interp31" xml:id="interrogatio">Figura interrogatio; non sciscitandi gratia assumitur, sed instandi.  Figura sententiae, ad auditores.</interp>
            <interp n="interp32" xml:id="litotes">Figura litotes</interp>
            <interp n="interp33" xml:id="paronomasia">Figura paronomasia: sonat similiter; addenda aut demenda aut mutanda littera aut syllaba fit</interp>
            <interp n="interp34" xml:id="polyptoton">Figura polyptoton</interp>
            <interp n="interp35" xml:id="simile">Figura simile</interp>
            <interp n="interp36" xml:id="tricolon-crescens">Figura tricolon crescens</interp>
-           <interp n="interp37" xml:id="trimembre">Phrasis trimembris, tria commata continens</interp>
-           <interp n="interp38" xml:id="tetracolon">Figura tetracolon</interp>
-           <interp n="interp39" xml:id="divisio">Divisio sive distributio (diaeresis) qua res in genera distinguitur (Lausberg § 393)</interp>
+                      <interp n="interp38" xml:id="tetracolon">Figura tetracolon</interp>
+           <interp n="interp39" xml:id="divisio">Divisio sive distributio (diaeresis) qua res in genera distinguitur (Lausberg § 393) Figura sententiae, ad rem.</interp>
            <interp n="interp40" xml:id="metaphora">Figura metaphora</interp>
            <interp n="interp41" xml:id="metaphora-christiana">Metaphora apud Christianos usitata</interp>
            <interp n="interp42" xml:id="metonymia">Figura metonymia</interp>
@@ -17547,16 +17546,16 @@
            <interp n="interp47" xml:id="personificatio">Figura personificatio</interp>
            <interp n="interp48" xml:id="pleonasmus">Figura pleonasmus</interp>
            <interp n="interp49" xml:id="poetice">Modus poeticus</interp>
-           <interp n="interp50" xml:id="praeteritio">Figura praeteritio</interp>
-           <interp n="interp51" xml:id="probatio-signum">Probatio per signa</interp>
-           <interp n="interp52" xml:id="probatio-testes">Probatio per testes</interp>
-           <interp n="interp53" xml:id="refutatio">Refutatio, pars argumentationis: non fecit (Lausberg § 154, animi coniectura).</interp>
-           <interp n="interp54" xml:id="refutatio-testes">Refutatio per testes, pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354).</interp>
+           <interp n="interp50" xml:id="praeteritio">Figura praeteritio. Figura sententiae, ad auditores.</interp>
+           <interp n="interp51" xml:id="probatio-signum">Probatio per signa.  Figura sententiae.</interp>
+           <interp n="interp52" xml:id="probatio-testes">Probatio per testes.  Figura sententiae.</interp>
+           <interp n="interp53" xml:id="refutatio">Refutatio, pars argumentationis: non fecit (Lausberg § 154, animi coniectura). Figura sententiae.</interp>
+           <interp n="interp54" xml:id="refutatio-testes">Refutatio per testes, pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354). Figura sententiae.</interp>
            <interp n="interp55" xml:id="sonus">Verba simile sonantia (Klangfiguren)</interp>
            <interp n="interp56" xml:id="synonymia">Figura synonymia (idem repetitur aliis verbis)</interp>
            <interp n="interp57" xml:id="synecdocha">Figura synecdocha: a parte totum vel a toto pars intellegitur; pro verbo proprio subicitur aliud quod idem significat sumptum ex re aliqua consequenti</interp>
            <interp n="interp58" xml:id="synecdocha-specie-genus">Figura synecdocha: specie genus intellegimus</interp>
-           <interp n="interp59" xml:id="transitio">Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur</interp>
+           <interp n="interp59" xml:id="transitio">Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur. Figura sententiae, ad auditores.</interp>
         </interpGrp>
         <interpGrp resp="#v6913774" type="argumentum">
            <desc>Orationes partes et argumenta</desc>

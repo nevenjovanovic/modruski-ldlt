@@ -453,8 +453,8 @@
                      ana="#parallelismus #dicolon #anaphora #asyndeton">
                      <phr rendition="#hang" ana="#metaphora">in hoc totius orbis capite</phr> , in
                      hac prima Christianae religionis sede</phr> , ad quam adorandam <phr
-                     rendition="#hang" ana="#trimembre">imperatores , reges , et cuncti ferme
-                     principes terrarum</phr> uentitare solent , <phr rendition="#hang"
+                     rendition="#hang" ana="#tricolon-crescens">imperatores , reges , et cuncti
+                     ferme principes terrarum</phr> uentitare solent , <phr rendition="#hang"
                      ana="#comparatio">
                      <phr rendition="#hang" ana="#anaphora #dicolon #asyndeton">non talem esse
                         supellectilem , non talia exstare palatia</phr> , quibus eos summus pontifex
@@ -1000,8 +1000,8 @@
                         ana="#hyperbole #deminutiva">ne unum quidem uasculum</phr> in sacrificium
                      reperit , libros autem prorsus nullos , adeo ut , quotiens diuina res patranda
                      erat , opus esset ab aliis sacris aedibus omnia mutuari , nunc tanta cum omnium
-                     , tum praecipue <phr rendition="#hang" ana="#trimembre">libellorum , calicum ac
-                        uestimentorum</phr> copia abundat ut <phr rendition="#hang"
+                     , tum praecipue <phr rendition="#hang" ana="#tricolon-crescens">libellorum ,
+                        calicum ac uestimentorum</phr> copia abundat ut <phr rendition="#hang"
                         ana="#antithesis">aliae ecclesiae mutuum , quod praestare solebant , ab hac
                         una omnes accipiant</phr>
                   </phr> . </s>
@@ -1279,13 +1279,14 @@
             <interp rendition="#block" n="interp10" xml:id="auctoritas">Exemplum
                auctoritatis</interp>
             <interp rendition="#block" n="interp11" xml:id="aversio">Aversio a proposito abducit
-               audientem</interp>
+               audientem. Figura sententiae, ad auditores.</interp>
             <interp rendition="#block" n="interp12" xml:id="bimembre">Phrasis bimembris, duo
                commata, id est membra sententiae colis minora continens (Lausberg § 734)</interp>
             <interp rendition="#block" n="interp13" xml:id="coacervatio">Figura coacervatio</interp>
             <interp rendition="#block" n="interp14" xml:id="comparatio">Comparatio gradus sive
                rerum</interp>
-            <interp rendition="#block" n="interp15" xml:id="correctio">Correctio propositi</interp>
+            <interp rendition="#block" n="interp15" xml:id="correctio">Correctio propositi. Figura
+               sententiae, ad rem.</interp>
             <interp rendition="#block" n="interp16" xml:id="chiasmus">Figura chiasmus</interp>
             <interp rendition="#block" n="interp17" xml:id="diacope">Figura diacope: repetitio cum
                singulo verbo interposito</interp>
@@ -1300,8 +1301,10 @@
             <interp rendition="#block" n="interp22" xml:id="epanalepsis">Figura epanalepsis</interp>
             <interp rendition="#block" n="interp23" xml:id="epistrophe">Figura epistrophe: cola sive
                commata eodem verbo finiuntur</interp>
-            <interp rendition="#block" n="interp24" xml:id="exclamatio">Figura exclamatio</interp>
-            <interp rendition="#block" n="interp25" xml:id="exemplum">Figura exemplum</interp>
+            <interp rendition="#block" n="interp24" xml:id="exclamatio">Figura exclamatio. Figura
+               sententiae, ad affectum.</interp>
+            <interp rendition="#block" n="interp25" xml:id="exemplum">Figura exemplum. Figura
+               sententiae, ad rem.</interp>
             <interp rendition="#block" n="interp26" xml:id="hendiadyoin">Figura hendiadyoin</interp>
             <interp rendition="#block" n="interp27" xml:id="homoioteleuton">Figura
                homoioteleuton</interp>
@@ -1312,7 +1315,7 @@
             <interp rendition="#block" n="interp30" xml:id="incrementum">Figura incrementum: gradus
                gradu fortiore superatur (a minore ad maius; Lausberg § 403)</interp>
             <interp rendition="#block" n="interp31" xml:id="interrogatio">Figura interrogatio; non
-               sciscitandi gratia assumitur, sed instandi</interp>
+               sciscitandi gratia assumitur, sed instandi. Figura sententiae, ad auditores.</interp>
             <interp rendition="#block" n="interp32" xml:id="litotes">Figura litotes</interp>
             <interp rendition="#block" n="interp33" xml:id="paronomasia">Figura paronomasia: sonat
                similiter; addenda aut demenda aut mutanda littera aut syllaba fit</interp>
@@ -1320,11 +1323,10 @@
             <interp rendition="#block" n="interp35" xml:id="simile">Figura simile</interp>
             <interp rendition="#block" n="interp36" xml:id="tricolon-crescens">Figura tricolon
                crescens</interp>
-            <interp rendition="#block" n="interp37" xml:id="trimembre">Phrasis trimembris, tria
-               commata continens</interp>
             <interp rendition="#block" n="interp38" xml:id="tetracolon">Figura tetracolon</interp>
             <interp rendition="#block" n="interp39" xml:id="divisio">Divisio sive distributio
-               (diaeresis) qua res in genera distinguitur (Lausberg § 393)</interp>
+               (diaeresis) qua res in genera distinguitur (Lausberg § 393) Figura sententiae, ad
+               rem.</interp>
             <interp rendition="#block" n="interp40" xml:id="metaphora">Figura metaphora</interp>
             <interp rendition="#block" n="interp41" xml:id="metaphora-christiana">Metaphora apud
                Christianos usitata</interp>
@@ -1340,15 +1342,18 @@
                personificatio</interp>
             <interp rendition="#block" n="interp48" xml:id="pleonasmus">Figura pleonasmus</interp>
             <interp rendition="#block" n="interp49" xml:id="poetice">Modus poeticus</interp>
-            <interp rendition="#block" n="interp50" xml:id="praeteritio">Figura praeteritio</interp>
-            <interp rendition="#block" n="interp51" xml:id="probatio-signum">Probatio per
-               signa</interp>
-            <interp rendition="#block" n="interp52" xml:id="probatio-testes">Probatio per
-               testes</interp>
+            <interp rendition="#block" n="interp50" xml:id="praeteritio">Figura praeteritio. Figura
+               sententiae, ad auditores.</interp>
+            <interp rendition="#block" n="interp51" xml:id="probatio-signum">Probatio per signa.
+               Figura sententiae.</interp>
+            <interp rendition="#block" n="interp52" xml:id="probatio-testes">Probatio per testes.
+               Figura sententiae.</interp>
             <interp rendition="#block" n="interp53" xml:id="refutatio">Refutatio, pars
-               argumentationis: non fecit (Lausberg § 154, animi coniectura).</interp>
+               argumentationis: non fecit (Lausberg § 154, animi coniectura). Figura
+               sententiae.</interp>
             <interp rendition="#block" n="interp54" xml:id="refutatio-testes">Refutatio per testes,
-               pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354).</interp>
+               pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354). Figura
+               sententiae.</interp>
             <interp rendition="#block" n="interp55" xml:id="sonus">Verba simile sonantia
                (Klangfiguren)</interp>
             <interp rendition="#block" n="interp56" xml:id="synonymia">Figura synonymia (idem
@@ -1359,7 +1364,8 @@
             <interp rendition="#block" n="interp58" xml:id="synecdocha-specie-genus">Figura
                synecdocha: specie genus intellegimus</interp>
             <interp rendition="#block" n="interp59" xml:id="transitio">Transitio ostendit breviter
-               quid actum sit, proponit item brevi quid consequatur</interp>
+               quid actum sit, proponit item brevi quid consequatur. Figura sententiae, ad
+               auditores.</interp>
          </interpGrp>
          <interpGrp resp="#v6913774" type="argumentum">
             <desc>Orationes partes et argumenta</desc>
