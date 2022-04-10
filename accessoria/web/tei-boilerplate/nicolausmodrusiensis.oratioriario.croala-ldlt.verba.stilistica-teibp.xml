@@ -80,6 +80,9 @@
                content: attr(ana) " ";
                color: green;
             </rendition>
+            <rendition xml:id="block" n="teibp:block" scheme="css">
+               display:block;
+            </rendition>
          </tagsDecl>
       </encodingDesc>
       <revisionDesc>
