@@ -3,7 +3,7 @@
 Notarum stilisticarum numerus: 567  
 Verborum extra notis: 999 de 4128  
 Termini in notis occurrentes: 871  
-Terminorum genera: 59  
+Terminorum genera: 58  
 Notarum parentium: 169  
 Notarum liberorum: 272  
 Notarum sine liberis: 171
@@ -119,7 +119,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>15</td>
 </tr>
 <tr>
-  <td>Probatio per testes</td>
+  <td>Probatio per testes.  Figura sententiae.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/probatio-testes">probatio-testes</a>
   </td>
@@ -147,7 +147,14 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>14</td>
 </tr>
 <tr>
-  <td>Probatio per signa</td>
+  <td>Figura tricolon crescens</td>
+  <td>
+    <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/tricolon-crescens">tricolon-crescens</a>
+  </td>
+  <td>14</td>
+</tr>
+<tr>
+  <td>Probatio per signa.  Figura sententiae.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/probatio-signum">probatio-signum</a>
   </td>
@@ -189,13 +196,6 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>12</td>
 </tr>
 <tr>
-  <td>Figura tricolon crescens</td>
-  <td>
-    <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/tricolon-crescens">tricolon-crescens</a>
-  </td>
-  <td>12</td>
-</tr>
-<tr>
   <td>Abstractum pro concreto</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/abstractum">abstractum</a>
@@ -224,7 +224,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>7</td>
 </tr>
 <tr>
-  <td>Correctio propositi</td>
+  <td>Correctio propositi. Figura sententiae, ad rem.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/correctio">correctio</a>
   </td>
@@ -245,14 +245,14 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>5</td>
 </tr>
 <tr>
-  <td>Aversio a proposito abducit audientem</td>
+  <td>Aversio a proposito abducit audientem.  Figura sententiae, ad auditores.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/aversio">aversio</a>
   </td>
   <td>5</td>
 </tr>
 <tr>
-  <td>Figura exclamatio</td>
+  <td>Figura exclamatio. Figura sententiae, ad affectum.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/exclamatio">exclamatio</a>
   </td>
@@ -273,14 +273,14 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>4</td>
 </tr>
 <tr>
-  <td>Figura praeteritio</td>
+  <td>Figura praeteritio. Figura sententiae, ad auditores.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/praeteritio">praeteritio</a>
   </td>
   <td>3</td>
 </tr>
 <tr>
-  <td>Figura exemplum</td>
+  <td>Figura exemplum.  Figura sententiae, ad rem.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/exemplum">exemplum</a>
   </td>
@@ -294,7 +294,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>3</td>
 </tr>
 <tr>
-  <td>Figura interrogatio; non sciscitandi gratia assumitur, sed instandi</td>
+  <td>Figura interrogatio; non sciscitandi gratia assumitur, sed instandi.  Figura sententiae, ad auditores.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/interrogatio">interrogatio</a>
   </td>
@@ -315,7 +315,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>2</td>
 </tr>
 <tr>
-  <td>Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur</td>
+  <td>Transitio ostendit breviter quid actum sit, proponit item brevi quid consequatur. Figura sententiae, ad auditores.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/transitio">transitio</a>
   </td>
@@ -336,13 +336,6 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>2</td>
 </tr>
 <tr>
-  <td>Phrasis trimembris, tria commata continens</td>
-  <td>
-    <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/trimembre">trimembre</a>
-  </td>
-  <td>2</td>
-</tr>
-<tr>
   <td>Metaphora apud Christianos usitata</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/metaphora-christiana">metaphora-christiana</a>
@@ -350,7 +343,7 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>2</td>
 </tr>
 <tr>
-  <td>Divisio sive distributio (diaeresis) qua res in genera distinguitur (Lausberg § 393)</td>
+  <td>Divisio sive distributio (diaeresis) qua res in genera distinguitur (Lausberg § 393) Figura sententiae, ad rem.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/divisio">divisio</a>
   </td>
@@ -385,14 +378,14 @@ Tabulam fecit XQuery programma [IndexStilisticus3.xq](scripta/IndexStilisticus3.
   <td>1</td>
 </tr>
 <tr>
-  <td>Refutatio, pars argumentationis: non fecit (Lausberg § 154, animi coniectura).</td>
+  <td>Refutatio, pars argumentationis: non fecit (Lausberg § 154, animi coniectura). Figura sententiae.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/refutatio">refutatio</a>
   </td>
   <td>1</td>
 </tr>
 <tr>
-  <td>Refutatio per testes, pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354).</td>
+  <td>Refutatio per testes, pars argumentationis: testes affirmant eum non fecisse (Lausberg § 354). Figura sententiae.</td>
   <td>
     <a href="https://croala.ffzg.hr/basex/nm-stil/terminus/refutatio-testes">refutatio-testes</a>
   </td>
