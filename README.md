@@ -69,8 +69,8 @@ Stylistic features are annotated as `phr` TEI XML elements. Annotations are in `
 
 The annotated versions are in files [nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica.xml](data/stilistica/nicolausmodrusiensis.oratioriario.croala-ldlt.verba.stilistica.xml) (preserving word segmentation) and [nicolausmodrusiensis.oratioriario.croala-ldlt.phr.stilistica.xml](data/stilistica/nicolausmodrusiensis.oratioriario.croala-ldlt.phr.stilistica.xml) (without word segmentation).
 
-* [A catalogue of annotation values in phr elements](accessoria/catalogus-annotationum.md)
-* [A report on occurrences of stylistic annotation values](accessoria/catalogus-stilisticus-1.md)
+* [A catalogue of annotation values in phr elements](accessoria/catalogus-annotationum.md). See a live version in the CroALa BaseX instance: [Tabula stilistica](https://croala.ffzg.unizg.hr/basex/nm-stil/tabula-stilistica)
+* [A report on occurrences of stylistic annotation values](accessoria/catalogus-stilisticus-1.md). See a live version in the CroALa BaseX instance: [Index stilisticus](https://croala.ffzg.unizg.hr/basex/nm-stil/index-stilisticus)
 * [Alphabetical index of stylistic annotation values with frequencies](accessoria/catalogus-stilisticus-alphabetice.md)
 * [Annotation values by nesting (parent or children elements)](accessoria/annotationes-singulares.md)
 * [Number of nested phr elements](accessoria/nidi-stilistici.md)
