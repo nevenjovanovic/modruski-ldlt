@@ -70,6 +70,78 @@ normalize-space(data($passage)) }
  
 declare variable $modruski:urn := "https://croala.ffzg.unizg.hr/basex/nm-stil/node/";
 declare variable $modruski:dbrhet := "modr-riar-stil";
+declare variable $modruski:urlnidus := "https://croala.ffzg.unizg.hr/basex/nm-stil/nidificium/";
+declare variable $modruski:heatmap := map { 
+0: "#9ef738",
+1: "#93e436",
+2: "#7ec231",
+3: "#689e2c",
+4: "#598527",
+5: "#527925",
+6: "#4b6e23",
+7: "#446221",
+8: "#3d571e"
+};
+declare function modruski:notaeABC($seq){
+  (: order terms in @ana alphabetically :)
+  let $seqabc := string-join( for $s in tokenize($seq, " ")
+  order by $s
+  return $s (: replace($s, "-", "") :)
+  , " ")
+  return $seqabc
+};
+
+declare function modruski:makeurl($a){ 
+(: helper function: format url for node as link :)
+element a { attribute href { $modruski:urlnidus || db:node-id($a) } , db:node-id($a) }
+};
+
+declare function modruski:nestlist($min) {
+  (: retrieve number of nests, their @ana values :)
+  (: $min declares minimal number of nested elements :)
+let $nestvalues :=
+for $p in db:open($modruski:dbrhet)//*:text//*:s/*:phr
+let $ana := modruski:notaeABC($p/@ana/string())
+let $id := element a { attribute href { $modruski:urlnidus || db:node-id($p) } , db:node-id($p) }
+let $count := count($p//*:phr)
+let $desc := for $a in $p//*:phr/@ana/string() return element pre { modruski:notaeABC($a) }
+where $count >= $min
+order by $ana
+return element tr { 
+ attribute style { "background-color:" || map:get($modruski:heatmap , count($p//*:phr)) },
+element td { $id },
+element td { $ana },
+element td { $count },
+element td { $desc }
+ }
+return $nestvalues
+};
+
+declare function modruski:nestlistlevel($min) {
+  (: for phr, return column of children and column of other descendants :)
+let $nestvalues :=
+for $p in db:open($modruski:dbrhet)//*:text//*:s/*:phr
+let $ana := modruski:notaeABC($p/@ana/string())
+let $id := modruski:makeurl($p)
+let $count := count($p//*:phr)
+let $children := for $a in $p/*:phr/@ana return ( modruski:makeurl($a/parent::*) , element pre { modruski:notaeABC($a/string()) } )
+let $childcount := count($children) div 2
+let $desc := for $a in $p/*:phr//*:phr/@ana return  ( modruski:makeurl($a/parent::*) , element pre { modruski:notaeABC($a/string()) } )
+let $desccount := count($desc) div 2
+where $count >= $min and $desccount > 0
+order by $ana
+return element tr { 
+ attribute style { "background-color:" || map:get($modruski:heatmap , count($p//*:phr)) },
+element td { $id },
+element td { $ana },
+element td { $count },
+element td { $childcount },
+element td { $children },
+element td { $desccount },
+element td { $desc }
+ }
+return $nestvalues
+};
 
 declare function modruski:index-stilisticus() {
 (: get all phr elements annotated with style, as table :)
@@ -96,6 +168,18 @@ for $phr in db:open-id($modruski:dbrhet, $i)
 return element tr {
   element td { $i }, 
   element td { $phr/@ana/string() }, 
+  element td { normalize-space($phr) }
+}
+};
+
+declare function modruski:getnest($node){
+  for $i in $node
+for $phr in db:open-id($modruski:dbrhet, $i)
+let $desc := for $p in $phr//*:phr/@ana/string() return element pre { $p }
+return element tr {
+  element td { $i }, 
+  element td { $phr/@ana/string() }, 
+  element td { $desc },
   element td { normalize-space($phr) }
 }
 };
@@ -131,4 +215,36 @@ for $r in $rows/tr
   element td { 
   element a { attribute href { $url || $term} , $term } } ,
   $r/td[2] }
+};
+(: retrieve phr trees with all levels :)
+declare function modruski:allnests(){
+  (: max descendant depth 4, get all phr, id and @ana :)
+  (: format as links to individual segments :)
+  element tbody {
+for $p in db:open($modruski:dbrhet)//*:text//*:s/*:phr
+let $ana := modruski:notaeABC($p/@ana/string())
+let $id := modruski:makeurl($p)
+let $child := $p/*:phr
+let $childid := for $d in $child return modruski:makeurl($d)
+let $childana := for $c in $child return element pre { modruski:notaeABC($c/@ana/string()) }
+let $desc1 := $p/*:phr/*:phr
+let $desc1id := for $d in $desc1 return modruski:makeurl($d)
+let $desc1ana := for $d in $desc1 return element pre { modruski:notaeABC($d/@ana/string()) }
+let $desc2 := $p/*:phr/*:phr/*:phr
+let $desc2id := for $d in $desc2 return modruski:makeurl($d)
+let $desc2ana := for $d in $desc2 return element pre { modruski:notaeABC($d/@ana/string()) }
+return element tr { 
+element td { $id }, element td { $ana },
+element td { $childid } ,  element td { $childana },
+element td { $desc1id } ,  element td { $desc1ana },
+element td { $desc2id } , element td { $desc2ana }
+ }
+}
+};
+declare function modruski:filternest($f) {
+  (: select only phr with descendants level $f, 1-4 :)
+for $n in modruski:allnests()/tr
+let $ff := $f * 2
+where not($n/td[$ff]="")
+return $n
 };
