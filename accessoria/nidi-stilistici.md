@@ -4,7 +4,26 @@
 
 Nidus fit cum nota `phr`, annotatione stilistica adornata, alias notas `phr` cum annotationibus continet.
 
-Quaestio posita est programmate XQuery [NidiStilistici.xq](scripta/NidiStilistici.xq).
+## Altitudo nidorum
+
+Nidus habet altitudinem 2 si liberos continet: `phr/phr`.
+
+Altitudinem 3 habet si nepotes continet: `phr/phr/phr`.
+
+Oratio in funere Petri Riarii stilistice annotata maximam altitudinem nidorum ostendit 4: `phr/phr/phr/phr`.
+
+Phr sub s (altitudo 1): **295** \
+Phr sine ullis phr liberis: **171** \
+Phr cum phr liberis (altitudo 2), sine nepotibus: **87** \
+Phr cum phr nepotibus (altitudo 3), sine pronepotibus (altitudo 4): **32** \
+Phr cum phr pronepotibus (altitudo 4): **5**
+
+Numeri inventi sunt programmate XQuery [modruski-nesting-info-quant.xq](scripta/modruski-nesting-info-quant.xq).
+
+
+## Quot elementa phr in nidis
+
+Quaestio posita est programmate XQuery [NidiStilistici.xq](scripta/NidiStilistici.xq). ID numerus nodi variare potest.
 
 <table>
   <thead>
