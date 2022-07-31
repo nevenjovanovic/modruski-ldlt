@@ -250,6 +250,7 @@ return $n
 };
 
 declare variable $modruski:dblect := "modr-riar-ldlt";
+declare variable $modruski:urn-lect := "https://croala.ffzg.unizg.hr/basex/";
 declare function modruski:indiculuslectionum(){
 
 for $p in db:open($modruski:dblect)//*:text//*:rdg
@@ -259,7 +260,7 @@ order by count($p) descending
 return element tr { 
 element td { $type },
 element td { element a { 
-attribute href { $modruski:urn || "nm-lectiones/" || $type } , count($p) } }
+attribute href { $modruski:urn-lect || "nm-lectionum-typi/" || $type } , count($p) } }
 
 }
 };
