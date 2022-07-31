@@ -263,3 +263,16 @@ attribute href { $modruski:urn || "nm-lectiones/" || $type } , count($p) } }
 
 }
 };
+
+declare function modruski:lectionespertypum($typus){
+  
+for $p in db:open($modruski:dblect)//*:text//*:app[*:rdg/@type=$typus]
+return element tr { 
+element td { $typus },
+element td { db:node-id($p) },
+element td { $p/*:lem },
+element td { for $r in $p/*:rdg[@type=$typus]
+return $r/@wit/string() || ": " || $r/string() } }
+
+
+};
