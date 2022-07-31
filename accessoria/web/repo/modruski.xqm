@@ -248,3 +248,18 @@ let $ff := $f * 2
 where not($n/td[$ff]="")
 return $n
 };
+
+declare variable $modruski:dblect := "modr-riar-ldlt";
+declare function modruski:indiculuslectionum(){
+
+for $p in db:open($modruski:dblect)//*:text//*:rdg
+let $type := $p/@type
+group by $type
+order by count($p) descending
+return element tr { 
+element td { $type },
+element td { element a { 
+attribute href { $modruski:urn || "nm-lectiones/" || $type } , count($p) } }
+
+}
+};

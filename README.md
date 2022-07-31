@@ -63,6 +63,14 @@ The test run is live at our CroALa server:  [croala.ffzg.unizg.hr/modrusiensis-o
 
 [CC-BY](LICENSE.md)
 
+## Index to variant readings in the oration
+
+Variant readings are annotated as `rdg` TEI XML elements. Classification is in `@type` attribute.
+
+The annotated version is in the file [nicolausmodrusiensis.oratioriario.croala-ldlt.xml](data/nicolausmodrusiensis.oratioriario.croala-ldlt.xml).
+
+* An [index of variant readings](accessoria/index-lectionum.md). See a live version in the CroALa Basex instance: [Indiculus lectionum variantium](https://croala.ffzg.unizg.hr/basex/nm-lectiones/index-lectionum).
+
 ## Stylistic analysis of the oration
 
 Stylistic features are annotated as `phr` TEI XML elements. Annotations are in `@ana` attributes.
