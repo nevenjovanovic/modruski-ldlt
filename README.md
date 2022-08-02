@@ -63,6 +63,10 @@ The test run is live at our CroALa server:  [croala.ffzg.unizg.hr/modrusiensis-o
 
 [CC-BY](LICENSE.md)
 
+## An index of CTS URN addresses
+
+[A list of documents with CTS URNs (full edition)](https://croala.ffzg.unizg.hr/basex/modr-ed-list-doc) (links lead to all CTS URNs available in a single document)
+
 ## Index to variant readings in the oration
 
 Variant readings are annotated as `rdg` TEI XML elements. Classification is in `@type` attribute.
