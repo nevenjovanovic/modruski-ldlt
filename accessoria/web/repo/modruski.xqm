@@ -277,3 +277,39 @@ return $r/@wit/string() || ": " || $r/string() } }
 
 
 };
+(: CTS URNs :)
+(: variables :)
+declare variable $modruski:db-cts := ( "modr-ed" );
+declare variable $modruski:croala-cts := ( "https://croala.ffzg.unizg.hr/basex/modr-ed/cts/" );
+
+(: remove colon from CTS in doc / xml base :)
+declare function modruski:removecolon($urn){
+  if (ends-with($urn, ":")) then replace($urn, ":$", "")
+  else()
+};
+
+(: format hyperlink for card :)
+
+declare function modruski:hrefcard($ctsurn){
+  element a {
+    attribute class { "card-link" } , 
+    attribute href { $modruski:croala-cts || $ctsurn },
+    $ctsurn
+  }
+};
+
+(: list available documents and their CTS URNs, descriptions :)
+
+declare function modruski:listctsdocs(){
+  for $doc in db:open($modruski:db-cts)//*:TEI
+let $ctsurn := modruski:hrefcard( modruski:removecolon($doc//*:text/@xml:base/string()) )
+let $abstract := normalize-space($doc//*:teiHeader/*:profileDesc/*:abstract/*:p/string())
+return element div {
+  attribute class { "card" } , 
+  element div { 
+  attribute class { "card-body" } , 
+  $ctsurn ,
+  element p { 
+  attribute class { "card-text" } , $abstract } }
+}
+};
