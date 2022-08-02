@@ -6,7 +6,7 @@ import module namespace modruski = "http://croala.ffzg.unizg.hr/modruski" at "..
 
 declare namespace page = 'http://basex.org/examples/web-page';
 
-declare variable $title := 'Documenta editionis doctae Nicolai Modrusiensis orationis (1474)';
+declare variable $title := 'Documenta ad editionem doctam Nicolai Modrusiensis orationis (1474) pertinentia';
 declare variable $content := "Display a list of documents available in the critical digital edition of Nicholas of Modruš Oratio in funere Petri Riarii (1474).";
 declare variable $keywords := "Neo-Latin literature, digital edition, Nikola Modruški, Nicholas of Modruš, Early Modern Italy, Renaissance Latin, CTS";
 
@@ -47,7 +47,7 @@ declare
 <p>Functio nominatur: {rest:uri()}.</p>
 </div>
 <div class="col-md-6">
-{croala:infodb('modr-riar-ldlt')}
+{croala:infodb('modr-ed')}
 </div>
 </div>
 </div>
