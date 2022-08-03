@@ -345,11 +345,12 @@ $text
 (: for a document CTS URN, list all available URNs, with preview and link to content :)
 
 declare function modruski:listctssuburns($urn){
-  for $resource in db:open($modruski:db-cts)//*:TEI/*:text[@xml:base=$urn]//*[name()]
+  let $urn2 := $urn || ":"
+  for $resource in db:open($modruski:db-cts)//*:TEI/*:text[@xml:base=$urn2]//*[name()]
 let $textpreview := tokenize(normalize-space($resource/string()), " ")
 let $attribs := string-join($resource/@*/string() , "; ")
 let $which := replace(substring-after(path($resource),"/Q{http://www.tei-c.org/ns/1.0}TEI[1]/Q{http://www.tei-c.org/ns/1.0}text[1]/"), "Q\{http://www.tei-c.org/ns/1.0\}", "")
-let $docurn := $urn || $which
+let $docurn := $urn2 || $which
 return element div { 
 attribute class { "card"},
 element div {
