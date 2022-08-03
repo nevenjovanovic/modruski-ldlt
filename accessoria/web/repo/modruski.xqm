@@ -300,11 +300,13 @@ declare function modruski:hrefcard($ctsurn){
 
 (: format link for a CTS URN in document :)
 
+declare variable $modruski:croala-cts-doc := ( "https://croala.ffzg.unizg.hr/basex/modr-ed/cts/doc/" );
+
 declare function modruski:hrefsub($docurn){
   element a {
     attribute class { "card-link" } , 
-    attribute href { $docurn },
-    modruski:substring-after-last($docurn, "/")
+    attribute href { $modruski:croala-cts-doc || $docurn },
+    $docurn
   }
 };
 
