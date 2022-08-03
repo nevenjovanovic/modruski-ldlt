@@ -298,6 +298,16 @@ declare function modruski:hrefcard($ctsurn){
   }
 };
 
+(: format link for a CTS URN in document :)
+
+declare function modruski:hrefsub($docurn){
+  element a {
+    attribute class { "card-link" } , 
+    attribute href { $docurn },
+    modruski:substring-after-last($docurn, "/")
+  }
+};
+
 (: list available documents and their CTS URNs, descriptions :)
 
 declare function modruski:listctsdocs(){
@@ -311,5 +321,45 @@ return element div {
   $ctsurn ,
   element p { 
   attribute class { "card-text" } , $abstract } }
+}
+};
+
+(: helper functions for the listctssuburns :)
+
+(: give only first six words of text :)
+
+declare function modruski:preview($textpreview){
+  if ($textpreview[2]) 
+then string-join($textpreview[position() < 6], " ") || "..."
+else $textpreview
+};
+
+(: format as p in a bootstrap card :)
+declare function modruski:cardtext($text){
+  element p { 
+attribute class { "card-text" } , 
+$text
+ }
+};
+
+(: for a document CTS URN, list all available URNs, with preview and link to content :)
+
+declare function modruski:listctssuburns($urn){
+  for $resource in db:open($modruski:db-cts)//*:TEI/*:text[@xml:base=$urn]//*[name()]
+let $textpreview := tokenize(normalize-space($resource/string()), " ")
+let $attribs := string-join($resource/@*/string() , "; ")
+let $which := replace(substring-after(path($resource),"/Q{http://www.tei-c.org/ns/1.0}TEI[1]/Q{http://www.tei-c.org/ns/1.0}text[1]/"), "Q\{http://www.tei-c.org/ns/1.0\}", "")
+let $docurn := $urn || $which
+return element div { 
+attribute class { "card"},
+element div {
+  attribute class { "card-body"},
+
+modruski:hrefsub($docurn) ,
+modruski:cardtext($which),
+modruski:cardtext(modruski:preview($textpreview)),
+modruski:cardtext($attribs)
+
+}
 }
 };
