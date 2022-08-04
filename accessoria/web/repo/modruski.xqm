@@ -338,11 +338,13 @@ else $textpreview
 
 (: format as p in a bootstrap card :)
 declare function modruski:cardtext($text, $label){
+  if (not(empty($text))) then
   element p { 
 attribute class { "card-text" } , 
 element b { $label } ,
 $text
  }
+ else()
 };
 
 (: for a document CTS URN, list all available URNs, with preview and link to content :)
