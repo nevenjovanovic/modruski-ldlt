@@ -340,7 +340,7 @@ else $textpreview
 declare function modruski:cardtext($text, $label){
   element p { 
 attribute class { "card-text" } , 
-$label ,
+element b { $label } ,
 $text
  }
 };
