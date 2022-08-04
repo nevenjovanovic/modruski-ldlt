@@ -367,3 +367,9 @@ modruski:cardtext($attribs, "Notae: ")
 }
 }
 };
+
+(: for an individual CTS URN, display information, link prev and next URNs:)
+
+declare function modruski:displayctsdocurn($urn) {
+  "TBA"
+};
