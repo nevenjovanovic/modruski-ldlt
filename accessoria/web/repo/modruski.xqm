@@ -338,7 +338,7 @@ else $textpreview
 
 (: format as p in a bootstrap card :)
 declare function modruski:cardtext($text, $label){
-  if (not(empty($text))) then
+  if (not($text="")) then
   element p { 
 attribute class { "card-text" } , 
 element b { $label } ,
