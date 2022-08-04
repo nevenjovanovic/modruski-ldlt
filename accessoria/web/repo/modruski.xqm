@@ -337,9 +337,10 @@ else $textpreview
 };
 
 (: format as p in a bootstrap card :)
-declare function modruski:cardtext($text){
+declare function modruski:cardtext($text, $label){
   element p { 
 attribute class { "card-text" } , 
+$label ,
 $text
  }
 };
@@ -350,7 +351,7 @@ declare function modruski:listctssuburns($urn){
   let $urn2 := $urn || ":"
   for $resource in db:open($modruski:db-cts)//*:TEI/*:text[@xml:base=$urn2]//*[name()]
 let $textpreview := tokenize(normalize-space($resource/string()), " ")
-let $attribs := string-join($resource/@*/string() , "; ")
+let $attribs := string-join(for $a in $resource/@* return $a/name() || ": " || $a/string(), "; ")
 let $which := replace(substring-after(path($resource),"/Q{http://www.tei-c.org/ns/1.0}TEI[1]/Q{http://www.tei-c.org/ns/1.0}text[1]/"), "Q\{http://www.tei-c.org/ns/1.0\}", "")
 let $docurn := $urn2 || $which
 return element div { 
@@ -359,9 +360,9 @@ element div {
   attribute class { "card-body"},
 
 modruski:hrefsub($docurn) ,
-modruski:cardtext($which),
-modruski:cardtext(modruski:preview($textpreview)),
-modruski:cardtext($attribs)
+modruski:cardtext($which, "Semita: "),
+modruski:cardtext(modruski:preview($textpreview), "Legitur: "),
+modruski:cardtext($attribs, "Notae: ")
 
 }
 }
