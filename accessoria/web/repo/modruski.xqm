@@ -352,7 +352,7 @@ declare function modruski:listctssuburns($urn){
   for $resource in db:open($modruski:db-cts)//*:TEI/*:text[@xml:base=$urn2]//*[name()]
 let $textpreview := tokenize(normalize-space($resource/string()), " ")
 let $attribs := if ($resource/@*) then string-join(for $a in $resource/@* return $a/name() || ": " || $a/string(), "; ") else "ABSUNT ATTRIBUTA"
-let $which := replace(substring-after(path($resource),"/Q{http://www.tei-c.org/ns/1.0}TEI[1]/Q{http://www.tei-c.org/ns/1.0}text[1]/"), "Q\{http://www.tei-c.org/ns/1.0\}", "")
+let $which := replace(substring-after(path($resource),"/Q{http://www.tei-c.org/ns/1.0}TEI[1]/Q{http://www.tei-c.org/ns/1.0}text[1]/"), "/?Q\{http://www.tei-c.org/ns/1.0\}", "")
 let $docurn := $urn2 || $which
 return element div { 
 attribute class { "card"},
@@ -371,5 +371,5 @@ modruski:cardtext($attribs, "Notae: ")
 (: for an individual CTS URN, display information, link prev and next URNs:)
 
 declare function modruski:displayctsdocurn($urn) {
-  "TBA"
+  element p { "TBA" }
 };
