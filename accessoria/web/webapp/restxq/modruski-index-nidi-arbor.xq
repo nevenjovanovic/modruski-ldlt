@@ -1,7 +1,7 @@
 (: index all stylistic annotations :)
 (: show in table as trees to phr descendants level 4 :)
 import module namespace rest = "http://exquery.org/ns/restxq";
-import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../../repo/croala.xqm";
+import module namespace croala = "http://www.ffzg.unizg.hr/croala" at "../../repo/croala.xqm";
 import module namespace modruski = "http://croala.ffzg.unizg.hr/modruski" at "../../repo/modruski.xqm";
 
 

@@ -1,16 +1,12 @@
 (: use a node-id to open a node :)
-import module namespace rest = "http://exquery.org/ns/restxq";
-import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../../repo/croala.xqm";
 import module namespace modruski = "http://croala.ffzg.unizg.hr/modruski" at "../../repo/modruski.xqm";
-
+import module namespace rest = "http://exquery.org/ns/restxq";
 
 declare namespace page = 'http://basex.org/examples/web-page';
 
-declare variable $title := 'Nodus Orationis in funere Petri cardinalis S. Sixti (1474)';
-declare variable $content := "Display a node form stylistically annotated XML DB.";
+declare variable $title := 'Nodus e textu Orationis in funere Petri cardinalis S. Sixti (1474)';
+declare variable $content := "Display a node from stylistically annotated XML DB.";
 declare variable $keywords := "Neo-Latin literature, Nikola Modruški, Nicholas of Modruš, Early Modern Italy, Renaissance Latin";
-
-
 
 (:~
  : This function returns an XML response message.
@@ -35,26 +31,26 @@ declare
 
 <html>
 { modruski:htmlheadserver($title, $content, $keywords) }
-<body text="#000000">
-
-<div class="jumbotron">
+<body>
+<div class="container">
+<div class="row">
+<div class="col">
 <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span>{ $title }</h1>
-<div class="container-fluid">
-<div class="col-md-6">
-<p>Nodus Orationis in funere Petri (1474): <a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
+</div>
+</div>
+<div class="row">
+<div class="col">
+<p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
 <p><a href="http://orcid.org/0000-0002-9119-399X">Neven Jovanović</a></p>
-<p>Nodus orationis Nicolai Modrussiensis in funere Petri, cardinalis S. Sixti (a. 1474).</p>
-<p>Functio nominatur: {rest:uri()}.</p>
+<p>Functionis URI: { rest:uri()}.</p>
 </div>
-<div class="col-md-6">
-{croala:infodb('modr-riar-stil')}
-</div>
+<div class="col">
+{modruski:infodb('modr-riar-stil')}
 </div>
 </div>
-<div class="container-fluid">
-<blockquote class="croala">
-	<div class="table-responsive">
-<table class="table-striped  table-hover table-centered">
+<div class="row">
+<div class="col">
+<table class="striped">
 	<thead>
 	<tr>
   <td>DB nodus</td>
@@ -67,15 +63,12 @@ declare
 	{modruski:opennode($urn)}
   
   </tbody>
-  </table>
-  
+  </table>  
      </div>
-</blockquote>
-     <p/>
      </div>
-<hr/>
-{ modruski:footerserver() }
 
+{ modruski:footerserver() }
+</div>
 </body>
 </html>
 };

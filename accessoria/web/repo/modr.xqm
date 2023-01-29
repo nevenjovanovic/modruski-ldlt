@@ -1,6 +1,10 @@
 (: XQuery module for Nicolaus Modrusiensis, critical edition :)
 module namespace nm = 'http://croala.ffzg.unizg.hr/nm';
 
+declare variable $nm:cssserver := "/basex/static/dist/chota.min.css";
+declare variable $nm:csslocal := "/static/dist/chota.min.css";
+
+
 (: helper function for header, with meta :)
 declare function nm:htmlheadserver($title, $content, $keywords) {
   (: return html template to be filled with title :)
@@ -13,7 +17,7 @@ declare function nm:htmlheadserver($title, $content, $keywords) {
 <meta name="revised" content="{ current-date()}"/>
 <meta name="author" content="Neven Jovanović, CroALa, Nicolai Modrusiensis oratio in funere Petri (Riarii), 1474" />
 <link rel="icon" href="/basex/static/gfx/favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="/static/dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" href=" { $nm:csslocal } "  />
 <link rel="stylesheet" type="text/css" href="/static/dist/css/modr.css"/>
 <link rel="stylesheet" type="text/css" href="/static/dist/font-awesome-4.7.0/css/font-awesome.min.css"/>
 </head>
@@ -23,7 +27,7 @@ declare function nm:htmlheadserver($title, $content, $keywords) {
 (: helper function for table :)
 declare function nm:table ($headings, $body){
   element table {
-    attribute class {"table-striped  table-hover table-centered"},
+    attribute class {"striped"},
     if ($headings="") then ()
     else
     element thead {
@@ -45,14 +49,16 @@ declare function nm:tablerow($cells){
 (: helper function - footer :)
 declare function nm:footerserver () {
 let $f := <footer class="footer">
-<div class="container">
+<div class="row">
+<div  class="col">
 <h1 class="text-center"><span class="fa fa-leaf fa-fw" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr">CroALa</a>: Nicolai Modrusiensis Oratio in funere Petri (Riarii), 1474</h1>
+</div>
+</div>
 <div class="row"> 
 <div  class="col">
-<h3 class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/basex/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu</h3> 
+<h3 class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu</h3> 
 <p class="text-center"><i class="fa fa-github fa-lg"></i>
             <span class="network-name">Github</span>: <a href="https://github.com/nevenjovanovic/modruski-ldlt">modruski-ldlt</a></p>
-</div>
 </div>
 </div>
 </footer>
@@ -91,7 +97,7 @@ element a {
 
 (: return list of lemmata and counts of occurrences :)
 declare function nm:phrlist($db){
-for $l in db:open($db)//*:phr
+for $l in db:get($db)//*:phr
 let $l1 := $l/@ana/string()
 let $oc := path($l)
 return element tr {
@@ -102,7 +108,7 @@ return element tr {
 
 (: return total count of lemmata and of occurrences :)
 declare function nm:phrinfo($db){
-let $lem := db:open($db)//*:phr
+let $lem := db:get($db)//*:phr
 let $occount := count( for $a in $lem/*:anchor return $a )
 return "Phraseis: " || count($lem)  || ". Figurae occurrentes: " || $occount  || ".
 "
@@ -110,16 +116,16 @@ return "Phraseis: " || count($lem)  || ". Figurae occurrentes: " || $occount  ||
 
 (: table of contents :)
 
-declare variable $nm:urn := "http://localhost:8984/";
+declare variable $nm:urn := "http://localhost:8080/";
 declare variable $nm:db := "modr-riar-ldlt";
 
 declare function nm:tabulaorationis() {
-let $base := db:open($nm:db)//*:fileDesc/@xml:id
-let $d := db:open($nm:db)//*:front/*:div/*:div[@xml:id="preface-section-2"]
+let $base := db:get($nm:db)//*:fileDesc/@xml:id
+let $d := db:get($nm:db)//*:front/*:div/*:div[@xml:id="preface-section-2"]
 for $i in $d//*:interp
 let $ref := $i/@corresp
 let $ref2 := substring-after($ref, "#")
-let $target := db:open($nm:db)//*:body//*:p[@xml:id=$ref2]
+let $target := db:get($nm:db)//*:body//*:p[@xml:id=$ref2]
 let $a := path($target)
 let $aid := db:node-id($target)
 let $a2 := replace($a, "Q\{http://www.tei-c.org/ns/1.0\}", "")
@@ -128,7 +134,7 @@ element td { $i/string() },
 element td { $ref/string() } ,
 element td { 
 element a {
-  attribute href { $nm:urn || $base/string() || "/" || $aid } ,
+  attribute href {  $base/string() || "/" || $aid } ,
    $base || $a2 } }
 )
 return nm:tablerow($row)

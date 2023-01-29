@@ -1,21 +1,17 @@
-(: list all stylistic annotations as they occur in document :)
-import module namespace rest = "http://exquery.org/ns/restxq";
+(: retrieve all forms for a given lemma :)
 import module namespace modruski = "http://croala.ffzg.unizg.hr/modruski" at "../../repo/modruski.xqm";
-
 
 declare namespace page = 'http://basex.org/examples/web-page';
 
-declare variable $title := 'Tabula stilistica in Nicolai Modrusiensis orationem (1474)';
-declare variable $content := "Display a list of stylistic annotations to Nicholas of Modruš Oratio in funere Petri Riarii (1474) as they occur in the edition.";
-declare variable $keywords := "Neo-Latin literature, style, stylistics, Nikola Modruški, Nicholas of Modruš, Early Modern Italy, Renaissance Latin";
-
-
+declare variable $title := 'Ubi occurrit lemma in Oratione in funere Petri cardinalis S. Sixti (1474)';
+declare variable $content := "Retrieve all occurrences of forms of a lemma.";
+declare variable $keywords := "Neo-Latin literature, Nikola Modruški, Nicholas of Modruš, Early Modern Italy, Renaissance Latin, lemma, forms, occurrences";
 
 (:~
  : This function returns an XML response message.
  :)
 declare
-  %rest:path("nm-stil/tabula-stilistica")
+  %rest:path("nm-verba/lemma/{$term}")
   %output:method(
   "xhtml"
 )
@@ -28,10 +24,9 @@ declare
   %output:doctype-system(
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
 )
-  function page:modruskiindexstil()
+  function page:modruskilemmaforma($term)
 {
   (: HTML template starts here :)
-
 <html>
 { modruski:htmlheadserver($title, $content, $keywords) }
 <body>
@@ -41,15 +36,15 @@ declare
 <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span>{ $title }</h1>
 </div>
 </div>
+<div class="container">
 <div class="row">
 <div class="col">
-<p>Ad Nicolai Modrusiensis orationem in funere Petri Riarii tabula stilistica</p>
+<p>Formae lemmatis in Oratione in funere Petri (1474)</p>
 <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
 <p><a href="http://orcid.org/0000-0002-9119-399X">Neven Jovanović</a></p>
 </div>
 <div class="col">
-<p>Notae stilisticae in oratione occurrentes enumerantur.</p>
-<p>Functio nominatur: {rest:uri()}.</p>
+<p>Quae formae lemmatis <span class="text-error">{$term}</span> in quibus locis occurrunt in oratione Nicolai Modrussiensis in funere Petri, cardinalis S. Sixti (a. 1474).</p>
 </div>
 <div class="col">
 {modruski:infodb('modr-riar-stil')}
@@ -60,19 +55,24 @@ declare
 <table class="striped">
 	<thead>
 	<tr>
-  <td>ID in DB</td>
-	<td>Nota stilistica</td>
-<td>URN</td>
+  <td>Citatio</td>
+  <td>Lemma</td>
+  <td>Forma</td>
+	<td>Textus</td>
   </tr>
 	</thead>
   <tbody>
-	{modruski:index-stilisticus()}
+  
+	{ modruski:getallformsforlemma($term) }
+  
   </tbody>
   </table>
   
      </div>
-     </div>
+</div>
 { modruski:footerserver() }
+
+</div>
 </div>
 </body>
 </html>

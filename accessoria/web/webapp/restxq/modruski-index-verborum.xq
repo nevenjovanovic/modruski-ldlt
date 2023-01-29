@@ -1,21 +1,18 @@
-(: list all stylistic annotations as they occur in document :)
-import module namespace rest = "http://exquery.org/ns/restxq";
+(: index all lemmata in the NM Oratio, link to index of occurrences :)
+(: import module namespace rest = "http://exquery.org/ns/restxq"; :)
 import module namespace modruski = "http://croala.ffzg.unizg.hr/modruski" at "../../repo/modruski.xqm";
-
 
 declare namespace page = 'http://basex.org/examples/web-page';
 
-declare variable $title := 'Tabula stilistica in Nicolai Modrusiensis orationem (1474)';
-declare variable $content := "Display a list of stylistic annotations to Nicholas of Modruš Oratio in funere Petri Riarii (1474) as they occur in the edition.";
-declare variable $keywords := "Neo-Latin literature, style, stylistics, Nikola Modruški, Nicholas of Modruš, Early Modern Italy, Renaissance Latin";
-
-
+declare variable $title := 'Index verborum in Nicolai Modrusiensis oratione (1474)';
+declare variable $content := "Display an index of words appearing in Nicholas of Modruš Oratio in funere Petri Riarii (1474).";
+declare variable $keywords := "Neo-Latin literature, digital edition, Nikola Modruški, Nicholas of Modruš, Early Modern Italy, Renaissance Latin, words, lemmata, index";
 
 (:~
  : This function returns an XML response message.
  :)
 declare
-  %rest:path("nm-stil/tabula-stilistica")
+  %rest:path("nm-verba/index-verborum")
   %output:method(
   "xhtml"
 )
@@ -28,11 +25,11 @@ declare
   %output:doctype-system(
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
 )
-  function page:modruskiindexstil()
+  function page:modruskiindexverborum()
 {
   (: HTML template starts here :)
 
-<html>
+<html lang="la">
 { modruski:htmlheadserver($title, $content, $keywords) }
 <body>
 <div class="container">
@@ -43,16 +40,24 @@ declare
 </div>
 <div class="row">
 <div class="col">
-<p>Ad Nicolai Modrusiensis orationem in funere Petri Riarii tabula stilistica</p>
+<div class="card">
 <p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
 <p><a href="http://orcid.org/0000-0002-9119-399X">Neven Jovanović</a></p>
+<p>Indiculus verborum affertur. Nexus verborum formas et locos ostendent.</p>
+</div>
 </div>
 <div class="col">
-<p>Notae stilisticae in oratione occurrentes enumerantur.</p>
-<p>Functio nominatur: {rest:uri()}.</p>
+<div class="card">
+<table>
+<tr><td>Verba</td> <td>{ modruski:verbanumerare()}</td> </tr>
+<tr><td>Lemmata</td> <td>{ modruski:lemmatanumerare() }</td> </tr>
+</table>
+</div>
 </div>
 <div class="col">
-{modruski:infodb('modr-riar-stil')}
+<div class="card">
+{modruski:infodb('modr-riar-ldlt')}
+</div>
 </div>
 </div>
 <div class="row">
@@ -60,18 +65,18 @@ declare
 <table class="striped">
 	<thead>
 	<tr>
-  <td>ID in DB</td>
-	<td>Nota stilistica</td>
-<td>URN</td>
+  <td>LiLa nexus</td>
+  <td>Logeion nexus</td>
+  <td>Verbum</td>
+	<td>Quoties in editione (formae omnes)</td>
   </tr>
 	</thead>
   <tbody>
-	{modruski:index-stilisticus()}
+	{ modruski:indiculusverborum() }
   </tbody>
   </table>
-  
      </div>
-     </div>
+</div>
 { modruski:footerserver() }
 </div>
 </body>
@@ -79,7 +84,3 @@ declare
 };
 
 return
-
-
-
-

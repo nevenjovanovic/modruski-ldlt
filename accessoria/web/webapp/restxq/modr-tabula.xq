@@ -1,14 +1,13 @@
 (: Modrusiensis rhetorical index :)
 (: List locations of all phr elements :)
-
-import module namespace rest = "http://exquery.org/ns/restxq";
 import module namespace nm = "http://croala.ffzg.unizg.hr/nm" at "../../repo/modr.xqm";
+import module namespace modruski = "http://croala.ffzg.unizg.hr/modruski" at "../../repo/modruski.xqm";
 
 declare namespace page = 'http://basex.org/examples/web-page';
 
 declare variable $title := 'Nicolai Modrusiensis oratio (1474): tabula contentorum';
 declare variable $content := "Display table of contents.";
-declare variable $keywords := "Renaissance Humanism, Neo-Latin, funeral oration, Pietro Riario";
+declare variable $keywords := "Renaissance Humanism, Neo-Latin, funeral oration, Pietro Riario, rhetoric, rhetorical analysis";
 
 (:~
  : This function returns an XML response message.
@@ -35,18 +34,20 @@ declare
 
 <html>
 { nm:htmlheadserver($title, $content, $keywords) }
-<body text="#000000">
-
-<p>Functio nominatur: {rest:uri()}.</p>
-
-<div class="container-fluid">
-<blockquote class="croala">
-	<div class="table-responsive">
-
+<body>
+<div class="container">
+<div  class="row">
+<div  class="col">
+<h1>{ $title }</h1>
+</div>
+</div>
+<div class="row">
+<div  class="col">
   <!-- function here -->
 { nm:table(("Argumentum", "Paragraphus", "URN indiculus"), nm:tabulaorationis()) }
 </div>
-</blockquote>
+</div>
+{ modruski:footerserver() }
 </div>
 </body>
 </html>

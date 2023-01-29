@@ -1,6 +1,4 @@
 (: Modrusiensis open node in db :)
-
-import module namespace rest = "http://exquery.org/ns/restxq";
 import module namespace nm = "http://croala.ffzg.unizg.hr/nm" at "../../repo/modr.xqm";
 
 declare namespace page = 'http://basex.org/examples/web-page';
@@ -38,29 +36,26 @@ declare
 { nm:htmlheadserver($title, $content, $keywords) }
 
 <body>
-<div class="header">
-    <ul class="nav nav-pills pull-right">
-    </ul>
-    <h3 class="text-muted"> </h3>
-  </div>
 <div class="container">
-<div class="jumbotron">
+<div class="row">
+<div  class="col">
 <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span> Nicolai Modrusiensis oratio in funere Petri (Riarii, 1474): nodus</h1>
-
-<p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }. Nodus {$node} in collectione {$nm:db}.</p>
-<p>Functio nominatur: {rest:uri()}.</p>
 </div>
-<div class="container-fluid">
-<h2><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> Nodus {$node} in documento {nm:filenode(db:path(db:open-id($nm:db,$node)))}</h2>
-
-<hr/>
-<blockquote class="croalatext">
-    { db:open-id($nm:db,$node) }
-</blockquote>
-     <p/>
-     </div>
-<hr/>
-
+</div>
+<div class="row">
+<div  class="col">
+<p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }. </p>
+<p>Nodus <span class="text-success">{$node}</span> in collectione {$nm:db}.</p>
+</div>
+<div class="col">
+<p><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> Documentum {nm:filenode(db:path(db:get-id($nm:db,$node)))}</p>
+</div>
+</div>
+<div class="row">
+<div  class="col">
+    { fn:serialize(db:get-id($nm:db,$node), map{"method":"text"}) }
+</div>
+</div>
 { nm:footerserver() }
 </div>
 </body>

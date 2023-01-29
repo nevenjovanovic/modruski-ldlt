@@ -1,21 +1,24 @@
 (: XQuery module for Modruski :)
 module namespace modruski = 'http://croala.ffzg.unizg.hr/modruski';
 
+declare variable $modruski:cssserver := "/basex/static/dist/chota.min.css";
+declare variable $modruski:csslocal := "/static/dist/chota.min.css";
+
+
 (: helper function for header, with meta :)
 declare function modruski:htmlheadserver($title, $content, $keywords) {
   (: return html template to be filled with title :)
   (: title should be declared as variable in xq :)
 
 <head><title> { $title } </title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="keywords" content="{ $keywords }"/>
 <meta name="description" content="{$content}"/>
 <meta name="revised" content="{ current-date()}"/>
 <meta name="author" content="Neven Jovanović, CroALa" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
 <link rel="icon" href="/basex/static/gfx/favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="/basex/static/dist/css/bootstrap.min.css"/>
+<link rel="stylesheet" href=" { $modruski:csslocal } "  />
 <link rel="stylesheet" type="text/css" href="/basex/static/dist/css/modruski.css"/>
-<script type="text/javascript" src="/basex/static/dist/js/clipboard.min.js"></script>
 </head>
 
 };
@@ -23,19 +26,40 @@ declare function modruski:htmlheadserver($title, $content, $keywords) {
 (: formatting - footer :)
 declare function modruski:footerserver () {
 let $f := <footer class="footer">
-<div class="container">
-<h3> </h3>
-<h1 class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <a href="http://croala.ffzg.hr/">Croatiae auctores Latini</a></h1>
 <div class="row">
-<div  class="col-md-3"></div> 
-<div  class="col-md-6">
-<p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/basex/static/gfx/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu</p></div>
-<div  class="col-md-3"></div></div>
+<div class="col">
+<h1 class="text-center"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <a href="http://croala.ffzg.unizg.hr/">Croatiae auctores Latini</a></h1>
+</div>
+</div>
+<div class="row">
+<div  class="col">
+<p class="text-center"><a href="http://www.ffzg.unizg.hr"><img src="/static/ffzghrlogo.png"/> Filozofski fakultet</a> Sveučilišta u Zagrebu</p>
+</div>
 </div>
 </footer>
 return $f
 };
 
+(: helper, info on db :)
+
+declare function modruski:infodb($dbname) {
+  (: return info on modruski db, with Latin field names :)
+let $rownames := map {
+  "name": "DB nomen",
+  "documents": "documenta",
+  "timestamp": "de dato"
+}
+return element table { 
+attribute class { "striped"},
+let $i := db:info($dbname)/databaseproperties
+  for $n in ('name','documents','timestamp')
+  return 
+   element tr {
+    element td { map:get($rownames, $n) } ,
+    element td { $i/*[name()=$n] }
+  }
+}
+};
 
 declare function modruski:substring-before-last
   ( $arg ,
@@ -60,7 +84,7 @@ let $urn1 := modruski:substring-before-last($t, ":") || ":"
 let $xpath := modruski:substring-after-last($t, ":")
 let $xpathphr := "//*[@n='" || replace($xpath, "\.", "']/*[@n='") || "']"
 let $xpathphr2 := modruski:substring-before-last($xpathphr, "/")
-let $passage := xquery:eval($xpathphr2, map { '': db:open('modruskiriario', data($cts[@urn=$urn1]/@docname)) })
+let $passage := xquery:eval($xpathphr2, map { '': db:get('modruskiriario', data($cts[@urn=$urn1]/@docname)) })
 return element tr { 
 element td { $t } , 
 element td {
@@ -68,7 +92,7 @@ normalize-space(data($passage)) }
 }
  };
  
-declare variable $modruski:urn := "https://croala.ffzg.unizg.hr/basex/nm-stil/node/";
+declare variable $modruski:urn := "/nm-stil/node/";
 declare variable $modruski:dbrhet := "modr-riar-stil";
 declare variable $modruski:urlnidus := "https://croala.ffzg.unizg.hr/basex/nm-stil/nidificium/";
 declare variable $modruski:heatmap := map { 
@@ -100,7 +124,7 @@ declare function modruski:nestlist($min) {
   (: retrieve number of nests, their @ana values :)
   (: $min declares minimal number of nested elements :)
 let $nestvalues :=
-for $p in db:open($modruski:dbrhet)//*:text//*:s/*:phr
+for $p in db:get($modruski:dbrhet)//*:text//*:s/*:phr
 let $ana := modruski:notaeABC($p/@ana/string())
 let $id := element a { attribute href { $modruski:urlnidus || db:node-id($p) } , db:node-id($p) }
 let $count := count($p//*:phr)
@@ -120,7 +144,7 @@ return $nestvalues
 declare function modruski:nestlistlevel($min) {
   (: for phr, return column of children and column of other descendants :)
 let $nestvalues :=
-for $p in db:open($modruski:dbrhet)//*:text//*:s/*:phr
+for $p in db:get($modruski:dbrhet)//*:text//*:s/*:phr
 let $ana := modruski:notaeABC($p/@ana/string())
 let $id := modruski:makeurl($p)
 let $count := count($p//*:phr)
@@ -146,8 +170,8 @@ return $nestvalues
 declare function modruski:index-stilisticus() {
 (: get all phr elements annotated with style, as table :)
 
-let $base := db:open($modruski:dbrhet)//*:fileDesc/@xml:id
-for $p in db:open($modruski:dbrhet)//*:text//*:phr
+let $base := db:get($modruski:dbrhet)//*:fileDesc/@xml:id
+for $p in db:get($modruski:dbrhet)//*:text//*:phr
 let $ana := $p/@ana
 let $ananode := db:node-id($p)
 let $a := path($p)
@@ -164,7 +188,7 @@ element a {
 
 declare function modruski:opennode($node){
   for $i in $node
-for $phr in db:open-id($modruski:dbrhet, $i)
+for $phr in db:get-id($modruski:dbrhet, $i)
 return element tr {
   element td { $i }, 
   element td { $phr/@ana/string() }, 
@@ -174,7 +198,7 @@ return element tr {
 
 declare function modruski:getnest($node){
   for $i in $node
-for $phr in db:open-id($modruski:dbrhet, $i)
+for $phr in db:get-id($modruski:dbrhet, $i)
 let $desc := for $p in $phr//*:phr/@ana/string() return element pre { $p }
 return element tr {
   element td { $i }, 
@@ -187,7 +211,7 @@ return element tr {
 declare function modruski:getallnodes($term){
   (: for term, retrieve all nodes :)
   for $t in $term
-let $phr := db:open($modruski:dbrhet)//*:phr[matches(@ana, $t)]
+let $phr := db:get($modruski:dbrhet)//*:phr[matches(@ana, $t)]
 return modruski:opennode(db:node-id($phr))
 };
 
@@ -197,7 +221,7 @@ declare function modruski:indiculus(){
 (: count occurrences of individual values :)
 let $rows := element tbody {
 let $stylevalues :=
-for $p in db:open($modruski:dbrhet)//*:text//*:phr
+for $p in db:get($modruski:dbrhet)//*:text//*:phr
 let $ana := $p/@ana/string()
 return tokenize($ana, " ")
 for $dv in distinct-values($stylevalues)
@@ -208,10 +232,10 @@ return element tr {
 }
 for $r in $rows/tr
   let $term := substring-after($r/td[1]/string(), "#")
-  let $url := "https://croala.ffzg.hr/basex/nm-stil/terminus/"
+  let $url := "/nm-stil/terminus/"
   order by xs:integer($r/td[2]/string()) descending
   return element tr {   
-  element td { db:open($modruski:dbrhet)//*:interp[@xml:id=$term]/string()}, 
+  element td { db:get($modruski:dbrhet)//*:interp[@xml:id=$term]/string()}, 
   element td { 
   element a { attribute href { $url || $term} , $term } } ,
   $r/td[2] }
@@ -221,7 +245,7 @@ declare function modruski:allnests(){
   (: max descendant depth 4, get all phr, id and @ana :)
   (: format as links to individual segments :)
   element tbody {
-for $p in db:open($modruski:dbrhet)//*:text//*:s/*:phr
+for $p in db:get($modruski:dbrhet)//*:text//*:s/*:phr
 let $ana := modruski:notaeABC($p/@ana/string())
 let $id := modruski:makeurl($p)
 let $child := $p/*:phr
@@ -250,10 +274,10 @@ return $n
 };
 
 declare variable $modruski:dblect := "modr-riar-ldlt";
-declare variable $modruski:urn-lect := "https://croala.ffzg.unizg.hr/basex/";
+declare variable $modruski:urn-lect := "/";
 declare function modruski:indiculuslectionum(){
 
-for $p in db:open($modruski:dblect)//*:text//*:rdg
+for $p in db:get($modruski:dblect)//*:text//*:rdg
 let $type := $p/@type
 group by $type
 order by count($p) descending
@@ -267,7 +291,7 @@ attribute href { $modruski:urn-lect || "nm-lectionum-typi/" || $type } , count($
 
 declare function modruski:lectionespertypum($typus){
   
-for $p in db:open($modruski:dblect)//*:text//*:app[*:rdg/@type=$typus]
+for $p in db:get($modruski:dblect)//*:text//*:app[*:rdg/@type=$typus]
 return element tr { 
 element td { $typus },
 element td { db:node-id($p) },
@@ -313,16 +337,16 @@ declare function modruski:hrefsub($docurn){
 (: list available documents and their CTS URNs, descriptions :)
 
 declare function modruski:listctsdocs(){
-  for $doc in db:open($modruski:db-cts)//*:TEI
+  for $doc in db:get($modruski:db-cts)//*:TEI
 let $ctsurn := modruski:hrefcard( modruski:removecolon($doc//*:text/@xml:base/string()) )
 let $abstract := normalize-space($doc//*:teiHeader/*:profileDesc/*:abstract/*:p/string())
 return element div {
   attribute class { "card" } , 
-  element div { 
-  attribute class { "card-body" } , 
-  $ctsurn ,
   element p { 
-  attribute class { "card-text" } , $abstract } }
+  attribute class { "card-header-title" } , 
+  $ctsurn ,
+  element div { 
+  attribute class { "card-content" } , $abstract } }
 }
 };
 
@@ -349,7 +373,7 @@ $text
 
 declare function modruski:listctssuburns($urn){
   let $urn2 := $urn || ":"
-  for $resource in db:open($modruski:db-cts)//*:TEI/*:text[@xml:base=$urn2]//*[name()]
+  for $resource in db:get($modruski:db-cts)//*:TEI/*:text[@xml:base=$urn2]//*[name()]
 let $textpreview := tokenize(normalize-space($resource/string()), " ")
 let $attribs := if ($resource/@*) then string-join(for $a in $resource/@* return $a/name() || ": " || $a/string(), "; ") else "ABSUNT ATTRIBUTA"
 let $which := replace(substring-after(path($resource),"/Q{http://www.tei-c.org/ns/1.0}TEI[1]/Q{http://www.tei-c.org/ns/1.0}text[1]/"), "/?Q\{http://www.tei-c.org/ns/1.0\}", "")
@@ -372,4 +396,84 @@ modruski:cardtext($attribs, "Notae: ")
 
 declare function modruski:displayctsdocurn($urn) {
   element p { "TBA" }
+};
+
+(: list all lemmata from the edition :)
+declare function modruski:indiculusverborum() {
+  for $word in db:get($modruski:dbrhet)//*:body//*:w
+  let $lila := $word/@lemmaRef/string()
+  group by $lila
+  let $lemma1 := distinct-values($word/@lemma)[1]
+  order by $lemma1
+  return element tr {
+    element td { modruski:lilalink($lila) },
+    element td { modruski:logeionlink($lemma1, $lila)},
+    element td { for $l in distinct-values($word/@lemma)
+    return element p { $l } },
+    element td { modruski:lemmalink($lemma1,count($word), $lila) }
+  }
+};
+
+declare function modruski:lemmalink($lemma, $count, $lila){
+  let $link := "/nm-verba/lemma/" || $lemma
+  return if ($lila) then modruski:htmllink($link, $count)
+  else "LiLa URI deest; lemma quodque ipse scribas in URL"
+  
+};
+
+(: for link and anchor, create element :)
+declare function modruski:htmllink($link, $anchor){
+  element a {
+    attribute href { $link },
+    $anchor
+  }
+};
+
+(: for LiLa URI, create a element :)
+declare function modruski:lilalink($lila) {
+  let $anchor := substring-after($lila, "https://lila-erc.eu/data/id/")
+  return if ($lila) then 
+  modruski:htmllink( $lila , $anchor )
+  else "N/A"
+};
+
+(: for a lemma, create link :)
+declare function modruski:logeionlink($lemma, $lila) {
+  let $anchor := $lemma
+  return if ($lila) then 
+  let $link := "https://logeion.uchicago.edu/" || replace($anchor, "[0-9]$", "")
+    return modruski:htmllink($link , $anchor)
+  else "N/A"
+};
+
+(: count all words in the edition :)
+declare function modruski:verbanumerare(){
+  let $count := count(db:get($modruski:dbrhet)//*:body//*:w)
+  return element span { 
+  attribute class { "text-error" },
+  $count }
+};
+
+(: count all lemmata in the edition :)
+declare function modruski:lemmatanumerare(){
+  let $lemmata := db:get($modruski:dbrhet)//*:body//*:w/@lemma/string()
+  let $countunique := count(distinct-values($lemmata))
+  return element span { 
+  attribute class { "text-success" },
+  $countunique }
+};
+
+(: for a lemma, retrieve all forms with passages and citations :)
+declare function modruski:getallformsforlemma($lemma){
+  for $occur in db:get($modruski:dbrhet)//*:body//*:w[@lemma=$lemma]
+  let $form := $occur/string()
+  let $context := $occur/parent::*[name()=("s", "phr")]
+  return element tr {
+    element td { "CITATIO"},
+    element td { $lemma },
+    element td { $form },
+    element td { 
+  fn:serialize($context, map{"method":"text"})
+}
+  }
 };

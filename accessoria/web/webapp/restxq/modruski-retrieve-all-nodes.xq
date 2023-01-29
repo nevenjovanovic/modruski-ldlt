@@ -1,6 +1,5 @@
 (: retrieve all nodes for a given term using a node-id :)
 import module namespace rest = "http://exquery.org/ns/restxq";
-import module namespace croala = "http://www.ffzg.unizg.hr/klafil/croala" at "../../repo/croala.xqm";
 import module namespace modruski = "http://croala.ffzg.unizg.hr/modruski" at "../../repo/modruski.xqm";
 
 
@@ -35,26 +34,31 @@ declare
 
 <html>
 { modruski:htmlheadserver($title, $content, $keywords) }
-<body text="#000000">
-
-<div class="jumbotron">
+<body>
+<div class="container">
+<div class="row">
+<div class="col">
 <h1><span class="glyphicon glyphicon-th" aria-hidden="true"></span>{ $title }</h1>
-<div class="container-fluid">
-<div class="col-md-6">
-<p>Loci annotati in Oratione in funere Petri (1474): <a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col">
+<p>Loci annotati in Oratione in funere Petri (1474)</p>
+<p><a href="http://croala.ffzg.unizg.hr">CroALa</a>, { current-date() }.</p>
 <p><a href="http://orcid.org/0000-0002-9119-399X">Neven Jovanović</a></p>
+</div>
+<div class="col">
 <p>In quibus locis occurrit nota in oratione Nicolai Modrussiensis in funere Petri, cardinalis S. Sixti (a. 1474).</p>
 <p>Functio nominatur: {rest:uri()}.</p>
 </div>
-<div class="col-md-6">
-{croala:infodb('modr-riar-stil')}
+<div class="col">
+{modruski:infodb('modr-riar-stil')}
 </div>
 </div>
-</div>
-<div class="container-fluid">
-<blockquote class="croala">
-	<div class="table-responsive">
-<table class="table-striped  table-hover table-centered">
+<div class="row">
+<div class="col">
+<table class="striped">
 	<thead>
 	<tr>
   <td>Notae ID</td>
@@ -70,12 +74,11 @@ declare
   </table>
   
      </div>
-</blockquote>
-     <p/>
-     </div>
-<hr/>
+</div>
 { modruski:footerserver() }
 
+</div>
+</div>
 </body>
 </html>
 };
