@@ -1,5 +1,5 @@
-(: mappa stilistica: get all phr elements annotated with style at level 1 :)
-(: report how many have nested phr elements :)
+(: mappa stilistica: get all phr elements with x levels of descendants :)
+(: display each descendant level separately :)
 declare variable $dbrhet := "modr-riar-stil";
 declare variable $url1 := "https://croala.ffzg.unizg.hr/basex/nm-stil/nidificium/";
 declare variable $heatmap := map { 
@@ -13,6 +13,10 @@ declare variable $heatmap := map {
 7: "#446221",
 8: "#3d571e"
 };
+declare function local:levels($level){ string-join( for $n in 1 to $level
+(: create a descendant string to a given number of levels :)
+return "*:phr", "/" ) };
+
 declare function local:notaeABC($seq){
   (: order terms in @ana alphabetically :)
   let $seqabc := string-join( for $s in tokenize($seq, " ")
@@ -21,23 +25,22 @@ declare function local:notaeABC($seq){
   , " ")
   return $seqabc
 };
+declare function local:makeurl($a){ 
+element a { attribute href { $url1 || db:node-id($a) } , db:node-id($a) }
+};
 declare function local:nestlist($min) {
 let $nestvalues :=
-for $p in db:open($dbrhet)//*:text//*:s/*:phr
+let $phrlevel := local:levels($min)
+for $p in db:open($dbrhet)//*:text//*:s/*:phr[ ( $phrlevel ) ]
 let $ana := local:notaeABC($p/@ana/string())
-let $id := element a { attribute href { $url1 || db:node-id($p) } , db:node-id($p) }
-let $count := count($p//*:phr)
-let $desc := for $a in $p//*:phr/@ana/string() return element pre { $a }
-where $count > $min
+let $id := local:makeurl($p)
+
 order by $ana
 return element tr { 
- attribute style { "background-color:" || map:get($heatmap , count($p//*:phr)) },
 element td { $id },
-element td { $ana },
-element td { $count },
-element td { $desc }
+element td { $ana }
  }
 return $nestvalues
 };
 
-count(local:nestlist(2)/*)
+local:nestlist(5)
