@@ -557,7 +557,7 @@
                      <rdg wit="#pa" type="lexicographice">preposita</rdg>
                   </app> ut eum <app>
                      <lem>putares</lem>
-                     <rdg wit="Ge #C #o" type="grammatice">putaret</rdg>
+                     <rdg wit="#Ge #C #o" type="grammatice">putaret</rdg>
                      <rdg wit="#V #Gd #P #m" type="grammatice">putare</rdg>
                   </app>
                   <app>
@@ -1502,7 +1502,7 @@
                   </app> et prouentibus optime auctum et aedificiis perquam magnifice instauratum,
                   testatur <app>
                      <lem>Taruisii</lem>
-                     <rdg wit="#V Gd P m" type="orthographia">Taruixit</rdg>
+                     <rdg wit="#V #Gd #P #m" type="orthographia">Taruixit</rdg>
                      <rdg wit="#co" type="orthographia">Taruixij</rdg>
                   </app> maior basilica <app>
                      <lem>non paruis</lem>
@@ -2048,8 +2048,8 @@
                         <l>Fortunę uarios rideat ille iocos.</l>
                      </div>
                   </lem>
-                  <rdg wit="#V #R #P #C #Gd #Ge #co #m #va #pa #o" type="omisit"> Versus leguntur
-                     tantummodo in ve. Alii omiserunt. </rdg>
+                  <rdg wit="#V #R #P #C #Gd #Ge #co #m #va #pa #o" type="omisit">Versus leguntur
+                     tantummodo in ve. Alii omiserunt.</rdg>
                </app>
             </div>
          </div>
