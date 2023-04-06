@@ -33,7 +33,7 @@
             <title level="s">Library of Digital Latin Texts</title>
             <respStmt>
                <resp>Edited by</resp>
-               <name ref="#huskey">Samuel J. Huskey</name>
+               <name ref="https://orcid.org/0000-0002-8192-9385">Samuel J. Huskey</name>
             </respStmt>
             <biblScope unit="volume">2</biblScope>
             <idno type="DOI"/>
