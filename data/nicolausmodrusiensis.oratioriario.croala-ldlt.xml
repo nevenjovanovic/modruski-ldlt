@@ -5,32 +5,43 @@
             <title>Oratio in funere Petri Riarii, versio electronica</title>
             <author><persName xml:lang="hr">Nikola Modruški</persName>
                <date>c. 1427-1480</date></author>
-            <editor><persName>
-                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
-               </persName></editor>
+            <editor xml:id="jovanović" ref="http://viaf.org/viaf/6913774">Neven Jovanović</editor>
+            <sponsor>Renaissance Academy of America</sponsor>
          </titleStmt>
          <editionStmt>
-            <edition>Editio altera electronica critica</edition>
+            <edition n="0.0.1">Editio altera electronica critica</edition>
          </editionStmt>
          <publicationStmt>
-            <publisher>Renaissance Society of America</publisher>
-            <distributor>Digital Latin Library</distributor>
-            <date>2020</date>
+            <publisher>The Digital Latin Library</publisher>
+            <address>
+               <street>650 Parrington Oval</street>
+               <addrLine>Carnegie Building 101</addrLine>
+               <settlement>Norman</settlement>
+               <name>OK</name>
+               <postCode>73071</postCode>
+               <country>USA</country>
+            </address>
+            <authority>The University of Oklahoma</authority>
+            <pubPlace>Norman, OK</pubPlace>
+            <date>2023</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under a
-                  Creative Commons Attribution 4.0 International License.</licence>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
+                  Commons Attribution-ShareAlike 4.0 International Licence (CC BY-SA 4.0)</licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
             <title level="s">Library of Digital Latin Texts</title>
-            <biblScope unit="vol">1</biblScope>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name ref="#huskey">Samuel J. Huskey</name>
+            </respStmt>
+            <biblScope unit="volume">2</biblScope>
+            <idno type="DOI"/>
          </seriesStmt>
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
-
-
    </teiHeader>
    <text xml:base="urn:cts:croala:nikolamodr01.croala1394919.croala-lat1:" xml:lang="lat"
       type="prosa-oratio">
