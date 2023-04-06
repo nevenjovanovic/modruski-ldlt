@@ -2028,24 +2028,32 @@
                <app>
                   <lem type="potissimum">
                      <div n="e1" xml:id="modrusiensis-riario-epigr1">
-                        <head>In laudem libelli</head>
-                        <l>Ęloquio uires quantę sint, aspice, lector</l>
-                        <l>Quem prius odisti, protinus hunc peramas.</l>
+                        <lg>
+                           <head>In laudem libelli</head>
+                           <l>Ęloquio uires quantę sint, aspice, lector</l>
+                           <l>Quem prius odisti, protinus hunc peramas.</l>
+                        </lg>
                      </div>
                      <div n="e2" xml:id="modrusiensis-riario-epigr2">
-                        <head><sic>Epithaphion</sic></head>
-                        <l>Nemo magis docuit perituri temnere sęcli</l>
-                        <l>Diuitias, fastum, luxuriemque simul.</l>
+                        <lg>
+                           <head><sic>Epithaphion</sic></head>
+                           <l>Nemo magis docuit perituri temnere sęcli</l>
+                           <l>Diuitias, fastum, luxuriemque simul.</l>
+                        </lg>
                      </div>
                      <div n="e3" xml:id="modrusiensis-riario-epigr3">
-                        <head>Aliud.</head>
-                        <l>Quam celeris fugiat ruituri gloria mundi</l>
-                        <l>Me speculum cernas quisque uiator ades.</l>
+                        <lg>
+                           <head>Aliud.</head>
+                           <l>Quam celeris fugiat ruituri gloria mundi</l>
+                           <l>Me speculum cernas quisque uiator ades.</l>
+                        </lg>
                      </div>
                      <div n="e4" xml:id="modrusiensis-riario-epigr4">
-                        <head>Aliud.</head>
-                        <l>Sorte humili natum qui me cognouerit ante</l>
-                        <l>Fortunę uarios rideat ille iocos.</l>
+                        <lg>
+                           <head>Aliud.</head>
+                           <l>Sorte humili natum qui me cognouerit ante</l>
+                           <l>Fortunę uarios rideat ille iocos.</l>
+                        </lg>
                      </div>
                   </lem>
                   <rdg wit="#V #R #P #C #Gd #Ge #co #m #va #pa #o" type="omisit">Versus leguntur
