@@ -281,28 +281,56 @@
             <listBibl>
                <bibl xml:id="Bošnjak1976a"><abbr type="siglum">Bošnjak 1976a</abbr><author>Bošnjak,
                      Mladen</author>. <title level="a">Dvije značajne hrvatske knjižice</title>.
-                  <title level="j">Hrvatska revija: Jubilarni zbornik 1951–1975</title>, <publisher>Knjižnica Hrvatske
-                     revije</publisher>, <pubPlace>Barcelona</pubPlace> (<date>1976</date>):
-                     <biblScope unit="page">590–598</biblScope>.</bibl>
-               <bibl xml:id="Bošnjak1976b"><abbr type="siglum">Bošnjak 1976b</abbr><author>Bošnjak, Mladen</author>. <title level="a">Dvije značajne hrvatske knjižice</title>. <title level="j">Hrvatska revija: Jubilarni
-                  zbornik 1951–1975</title>, <publisher>Knjižnica Hrvatske revije</publisher>, <pubPlace>Barcelona</pubPlace> (<date>1976</date>): <biblScope unit="page">590–598</biblScope>.</bibl>
-               <bibl>Mladen Bošnjak, »Dvije značajne hrvatske knjižice«, Hrvatska revija: Jubilarni
-                  zbornik 1951–1975, Knjižnica Hrvatske revije, Barcelona, 1976, 590–598.</bibl>
-               <bibl xml:id="Bošnjak1983"><abbr type="siglum">Bošnjak 1983</abbr><author>Bošnjak, Mladen</author>. <title level="a">Zwei unbekannte Inkunabelausgaben</title>. <title level="j">Beiträge zur
-                  Inkunabelkunde</title> <biblScope unit="volume">3</biblScope> (<date>1983</date>): <biblScope unit="page">8, 91–93</biblScope>.</bibl>
-               <bibl xml:id="Farenga1986"><abbr type="siglum">Farenga 1986</abbr><author>Farenga, Paola</author>. <title level="a">‘Monumenta memoriae’ – Pietro Riario fra mito e storia</title>. In
-                  <editor>Massimo Miglio et al. (ed.)</editor>, <title level="m">Un
-                     pontificato ed una città – Sisto IV (1471–1484)</title>. <pubPlace>Città del Vaticano</pubPlace>: <publisher>Associazione Roma nel
-                  Rinascimento</publisher> (<date>1986</date>): <biblScope unit="page">179–216</biblScope>.</bibl>
-               <bibl xml:id="Staatsbibliothek"><abbr type="siglum">Gesamtkatalog</abbr><author>Staatsbibliothek zu Berlin</author>. <title level="a">Gesamtkatalog der Wiegendrucke / Inkunabelsammlung</title>,
-                  <ptr target="https://www.gesamtkatalogderwiegendrucke.de/"/>. In rete accessi 29. Novembris 2019.</bibl>
-               <bibl xml:id="Jovanović2018"><abbr type="siglum">Jovanović 2018</abbr><author>Jovanović, Neven</author>. <title level="a">Nadgrobni govor Nikole Modruškog za Pietra Riarija</title>. <title level="j">Colloquia
-                  Maruliana</title> <biblScope unit="volume">XXVII</biblScope> (<date>2018</date>), <biblScope unit="page">str.~123–141</biblScope>.</bibl>
-               <bibl xml:id="Petrucci1956"><abbr type="siglum">Petrucci 1956</abbr><author>Petrucci, Armando</author>. <title level="a">Alcuni codici Corsiniani di mano di Tommaso e Antonio
-                  Baldinotti</title>. <title level="j">Rendiconti dell' Accademia nazionale dei Lincei, classe di scienze
-                  morali, storiche e filologiche</title> <biblScope unit="volume">serie 8, XI</biblScope> (<date>1956</date>), <biblScope unit="page">str.~252–263</biblScope>.</bibl>
-               <bibl xml:id="Truhlář1982"><author>Truhlář, Josef</author>. <title level="m">Počátky humanismu v Cechách</title>. <pubPlace>V Praze</pubPlace>: <publisher>Nákladem České akademie
-                  císaře Františka Josefa pro vědy, slovesnost a umění</publisher>. <date>1892</date>. <biblScope unit="page">p. 507</biblScope>.</bibl>
+                     <title level="j">Hrvatska revija: Jubilarni zbornik 1951–1975</title>.
+                     <pubPlace>Barcelona</pubPlace>: <publisher>Knjižnica Hrvatske
+                     revije</publisher>. <date>1976</date>: <biblScope unit="page"
+                     >590–598</biblScope>.</bibl>
+               <bibl xml:id="Bošnjak1976b"><abbr type="siglum">Bošnjak 1976b</abbr><author>Bošnjak,
+                     Mladen</author>. <title level="a">Dvije značajne hrvatske knjižice</title>.
+                     <title level="j">Hrvatska revija: Jubilarni zbornik 1951–1975</title>.
+                     <pubPlace>Barcelona</pubPlace>: <publisher>Knjižnica Hrvatske
+                     revije</publisher>. <date>1976</date>: <biblScope unit="page"
+                     >590–598</biblScope>.</bibl>
+               <bibl xml:id="Bošnjak1976c"><abbr type="siglum">Bošnjak 1976c</abbr><author>Bošnjak,
+                     Mladen</author>. <title level="a">Dvije značajne hrvatske knjižice</title>.
+                     <title level="j">Hrvatska revija: Jubilarni zbornik 1951–1975</title>,
+                     <pubPlace>Barcelona</pubPlace>: <publisher>Knjižnica Hrvatske
+                     revije</publisher>. <date>1976</date>: <biblScope unit="page"
+                     >590–598</biblScope>.</bibl>
+               <bibl xml:id="Bošnjak1983"><abbr type="siglum">Bošnjak 1983</abbr><author>Bošnjak,
+                     Mladen</author>. <title level="a">Zwei unbekannte Inkunabelausgaben</title>.
+                     <title level="j">Beiträge zur Inkunabelkunde</title>
+                  <biblScope unit="volume">3</biblScope> (<date>1983</date>): <biblScope unit="page"
+                     >8, 91–93</biblScope>.</bibl>
+               <bibl xml:id="Farenga1986"><abbr type="siglum">Farenga 1986</abbr><author>Farenga,
+                     Paola</author>. <title level="a">‘Monumenta memoriae’ – Pietro Riario fra mito
+                     e storia</title>. In <editor>Massimo Miglio et al. (ed.)</editor>, <title
+                     level="m">Un pontificato ed una città – Sisto IV (1471–1484)</title>.
+                     <pubPlace>Città del Vaticano</pubPlace>: <publisher>Associazione Roma nel
+                     Rinascimento</publisher> (<date>1986</date>): <biblScope unit="page"
+                     >179–216</biblScope>.</bibl>
+               <bibl xml:id="Staatsbibliothek"><abbr type="siglum"
+                     >Gesamtkatalog</abbr><author>Staatsbibliothek zu Berlin</author>. <title
+                     level="a">Gesamtkatalog der Wiegendrucke / Inkunabelsammlung</title>, <ptr
+                     target="https://www.gesamtkatalogderwiegendrucke.de/"/>. In rete accessi 29.
+                  Novembris 2019.</bibl>
+               <bibl xml:id="Jovanović2018"><abbr type="siglum">Jovanović
+                     2018</abbr><author>Jovanović, Neven</author>. <title level="a">Nadgrobni govor
+                     Nikole Modruškog za Pietra Riarija</title>. <title level="j">Colloquia
+                     Maruliana</title>
+                  <biblScope unit="volume">XXVII</biblScope> (<date>2018</date>), <biblScope
+                     unit="page">str.~123–141</biblScope>.</bibl>
+               <bibl xml:id="Petrucci1956"><abbr type="siglum">Petrucci 1956</abbr><author>Petrucci,
+                     Armando</author>. <title level="a">Alcuni codici Corsiniani di mano di Tommaso
+                     e Antonio Baldinotti</title>. <title level="j">Rendiconti dell' Accademia
+                     nazionale dei Lincei, classe di scienze morali, storiche e filologiche</title>
+                  <biblScope unit="volume">serie 8, XI</biblScope> (<date>1956</date>), <biblScope
+                     unit="page">str.~252–263</biblScope>.</bibl>
+               <bibl xml:id="Truhlář1982"><abbr type="siglum">Truhlář 1892</abbr><author>Truhlář,
+                     Josef</author>. <title level="m">Počátky humanismu v Cechách</title>.
+                     <pubPlace>V Praze</pubPlace>: <publisher>Nákladem České akademie císaře
+                     Františka Josefa pro vědy, slovesnost a umění</publisher>. <date>1892</date>.
+                     <biblScope unit="page">p. 507</biblScope>.</bibl>
             </listBibl>
          </div>
       </front>
