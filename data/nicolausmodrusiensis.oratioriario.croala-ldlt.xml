@@ -352,16 +352,16 @@
       </front>
       <body n="body1">
          <div type="edition" xml:id="edition-text">
-            <head>ORATIO IN FVNERE REVERENDISSIMI DOMINI DOMINI PETRI CARDINALIS SANCTI SIXTI <app>
-               <lem>HABITA</lem>
-               <rdg wit="#co" type="addidit">habita Romę</rdg>
-            </app> A REVERENDO PATRE DOMINO NICOLAO EPISCOPO <app>
-               <lem>MODRVSIENSI</lem>
-               <rdg wit="#Ge" type="addidit">Modrusiensi 1475</rdg>
-               <rdg wit="#ve" type="error" cause="lectioFalsa">Modnisiensi</rdg>
-               <rdg wit="#co" type="error" cause="lectioFalsa">Modrisiensi</rdg>
-            </app>
-            </head>
+            <head>ORATIO</head>
+            <p>ORATIO IN FVNERE REVERENDISSIMI DOMINI DOMINI PETRI CARDINALIS SANCTI SIXTI <app>
+                  <lem>HABITA</lem>
+                  <rdg wit="#co" type="addidit">habita Romę</rdg>
+               </app> A REVERENDO PATRE DOMINO NICOLAO EPISCOPO <app>
+                  <lem>MODRVSIENSI</lem>
+                  <rdg wit="#Ge" type="addidit">Modrusiensi 1475</rdg>
+                  <rdg wit="#ve" type="error" cause="lectioFalsa">Modnisiensi</rdg>
+                  <rdg wit="#co" type="error" cause="lectioFalsa">Modrisiensi</rdg>
+               </app></p>
             <div type="textpart" n="1" xml:id="part1">
                <p n="1" xml:id="modrusiensis-riario01"> Cum in <app>
                      <lem>omni</lem>
@@ -377,7 +377,17 @@
                      <lem>exornarent</lem>
                      <rdg wit="#Ge #o" type="grammatice">exornaret</rdg>
                   </app> – illud ego prius consolationis genus ita prorsus in omne tempus perdidi ut
-                  magis ipse solatio egeam quam ut illud cuiquam uel praestare possim uel polliceri. <app>
+                  magis ipse solatio egeam quam ut illud cuiquam uel praestare possim uel polliceri.<note
+                     type="parallel" target="#modrusiensis-riario01" xml:id="p-f1-cicero">
+                     <bibl>
+                        <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+                        <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi056"
+                           >Ad familiares</title>
+                        <biblScope>5, 16, 1</biblScope>
+                     </bibl>: <quote>Etsi unus ex omnibus minime sum ad te consolandum accommodatus,
+                        quod tantum ex tuis molestiis cepi doloris ut consolatione ipse
+                        egerem.</quote>
+                  </note> <app>
                      <lem>Quod</lem>
                      <rdg wit="#R" type="lexicographice">Quid</rdg>
                   </app> etiam si minime perdidissem, <app>
@@ -387,25 +397,17 @@
                         >numquam tamen dispicere possem</rdg>
                   </app> qua oratione aut quibus rationibus etiam illi quidem, qui principes
                   eloquentiae sunt habiti, hanc tam grauem sacrosancti senatus uestri iacturam et
-                  hunc publicum totius Curiae luctum ulla ex parte leuare possent. </p>
-               <note type="parallel" target="#modrusiensis-riario01" xml:id="p-f1-cicero">
-                  <bibl>
-                     <author ref="http://viaf.org/viaf/78769600">Cicero</author>
-                     <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi056">Ad
-                        familiares</title>
-                     <biblScope>5, 16, 1</biblScope>
-                  </bibl>: <quote>Etsi unus ex omnibus minime sum ad te consolandum accommodatus,
-                     quod tantum ex tuis molestiis cepi doloris ut consolatione ipse egerem.</quote>
-               </note>
-               <note type="parallel" target="#modrusiensis-riario01" xml:id="p-f2-cicero">
-                  <bibl>
-                     <author ref="http://viaf.org/viaf/78769600">Cicero</author>
-                     <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi055">De
-                        officiis</title>
-                     <biblScope>1, 50</biblScope>
-                  </bibl>: <quote>Eius (i. e. societatis) autem vinculum est ratio et
-                     oratio.</quote>
-               </note>
+                  hunc publicum totius Curiae luctum ulla ex parte leuare possent.<note type="parallel" target="#modrusiensis-riario01" xml:id="p-f2-cicero">
+                     <bibl>
+                        <author ref="http://viaf.org/viaf/78769600">Cicero</author>
+                        <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi0474.phi055"
+                           >De officiis</title>
+                        <biblScope>1, 50</biblScope>
+                     </bibl>: <quote>Eius (i. e. societatis) autem vinculum est ratio et
+                        oratio.</quote>
+                  </note>
+               </p>
+               
                <p n="2" xml:id="modrusiensis-riario02"> Perdidistis enim, patres amplissimi,
                   praestantissimum collegam uestrum, cuius suauissimam consuetudinem, comitatem,
                   benignitatem, liberalitatemque quotidie experiebamini, cuius ingenii dexteritatem
