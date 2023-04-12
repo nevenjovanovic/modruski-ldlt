@@ -61,7 +61,7 @@
                </p>
                <p>Hic primum libros typis editos, deinde codices manu scriptos breviter
                   designabimus.</p>
-               <div type="subsection" xml:id="preface-subsection-1">
+               <div type="subsection" xml:id="bibliography-early-editions">
                   <head>Libri impressi</head>
                   <p>Numerus post siglum GW notam in collectione <orgName
                         ref="http://www.wikidata.org/entity/Q1421256">Gesamtkatalog der
@@ -154,7 +154,7 @@
                      orationis in funere Petri Riarii apud fratres de Vulterris typis editam esse.
                      <!-- Farenga 1986 Na vezu tiskara i urotnika upozorila je Farenga, n. dj, 214, bilj. 95. --></p>
                </div>
-               <div type="subsection" xml:id="preface-subsection-2">
+               <div type="subsection" xml:id="bibliography-manuscripts">
                   <head>Codices</head>
                   <listWit>
                      <witness xml:id="ve">
@@ -276,29 +276,34 @@
                </interpGrp>
             </div>
          </div>
-         <div type="section" xml:id="bibliography">
+         <div type="section" xml:id="bibliography-secondary-sources">
             <head>Conspectus librorum</head>
-            <!--This is where the bibliography for the edition is listed, including manuscript
-                                        descriptions, and lists of early editions, modern editions, and other sources cited
-                                        in the current edition. For more information on encoding the items in the bibliography
-                                        see "Bibliography" below. -->
-            <p>Mladen Bošnjak, »Dvije značajne hrvatske knjižice«, Hrvatska revija: Jubilarni
-               zbornik 1951–1975, Knjižnica Hrvatske revije, Barcelona, 1976, 590–598</p>
-            <p>Mladen Bošnjak, »Zwei unbekannte Inkunabelausgaben«, Beiträge zur Inkunabelkunde 3
-               (1983), 8, 91–93.</p>
-            <p>Paola Farenga, »’Monumenta memoriae’ – Pietro Riario fra mito e storia«, in Massimo
-               Miglio, Francesca Niutta, Diego Quaglioni, Concetta Ranieri (ed.), Un pontificato ed
-               una città – Sisto IV (1471–1484), Associazione Roma nel Rinascimento, Città del
-               Vaticano, 1986, 179–216.</p>
-            <p>Staatsbibliothek zu Berlin, Gesamtkatalog der Wiegendrucke / Inkunabelsammlung,
-               www.gesamtkatalogderwiegendrucke.de/. In rete accessi 29. Novembris 2019.</p>
-            <p>Neven Jovanović, »Nadgrobni govor Nikole Modruškog za Pietra Riarija« Colloquia
-               Maruliana XXVII (2018), str.~123–141.}</p>
-            <p>Armando Petrucci, »Alcuni codici Corsiniani di mano di Tommaso e Antonio Baldinotti«,
-               Rendiconti dell' Accademia nazionale dei Lincei, classe di scienze morali, storiche e
-               filologiche, serie 8, XI (1956), str.~252–263.</p>
-            <p>Josef Truhlář, Počátky humanismu v Cechách, V Praze: Nákladem České akademie císaře
-               Františka Josefa pro vědy, slovesnost a umění, 1892, p. 507.</p>
+            <listBibl>
+               <bibl xml:id="Bošnjak1976a"><abbr type="siglum">Bošnjak 1976a</abbr><author>Bošnjak,
+                     Mladen</author>. <title level="a">Dvije značajne hrvatske knjižice</title>.
+                  <title level="j">Hrvatska revija: Jubilarni zbornik 1951–1975</title>, <publisher>Knjižnica Hrvatske
+                     revije</publisher>, <pubPlace>Barcelona</pubPlace> (<date>1976</date>):
+                     <biblScope unit="page">590–598</biblScope>.</bibl>
+               <bibl xml:id="Bošnjak1976b"><abbr type="siglum">Bošnjak 1976b</abbr><author>Bošnjak, Mladen</author>. <title level="a">Dvije značajne hrvatske knjižice</title>. <title level="j">Hrvatska revija: Jubilarni
+                  zbornik 1951–1975</title>, <publisher>Knjižnica Hrvatske revije</publisher>, <pubPlace>Barcelona</pubPlace> (<date>1976</date>): <biblScope unit="page">590–598</biblScope>.</bibl>
+               <bibl>Mladen Bošnjak, »Dvije značajne hrvatske knjižice«, Hrvatska revija: Jubilarni
+                  zbornik 1951–1975, Knjižnica Hrvatske revije, Barcelona, 1976, 590–598.</bibl>
+               <bibl xml:id="Bošnjak1983"><abbr type="siglum">Bošnjak 1983</abbr><author>Bošnjak, Mladen</author>. <title level="a">Zwei unbekannte Inkunabelausgaben</title>. <title level="j">Beiträge zur
+                  Inkunabelkunde</title> <biblScope unit="volume">3</biblScope> (<date>1983</date>): <biblScope unit="page">8, 91–93</biblScope>.</bibl>
+               <bibl xml:id="Farenga1986"><abbr type="siglum">Farenga 1986</abbr><author>Farenga, Paola</author>. <title level="a">‘Monumenta memoriae’ – Pietro Riario fra mito e storia</title>. In
+                  <editor>Massimo Miglio et al. (ed.)</editor>, <title level="m">Un
+                     pontificato ed una città – Sisto IV (1471–1484)</title>. <pubPlace>Città del Vaticano</pubPlace>: <publisher>Associazione Roma nel
+                  Rinascimento</publisher> (<date>1986</date>): <biblScope unit="page">179–216</biblScope>.</bibl>
+               <bibl xml:id="Staatsbibliothek"><abbr type="siglum">Gesamtkatalog</abbr><author>Staatsbibliothek zu Berlin</author>. <title level="a">Gesamtkatalog der Wiegendrucke / Inkunabelsammlung</title>,
+                  <ptr target="https://www.gesamtkatalogderwiegendrucke.de/"/>. In rete accessi 29. Novembris 2019.</bibl>
+               <bibl xml:id="Jovanović2018"><abbr type="siglum">Jovanović 2018</abbr><author>Jovanović, Neven</author>. <title level="a">Nadgrobni govor Nikole Modruškog za Pietra Riarija</title>. <title level="j">Colloquia
+                  Maruliana</title> <biblScope unit="volume">XXVII</biblScope> (<date>2018</date>), <biblScope unit="page">str.~123–141</biblScope>.</bibl>
+               <bibl xml:id="Petrucci1956"><abbr type="siglum">Petrucci 1956</abbr><author>Petrucci, Armando</author>. <title level="a">Alcuni codici Corsiniani di mano di Tommaso e Antonio
+                  Baldinotti</title>. <title level="j">Rendiconti dell' Accademia nazionale dei Lincei, classe di scienze
+                  morali, storiche e filologiche</title> <biblScope unit="volume">serie 8, XI</biblScope> (<date>1956</date>), <biblScope unit="page">str.~252–263</biblScope>.</bibl>
+               <bibl xml:id="Truhlář1982"><author>Truhlář, Josef</author>. <title level="m">Počátky humanismu v Cechách</title>. <pubPlace>V Praze</pubPlace>: <publisher>Nákladem České akademie
+                  císaře Františka Josefa pro vědy, slovesnost a umění</publisher>. <date>1892</date>. <biblScope unit="page">p. 507</biblScope>.</bibl>
+            </listBibl>
          </div>
       </front>
       <body n="body1">
